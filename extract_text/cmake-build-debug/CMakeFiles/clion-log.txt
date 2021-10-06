@@ -1,0 +1,4 @@
+/snap/clion/164/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/karen/master/tess_c++_api_examples/extract_text
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/karen/master/tess_c++_api_examples/extract_text/cmake-build-debug

@@ -1,0 +1,116 @@
+/home/karen/master/tess_c++_api_examples/extract_text/images/9.jpg: ելեմտից դատողություն ենթավարելաշերտ դաբադիչ զանգվածք,
+/home/karen/master/tess_c++_api_examples/extract_text/images/0.jpg: բազմահամ բազմահեղց եղննահունդ դանդաղեցվել դատարկ նստել
+/home/karen/master/tess_c++_api_examples/extract_text/images/37.jpg: Աբոն դանատուտճգանոթյն բազմասարաբկեզանտ:
+/home/karen/master/tess_c++_api_examples/extract_text/images/29.jpg: դա գավազանահարում ադամամութ էլեկտրամեքենայացում եզրակոսում
+/home/karen/master/tess_c++_api_examples/extract_text/images/57.jpg: եզրակար գանչել ազուցահանել էնքան զգացվել
+/home/karen/master/tess_c++_api_examples/extract_text/images/74.jpg: զարկիչ դասական դաշունաձն գանգրություն զգայագիրկ
+/home/karen/master/tess_c++_api_examples/extract_text/images/31.jpg: էրնվել զենդերեն եղինջազգի զանգակատուն էլեկտրակթիչ
+/home/karen/master/tess_c++_api_examples/extract_text/images/14.jpg: էվենական բազմահերթ ադամական զինակցական գայլաձուկ
+/home/karen/master/tess_c++_api_examples/extract_text/images/21.jpg: բազմաճաճանչրնում գալարաթն Էվակուացիա ելնճտից
+/home/karen/master/tess_c++_api_examples/extract_text/images/34.jpg: եզականություն գարեհատիկ բաժակալ դաշնապատկեր բազմալիք
+/home/karen/master/tess_c++_api_examples/extract_text/images/59.jpg: զգուշացնել զգեստափոխել դատական պրոցես էլի որ ալոճենի
+/home/karen/master/tess_c++_api_examples/extract_text/images/78.jpg: գարնանագործ դատապարտել եղիրճ էլած-չելած էկզարխություն
+/home/karen/master/tess_c++_api_examples/extract_text/images/79.jpg: զարթեցնել բազմորակ զարզանդը գալ ազգատվել զանազանում
+/home/karen/master/tess_c++_api_examples/extract_text/images/49.jpg: ալրակրպակ բազմաստեղյան ալնորուկ եղնջապուր բազմապտղաբերություն
+/home/karen/master/tess_c++_api_examples/extract_text/images/41.jpg: զենուցենք ագրոմինիմում գազախ գազանցիկ դատասթան: կտրել:
+/home/karen/master/tess_c++_api_examples/extract_text/images/27.jpg: ելման զատ չլինել զգածելալթայցիներ ազբոցեմենտ
+/home/karen/master/tess_c++_api_examples/extract_text/images/63.jpg: ալիքաչափիչ զառանց դանակիչտակ ընկնել զգեստափոխ ալրմաղի
+/home/karen/master/tess_c++_api_examples/extract_text/images/3.jpg: այոճաթիթեռ աբեղայակերպ զենք բարձրացնել զերծ պահել դաբաղվել:
+/home/karen/master/tess_c++_api_examples/extract_text/images/99.jpg: բազմաձի զարկ հասցնել գազանանոց էքստազ էլեքսիր
+/home/karen/master/tess_c++_api_examples/extract_text/images/53.jpg: ենթաբուն գայթակղանք եղեմնածին եղտյուր:էջահամար
+/home/karen/master/tess_c++_api_examples/extract_text/images/85.jpg: բազմակնություն զարթեցում ազբեստացեմենտ զանդիկ լեզու զամպուր
+/home/karen/master/tess_c++_api_examples/extract_text/images/17.jpg: զեկուցողչելուզել զատկի բլոճ դատավոր դուրս գալ գայլիկոնիչ
+/home/karen/master/tess_c++_api_examples/extract_text/images/36.jpg: գաջե զատիչ-անդրադարձիկ դալկանուշ դալալ գավարս
+/home/karen/master/tess_c++_api_examples/extract_text/images/61.jpg: գավառասիրական էլեկտրամեքենայացում եղեբորոս էլեկտրափականագործական զեխություն
+/home/karen/master/tess_c++_api_examples/extract_text/images/80.jpg: էշ կերել է էշ մեծացել եղրի աթոռագործ դարակերտ եթովպացերեն
+/home/karen/master/tess_c++_api_examples/extract_text/images/75.jpg: բազեմարզություն դաշնօրոր ազգամերժ եղերդ ալպինիստական
+/home/karen/master/tess_c++_api_examples/extract_text/images/24.jpg: դետանմանարանՅաւմամոլ նիմախեկեղեցանանապնվամորը
+/home/karen/master/tess_c++_api_examples/extract_text/images/33.jpg: դատարկաշրջություն դահացնել զազրաբար ալրատուն բազմաբեմ
+/home/karen/master/tess_c++_api_examples/extract_text/images/52.jpg: դաշնաձայնչբազմախորտիկ դաշտանիստ զանազանակերպվել էպիզոդ
+/home/karen/master/tess_c++_api_examples/extract_text/images/35.jpg: զգաստասեր զգոնանալ գազազածություն էթնոս էքս
+/home/karen/master/tess_c++_api_examples/extract_text/images/87.jpg: Էակական դավանամոլ եզեապտուղ ազդագիր դաղդղոտվել
+/home/karen/master/tess_c++_api_examples/extract_text/images/70.jpg: զատանալ էպիդեմիա զազրական բազմաճոխ զբոսաշրջիկ
+/home/karen/master/tess_c++_api_examples/extract_text/images/89.jpg: գազաբաշխվելեթովպացերեն գմղափարւնգիր:ալյուրուղել բազմօղակավոր
+/home/karen/master/tess_c++_api_examples/extract_text/images/91.jpg: գալվանակիգում բազմահերթյան դաստամազ բազմաշարժություն բազմաննչուն
+/home/karen/master/tess_c++_api_examples/extract_text/images/39.jpg: գալարակծկում էջագիծ գառնանգղ էակաբանություն Էշի Շարսանիք
+/home/karen/master/tess_c++_api_examples/extract_text/images/47.jpg: եգիպտահայ ազգապետ դանակը բկին դեմ անել էԷպոսագիւտություն աբասի
+/home/karen/master/tess_c++_api_examples/extract_text/images/82.jpg: զատապսակաթերթչաբապի աչրատուն գալվանապատելզառատիկ
+/home/karen/master/tess_c++_api_examples/extract_text/images/97.jpg: ազգաշեն եզերատնկել էչեկտրացույց եղի անել ենթաշրջանակ
+/home/karen/master/tess_c++_api_examples/extract_text/images/55.jpg: զազանակչացբազկապանակ բազմաբյուրեղ գալարաբույմ դամբանային
+/home/karen/master/tess_c++_api_examples/extract_text/images/54.jpg: զիզզագներ գծել բազմաթերթություն դավանափոխ գաղթարան էլեկտրաքիմիա
+/home/karen/master/tess_c++_api_examples/extract_text/images/5.jpg: էթնոլոգ էլեկտրալամպագործություն ադդի էլ մի խոսիր էլ խոսում ես էլեկտրասայլակ
+/home/karen/master/tess_c++_api_examples/extract_text/images/4.jpg: եղավ-պրծավ բազալտ զարդային զեհավորել բազմազգ
+/home/karen/master/tess_c++_api_examples/extract_text/images/95.jpg: բաժակափոր գահաժառանգ աթոռազուրկ եղծանելի բազմանշանակորեն
+/home/karen/master/tess_c++_api_examples/extract_text/images/86.jpg: դառնահոտ դաշտամիջյան բազմամանուկ գգաստասիրություն դասական
+/home/karen/master/tess_c++_api_examples/extract_text/images/28.jpg: ենթաբաժին դատապաշտպանական գաղթաշենք եղջերաքար եղծանել
+/home/karen/master/tess_c++_api_examples/extract_text/images/45.jpg: բազմացավ ազդալապտեր զարբաբ եղեգնավել զանազանական:
+/home/karen/master/tess_c++_api_examples/extract_text/images/68.jpg: գառնակերպ դաս առնել գայթակղեցնել ադամանդյա ադրբեջանցիներ
+/home/karen/master/tess_c++_api_examples/extract_text/images/32.jpg: դաշնադրություն կռել գաղութաբնիկ եղնածաղիկ ալկոհոլ գազախցիկավոր
+/home/karen/master/tess_c++_api_examples/extract_text/images/88.jpg: բաժնային բազմակորպուս ալեվարս զգաստություն եղկելի
+/home/karen/master/tess_c++_api_examples/extract_text/images/50.jpg: զիլ աերոդպրոց եզը ենթաշրջանակ գադոնք
+/home/karen/master/tess_c++_api_examples/extract_text/images/69.jpg: եղեկաքար ագրոմինիմում ենթակայություն էլեկտրասալ բազկակից
+/home/karen/master/tess_c++_api_examples/extract_text/images/65.jpg: զգայաբանականչարաժատեր է չեկտրավահան բազմոտն գայյասոխ:
+/home/karen/master/tess_c++_api_examples/extract_text/images/56.jpg: էվակուացնել ագրոժամկետ դառնառոս գանգրաթով եղրիզենի
+/home/karen/master/tess_c++_api_examples/extract_text/images/18.jpg: զգացմունքայնություն էտենց բազմանդամ ենթագետնյա զգայազրկել
+/home/karen/master/tess_c++_api_examples/extract_text/images/20.jpg: բազմամարտիկ եգիպտացորենաբուծական գահավիժորեն գալանտերիա էպոսագետ
+/home/karen/master/tess_c++_api_examples/extract_text/images/73.jpg: ալթայցիներ էսկալատոր զանգիտություն ազդվողություն զինակիր
+/home/karen/master/tess_c++_api_examples/extract_text/images/2.jpg: գազոնապատ զարդադաջվել զայրալի գաղտնի էդպիսով
+/home/karen/master/tess_c++_api_examples/extract_text/images/6.jpg: դանդաղերթ զգայազրկվել բազմահերթությրւն բազմահնչուն գավառագիտություն
+/home/karen/master/tess_c++_api_examples/extract_text/images/51.jpg: ազոյան զառիկագարություն գալարում զգեստակալչեղերազավեշտ:
+/home/karen/master/tess_c++_api_examples/extract_text/images/90.jpg: բազմաճամադրում աժան էմալապատ զառիկախիճ գանգակարան
+/home/karen/master/tess_c++_api_examples/extract_text/images/11.jpg: զառիկող էստաֆետա դատավոր դուրս գալ էլեկտրալուսանկարչություն գարնանաբույս
+/home/karen/master/tess_c++_api_examples/extract_text/images/13.jpg: /home/karen/master/tess_c++_api_examples/extract_text/images/77.jpg: գազայրոց դասակարգում դանակի քաշել գայլակերպ ագարիկոն
+/home/karen/master/tess_c++_api_examples/extract_text/images/26.jpg: գանահարել բազմաձիգ ելքումուտք էլեկտրափականագործական գալացու
+/home/karen/master/tess_c++_api_examples/extract_text/images/30.jpg: ԳրոնաելնույաշԷլեկարամեքենաինարար դաշնակցության պինիւտականչայբախեւրդ
+/home/karen/master/tess_c++_api_examples/extract_text/images/42.jpg: ագահատենչ ազգահավաք էսինչ էգուց մեկել օրը եղերափայլ
+/home/karen/master/tess_c++_api_examples/extract_text/images/94.jpg: զահմռել գաղափարագրական բազմաժիր զայրութքզեղծանել
+/home/karen/master/tess_c++_api_examples/extract_text/images/44.jpg: էկրան հանել էլեկտրամխում բազմատարազ բազմատարր զանդիկ
+/home/karen/master/tess_c++_api_examples/extract_text/images/8.jpg: գազաբալոնային ազնվականական գայլավարի բազմակենցաղ բազմախումբ
+/home/karen/master/tess_c++_api_examples/extract_text/images/98.jpg: զանգերգ ալեհերձակչգամմա ադ աբեղա
+/home/karen/master/tess_c++_api_examples/extract_text/images/19.jpg: եզնասայլ դաշտանկար գազամուղային ազգացեղային դառնության բաժակ
+/home/karen/master/tess_c++_api_examples/extract_text/images/40.jpg: էլիմ զազրելի դայլայլումճ աթաբեկ գաղտձուղի
+/home/karen/master/tess_c++_api_examples/extract_text/images/12.jpg: բազմատրտում զանց գաղափարել էլեկտրաբեր էն էլչոնց
+/home/karen/master/tess_c++_api_examples/extract_text/images/81.jpg: զարդագիծ գամաքանդել եղննածառ ախոնդ բազմագլխի
+/home/karen/master/tess_c++_api_examples/extract_text/images/7.jpg: էժան զանցառության տալ էնդօշպիլ բազմամարտիկ ազատուկ
+/home/karen/master/tess_c++_api_examples/extract_text/images/1.jpg: զագս գցել զինակրություն գարգաչանք գաղտնապառություն բազկաթնանի
+/home/karen/master/tess_c++_api_examples/extract_text/images/58.jpg: /home/karen/master/tess_c++_api_examples/extract_text/images/38.jpg: գալյորկա գահակորույս գալ ազգագիտական ազատասպան
+/home/karen/master/tess_c++_api_examples/extract_text/images/67.jpg: գահից գցելչալեծփում զերծ ազգընտիր էտալոն
+/home/karen/master/tess_c++_api_examples/extract_text/images/23.jpg: Էսօր եղջուրիկ ալմանախային զանգվածեղություն բազմակետ:
+/home/karen/master/tess_c++_api_examples/extract_text/images/22.jpg: էտան գալարաղիք գագաուզներ եղենաընկույզ դահճապետ
+/home/karen/master/tess_c++_api_examples/extract_text/images/76.jpg: գանգատալից բազմամարդացնել գայթակղալից բազմամետր էրոս
+/home/karen/master/tess_c++_api_examples/extract_text/images/83.jpg: ալրաման ազգ ելանյութ դալարազվարճ էլեկտրահալոց
+/home/karen/master/tess_c++_api_examples/extract_text/images/15.jpg: ենթակզակ ալեբախում ելուզակություն բազմամեղություն ազնվապետ
+/home/karen/master/tess_c++_api_examples/extract_text/images/46.jpg: զարմանաճար եղծանելիություն եզրակվել ելեմտից դատակռչել
+/home/karen/master/tess_c++_api_examples/extract_text/images/66.jpg: ՀՈՒ ՑՈՒՅ ՅՈ ՀԱՅԱՑ ԹՈՒ ՑԱՏ ԱԱՅՅՅ ՐԱԿ Ց ԱՅ ՅՅՅ Է.
+/home/karen/master/tess_c++_api_examples/extract_text/images/25.jpg: զամբախ ադիղեներ զամբակ գառագեղ ազդարար
+/home/karen/master/tess_c++_api_examples/extract_text/images/71.jpg: եղնիկ բազմածորակ զաձգում եղունեկ էլեկտրակիզիչ
+/home/karen/master/tess_c++_api_examples/extract_text/images/60.jpg: զառիվեր եգիպտացորենագործ եղջյուր ոնչեցնել զափթիե դալարուն:
+/home/karen/master/tess_c++_api_examples/extract_text/images/84.jpg: եղերդ: դատասրահ բազման բազմախոս աերոմտատ
+/home/karen/master/tess_c++_api_examples/extract_text/images/62.jpg: զրխկ դանակ քաշել զգոնանալ զգենալ զազրակեր
+/home/karen/master/tess_c++_api_examples/extract_text/images/72.jpg: գանգ գահ բարձրանալ դաշտավարություն գաղտնասեր դաշտանային
+/home/karen/master/tess_c++_api_examples/extract_text/images/10.jpg: բազմափարթամ գավազանահարվել գանձատեր ալեհոսել գանգստերային
+/home/karen/master/tess_c++_api_examples/extract_text/images/92.jpg: զեղություն Էաբան Էծ էլեկտրաստատիկա զանգամիջյան
+/home/karen/master/tess_c++_api_examples/extract_text/images/96.jpg: Էյ գիդի զգուշանալ ենթաիմաստավորում էսկորտ բազմազգային
+/home/karen/master/tess_c++_api_examples/extract_text/images/16.jpg: գազանաշատ դատարկամոլություն բաժանասեռ էյ գիտի ագրոքիմիական
+/home/karen/master/tess_c++_api_examples/extract_text/images/48.jpg: գավազանառարություն գանձճագողություն դամբանատուն ենթառողային էլեկտրամալուխ
+/home/karen/master/tess_c++_api_examples/extract_text/images/93.jpg: էվակուացվել ենթախումբ դաշնորեն դանդաղեցում էստաֆետն փոխանցել
+/home/karen/master/tess_c++_api_examples/extract_text/images/43.jpg: ն
+ասու
+տարկ
+
+ք դա
+
+ն էնթրի
+
+ա
+
+ն զգայախաբակ
+
+թյու
+
+նատու
+
+շտա
+
+ագեկալ դա,
+/home/karen/master/tess_c++_api_examples/extract_text/images/64.jpg: ազծվատեսք գալվաձազօծում եղեգնակազմ զազրաճայձ զատկաշաբաթ

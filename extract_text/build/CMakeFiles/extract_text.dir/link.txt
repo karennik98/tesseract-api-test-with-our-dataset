@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/extract_text.dir/main.cpp.o  -o extract_text  -Wl,-rpath,/usr/local/lib -lstdc++fs -lpthread -lcurl -ltesseract -lpthread -lcurl -llept /usr/local/lib/liblept.so.5 -ltesseract -lpthread -lcurl -llept /usr/local/lib/liblept.so.5 
