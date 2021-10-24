@@ -1,0 +1,13 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerif-BoldItalic/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerif-BoldItalic/5.txt
+ocr out:   դաշնակները ԱՇԽԱՏԱԾԱՎԱԼ Թ /Գ զմայլելի կհաղթի`
+text out:  դաշնակները ԱՇԽԱՏԱԾԱՎԱԼ Թ/Գ զմայլելի կհաղթի`
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerif-BoldItalic/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerif-BoldItalic/7.txt
+ocr out:   մատնուած դեբետում` ԾԵԿԻ ԿԱԽՎԱԾՈՒԹՅՈՒՆ ԵՎՐԱՍԻԱՅԻ
+text out:  մատնուած դեբետում` ԾՆԿԻ ԿԱԽՎԱԾՈՒԹՅՈՒՆ ԵՎՐԱՍԻԱՅԻ
+
+number of all files: 10
+number of fails:     2
+fails percent:       20%

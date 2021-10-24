@@ -1,0 +1,33 @@
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans/1.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans/1.txt
+ocr out:   ճառագայթվում թեւակոխել ծնվածի առօրյան` ԵՐԵՍՍ:
+text out:  ճառագայթվում թեւակոխել ծնվածի առօրյան` ԵՐԵՍՍ
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans/3.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans/3.txt
+ocr out:   ԱՆՀԱՎԱ նախանձախնդիր երշիկովա բաժնետերերին ԼՐԱՏՎԱՄԻՋՈՑՆԵՐԸ:
+text out:  ԱՆՀԱՎԱ նախանձախնդիր երշիկովա բաժնետերերին ԼՐԱՏՎԱՄԻՋՈՑՆԵՐԸ
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans/4.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans/4.txt
+ocr out:   ՀԱՐՑՎՈՂԻ:ԱՏՈՄՆԵՐՆ ԳԻՒՏ լարվեց բուհում
+text out:  ՀԱՐՑՎՈՂԻ ԱՏՈՄՆԵՐՆ ԳԻՒՏ լարվեց բուհում
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans/5.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans/5.txt
+ocr out:   Վարդաշենում:էկան լաքած պառակտել Ֆրանսացի
+text out:  Վարդաշենում էկան լաքած պառակտել Ֆրանսացի
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans/6.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans/6.txt
+ocr out:   բարձրաճաշակ բանաստեղծությանը հիշվել ՌԱԶՄԻԿՆԵՐԻՆ:Վիքիպեդիա:Վիքին
+text out:  բարձրաճաշակ բանաստեղծությանը հիշվել ՌԱԶՄԻԿՆԵՐԻՆ Վիքիպեդիա:Վիքին
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans/7.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans/7.txt
+ocr out:   կոչում` ՊԱՏԳԱՄԱՎՈՐՆԵՐԻՆ Բեխտերեւի ԸՆՏԲՈՒԹՅՈՒՆԸ:ԲԱԳՄԱՆՅԱՆԻՆ
+text out:  կոչում` ՊԱՏԳԱՄԱՎՈՐՆԵՐԻՆ Բեխտերեւի ԸՆՏՐՈՒԹՅՈՒՆԸ ԲԱՂՄԱՆՅԱՆԻՆ
+
+number of all files: 10
+number of fails:     6
+fails percent:       60%

@@ -1,0 +1,13 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSerif.otf/1.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSerif.otf/1.txt
+ocr out:   նորություններից կլարնետ օգտագոր ԿԱՐԱ-ՄՈՒՐԶԱՅԻ նրբ..տուն
+text out:  նորություններից կլարնետ օգտագոր ԿԱՐԱ-ՄՈՒՐԶԱՅԻ նրբ.,տուն
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSerif.otf/3.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSerif.otf/3.txt
+ocr out:   ՀԱՅՏԱՐԱՐՈՒԹՅԱՄԲ ԹՈՂԱՐԿՄԱՄԲ հովհաննես թիո ՀԱՆՈՒՄԸ
+text out:  ՀԱՅՏԱՐԱՐՈՒԹՅԱՄԲ ԹՈՂԱՐԿՄԱՄԲ հովհաննես թիռ ՀԱՆՈՒՄԸ
+
+number of all files: 10
+number of fails:     2
+fails percent:       20%

@@ -1,0 +1,33 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/0.txt
+ocr out:   Ջմռանը ՓՈԽՆԵՐԳՈՐԾՈՒԹՅԱՆ Վաճառականները կիսաթափանցիկ ԸՇԵՌԱՑՐՈՒ
+text out:  Ձմռանը ՓՈԽՆԵՐԳՈՐԾՈՒԹՅԱՆ Վաճառականները կիսաթափանցիկ ՀԵՌԱՑՐՈՒ
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/1.txt
+ocr out:   Սոթք երիվարի ՇԱՄԱԽՄԲՄԱՆ եղանակներն Ջողերնժապավեններ
+text out:  Սոթք երիվարի ՀԱՄԱԽՄԲՄԱՆ եղանակներ` Ձողեր/ժապավեններ
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/3.txt
+ocr out:   վերառսկողութ ԳՈՂՈՆԸ Իրօք Խառնուրդ վանիլային
+text out:  վերահսկողութ ԳՈՂՈՆԸ Իրօք Խառնուրդ վանիլային
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/5.txt
+ocr out:   Ծնկի ՔԱՄԻՆԵՐԸ ուժերին ԳԵԴԱԿԻՑ Շեղում
+text out:  Ծնկի ՔԱՄԻՆԵՐԸ ուժերի` ԳՆԴԱԿԻՑ Շեղում
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/7.txt
+ocr out:   գործատուին ԿՄ-ԻՆ զնծ ՍՈՒՆԻԱԿԱՆ ԲԱՆՆԵՐ
+text out:  գործատուին ԿՄ-ԻՆ զ/ծ ՍՈՒՆԻԱԿԱՆ ԲԱՆՆԵՐ
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/8.txt
+ocr out:   ամրապնդեց ՌՈ գլխներիս ՇՐՋԱԳԱՅՈՒԹՅԱՆ սառմանադրութեան
+text out:  ամրապնդեց ՌՈ գլխներիս ՇՐՋԱԳԱՅՈՒԹՅԱՆ սահմանադրութեան
+
+number of all files: 10
+number of fails:     6
+fails percent:       60%

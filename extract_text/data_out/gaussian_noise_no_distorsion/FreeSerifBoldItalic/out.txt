@@ -1,0 +1,23 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic/2.txt
+ocr out:   ԶԲԱՂՎԱԾՈՒԹՅՈՒՆԸ Գնի'ր մտրակը Արեւելքին հանցավորն
+text out:  ԶԲԱՂՎԱԾՈՒԹՅՈՒՆԸ Գնի՛ր մտրակը Արեւելքին հանցավորն
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic/6.txt
+ocr out:   ժամ ՊԱՅՔԱՐԸ կըկնապատիկի Չերչիլ Եպիսկոպոս
+text out:  ժամ ՊԱՅՔԱՐԸ կրկնապատիկի Չերչիլ Եպիսկոպոս
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic/8.txt
+ocr out:   ԸՆԴԱՐՁԱԿՄԱՆ ՉԱՓԱՔԱՆԱԿՈՎ աջակցության Բենդերը ԱՑՆԵԼ
+text out:  ԸՆԴԱՐՁԱԿՄԱՆ ՉԱՓԱՔԱՆԱԿՈՎ աջակցության Բենդերը ԱՑՆ|ԵԼ
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic/9.txt
+ocr out:   ԱՐԵՅԱՆԻ ք-ից դեգրադացիա Սեղան՝ Գաղտնաբառ`
+text out:  ԱՐԵՅԱՆԻ ք-ից դեգրադացիա Սեղան` Գաղտնաբառ`
+
+number of all files: 10
+number of fails:     4
+fails percent:       40%

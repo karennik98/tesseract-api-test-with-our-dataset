@@ -1,0 +1,38 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-SemiBold/1.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-SemiBold/1.txt
+ocr out:   Խոսքի ճանգստացրեց ՍՐԱՑՈՒՄՆԵՐՈՎ Բողոքականների ճեղուկացման
+text out:  Խոսքի հանգստացրեց ՍՐԱՑՈՒՄՆԵՐՈՎ Բողոքականների հեղուկացման
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-SemiBold/3.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-SemiBold/3.txt
+ocr out:   գործազրկությունը չորությունը դատապարտյալի առանձնացրեք ԱՋԱՏԵԼԻՍ
+text out:  գործազրկությունը չորությունը դատապարտյալի առանձնացրեք ԱԶԱՏԵԼԻՍ
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-SemiBold/4.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-SemiBold/4.txt
+ocr out:   ԿՆԱԽԸՆՏՐԵՆ ԴԵՍՊԱՆ ՊՈՋԻՏՐՈՆ շիթերի ՏՈՐՔԸ
+text out:  ԿՆԱԽԸՆՏՐԵՆ ԴԵՍՊԱՆ ՊՈԶԻՏՐՈՆ շիթերի ՏՈՐՔԸ
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-SemiBold/5.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-SemiBold/5.txt
+ocr out:   սայլերով Վերսալյան բառճիկներ ՄՈՒՍՏԱՖԱ ճորդորին
+text out:  սայլերով Վերսալյան բահիկներ ՄՈՒՍՏԱՖԱ հորդորին
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-SemiBold/6.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-SemiBold/6.txt
+ocr out:   Անկախության Շարմար վարձելով ՎԵՐՑՆԵՆՔ ԷՄԼԻՆ
+text out:  Անկախության Հարմար վարձելով ՎԵՐՑՆԵՆՔ ԷՄԼԻՆ
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-SemiBold/7.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-SemiBold/7.txt
+ocr out:   ցավերի տախտակով առեւտրակա ԸՇԵՆԱԿԵՏԱՅԻՆ Այդինյան
+text out:  ցավերի տախտակով առեւտրակա ՀԵՆԱԿԵՏԱՅԻՆ Այդինյան
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-SemiBold/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-SemiBold/9.txt
+ocr out:   Արգենտինայից խոճանոցում ալներ խցանները Արաբկիրից
+text out:  Արգենտինայից խոհանոցում ալներ խցանները Արաբկիրից
+
+number of all files: 10
+number of fails:     7
+fails percent:       70%

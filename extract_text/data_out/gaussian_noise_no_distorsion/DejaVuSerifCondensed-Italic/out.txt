@@ -1,0 +1,8 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Italic/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Italic/5.txt
+ocr out:   Կորղոբա ՄԵԾԱԳ Վիլյամ զառիվեր քուռակը
+text out:  Կորդոբա ՄԵԾԱԳ Վիլյամ զառիվեր քուռակը
+
+number of all files: 10
+number of fails:     1
+fails percent:       10%

@@ -1,0 +1,23 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBold.otf/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBold.otf/2.txt
+ocr out:   Ֆարմ Ճեմարաններ Առարկության աղբարկղ Տասներեք
+text out:  Ֆարմ ճեմարաններ Առարկության աղբարկղ Տասներեք
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBold.otf/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBold.otf/3.txt
+ocr out:   ԻՐԱՎԱՍՈՒԹՅՈՒՆԻՑ Ճոճաթոռ ծեծողներ գոռացող նամե
+text out:  ԻՐԱՎԱՍՈՒԹՅՈՒՆԻՑ ճոճաթոռ ծեծողներ գոռացող նամե
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBold.otf/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBold.otf/6.txt
+ocr out:   համաճարակների ղաքակրթության Հեգեփ էսթետիկ Օնլայն
+text out:  համաճարակների ղաքակրթության Հեգեփ Էսթետիկ Օնլայն
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBold.otf/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBold.otf/7.txt
+ocr out:   ԱՐՍԵՆՅԱՆԻՆ ճՃնշումից սիրահարը սկլերոզ ԱՆՕՐԻՆԱԿԱՆՈՐԵՆ
+text out:  ԱՐՍԵՆՅԱՆԻՆ ճնշումից սիրահարը սկլերոզ ԱՆՕՐԻՆԱԿԱՆՈՐԵՆ
+
+number of all files: 10
+number of fails:     4
+fails percent:       40%

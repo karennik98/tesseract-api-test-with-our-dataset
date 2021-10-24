@@ -1,0 +1,8 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Bold/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Bold/3.txt
+ocr out:   փնտրումը կտրատվում ՕՐԵՐԸ՝ պաշտոնները Ուսուցումների
+text out:  փնտրումը կտրատվում ՕՐԵՐԸ` պաշտոնները Ուսուցումների
+
+number of all files: 10
+number of fails:     1
+fails percent:       10%

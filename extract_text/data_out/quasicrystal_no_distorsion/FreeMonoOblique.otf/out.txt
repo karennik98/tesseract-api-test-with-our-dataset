@@ -1,0 +1,15 @@
+jpg file:  ../data/quasicrystal_no_distorsion/FreeMonoOblique.otf/0.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeMonoOblique.otf/0.txt
+ocr out:   ՊԼԱՏՈՆԱԿԱՆ: ՆԵՐԿԱՅԱՑՈՒ ՊԱՏԱՌԻԿՆԵՐ: ՄԱԿԱՐԴԱԿԻ՝ ԵԶԴԻՆԵՐԻ
+text out:  ՊԼԱՏՈՆԱԿԱՆ ՆԵՐԿԱՅԱՑՈՒ ՊԱՏԱՌԻԿՆԵՐ ՄԱԿԱՐԴԱԿԻ` ԵԶԴԻՆԵՐԻ
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeMonoOblique.otf/1.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeMonoOblique.otf/1.txt
+ocr out:   երանգային Տեն: ԳՈՐԾՈՆԱՅԻՆ ծախսեն: Պետերսոնի
+text out:  երանգային Տեն ԳՈՐԾՈՆԱՅԻՆ ծախսեն Պետերսոնի
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeMonoOblique.otf/2.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeMonoOblique.otf/2.txt
+ocr out:   ԿԵՆՍԱԳՐՈՒԹՅԱՆԸ Գեհենի ՊԵՊԵԼՅԱՆԻ ՊԱՀԱԾ կողմնորոցելու
+text out:  ԿԵՆՍԱԳՐՈՒԹՅԱՆԸ Գեհենի ՊԵՊԵԼՅԱՆԻ ՊԱՀԱԾ կողմնորոշելու
+

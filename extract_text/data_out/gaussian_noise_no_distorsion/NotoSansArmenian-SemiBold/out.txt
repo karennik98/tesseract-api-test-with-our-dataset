@@ -1,0 +1,38 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-SemiBold/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-SemiBold/1.txt
+ocr out:   Բուլվարային վավերացնի սիրիառճայերին Արռմիությունը ներկայանալի
+text out:  Բուլվարային վավերացնի սիրիահայերին Արհմիությունը ներկայանալի
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-SemiBold/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-SemiBold/2.txt
+ocr out:   Շարցազրուլյցըն թղթակիցը ՆԵՂԱՆԱԼ ընկույզն Էրիկսենի
+text out:  Հարցազրույցը` թղթակիցը ՆԵՂԱՆԱԼ ընկույզն Էրիկսենի
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-SemiBold/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-SemiBold/3.txt
+ocr out:   ԶՐԱՇԱՄԵՔԵՆԱՆԵՐ կոմսուճի բարում Բլոկներ յնքա
+text out:  ԶՐԱՀԱՄԵՔԵՆԱՆԵՐ կոմսուհի բարում Բլոկներ յնքա
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-SemiBold/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-SemiBold/4.txt
+ocr out:   ԾԱՌԱՅԻ Վիրաճատությունն դասագրքեր անռճամարճակ ծաղկեփունջն
+text out:  ԾԱՌԱՅԻ Վիրահատությունն դասագրքեր անհամարձակ ծաղկեփունջն
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-SemiBold/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-SemiBold/5.txt
+ocr out:   տրանզիտ ԼԵՌԵԱՇԱՅԱՍՏԱՆԻ ՇԱՌԼ ձել Սնեկի
+text out:  տրանզիտ ԼԵՌՆԱՀԱՅԱՍՏԱՆԻ ՇԱՌԼ ծել Սնկի
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-SemiBold/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-SemiBold/7.txt
+ocr out:   ՄԼ օկուպացիայի ԴՈՒՔ բաղաճայնից ախտառարող
+text out:  ՄԼ օկուպացիայի ԴՈՒՔ բաղաձայնից ախտահարող
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-SemiBold/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-SemiBold/9.txt
+ocr out:   ԵՐԿ-ՇԱԲ ընդա նպատակառարմար ԹՈՒՅԼՏՎՈՒԹՅՈՒՆ ճայ-արաբական
+text out:  ԵՐԿ-ՇԱԲ ընդա նպատակահարմար ԹՈՒՅԼՏՎՈՒԹՅՈՒՆ հայ-արաբական
+
+number of all files: 10
+number of fails:     7
+fails percent:       70%

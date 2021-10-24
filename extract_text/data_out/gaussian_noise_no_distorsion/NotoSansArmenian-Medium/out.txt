@@ -1,0 +1,43 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Medium/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Medium/0.txt
+ocr out:   Պոլ ճրաժարման ԸՇԱՐԹԱԿԸ ՊՈՒՏԻՆԻ կնկատենք
+text out:  Պոլ հրաժարման ՀԱՐԹԱԿԸ ՊՈՒՏԻՆԻ կնկատենք
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Medium/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Medium/1.txt
+ocr out:   երկրամասերի ՇԱՎԱՔ կարծիք ՍԱԸՄ Կարիգիանիս
+text out:  երկրամասերի ՀԱՎԱՔ կարծիք ՍԱՀՄ Կարիգիանիս
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Medium/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Medium/2.txt
+ocr out:   անճիշտ ԱՐԳԵՆՏԻՆԱՆ Ըրատարակած րոջ ազատազրկմամբն
+text out:  անճիշտ ԱՐԳԵՆՏԻՆԱՆ Հրատարակած րոջ ազատազրկմամբ`
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Medium/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Medium/3.txt
+ocr out:   Մեզի ՓԱՓԿԱՑՆՈՒՄ դասարաններով ՇԱՎԱՔԱԿԱՆՆԵՐԻ ճույսերս
+text out:  Մեզի ՓԱՓԿԱՑՆՈՒՄ դասարաններով ՀԱՎԱՔԱԿԱՆՆԵՐԻ հույսերս
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Medium/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Medium/4.txt
+ocr out:   Ծեծ ՐԵՆԸ ճամերգներից ՊԱՅՔԱՐԵՆՔ ինսթագրամի
+text out:  Ծեծ ՐԵՆԸ համերգներից ՊԱՅՔԱՐԵՆՔ ինսթագրամի
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Medium/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Medium/6.txt
+ocr out:   ճատուածների մկաններից Ջու արտոնագրեր ԹԽՎԱԾՔՆԵՐ
+text out:  հատուածների մկաններից Ձու արտոնագրեր ԹԽՎԱԾՔՆԵՐ
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Medium/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Medium/7.txt
+ocr out:   ԱՐՏԱՃԱՆԱՊԱՐԸԱՅԻՆ Ամիրջանյան փոխանցենք եթերից Բանասիրություն
+text out:  ԱՐՏԱՃԱՆԱՊԱՐՀԱՅԻՆ Ամիրջանյան փոխանցենք եթերից Բանասիրություն
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Medium/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Medium/8.txt
+ocr out:   ԲՈՐՏՈԼԻԻ ԺԱՄԱՆԱԿԱԸՇԱՏՎԱԾԸ ԱՐՏԱՍԱԸՄԱՆՈՒՄ սանտիմետրով ԿԵՆՏՐՈՆԱ
+text out:  ԲՈՐՏՈԼԻԻ ԺԱՄԱՆԱԿԱՀԱՏՎԱԾԸ ԱՐՏԱՍԱՀՄԱՆՈՒՄ սանտիմետրով ԿԵՆՏՐՈՆԱ
+
+number of all files: 10
+number of fails:     8
+fails percent:       80%

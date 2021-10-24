@@ -1,0 +1,18 @@
+jpg file:  ../data/plain_white_no_distorsion/FreeSans/1.jpg
+text file: ../data/plain_white_no_distorsion/FreeSans/1.txt
+ocr out:   Վիշնեվսկու ԱՂԲԱՐԿՊԵՐ ֆոլիկուլներ ԾԻ եւիկ
+text out:  Վիշնեվսկու ԱՂԲԱՐԿՂԵՐ ֆոլիկուլներ ԾԻ եւիկ
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSans/4.jpg
+text file: ../data/plain_white_no_distorsion/FreeSans/4.txt
+ocr out:   ՊԱԹՈԼՈԳԻԱՆ քնեն էքսկուրսիա ուսուցումները ՀՂԻՈՒԹՅԱՆ
+text out:  ՊԱԹՈԼՈԳԻԱՆ քնեն Էքսկուրսիա ուսուցումները ՀՂԻՈՒԹՅԱՆ
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSans/9.jpg
+text file: ../data/plain_white_no_distorsion/FreeSans/9.txt
+ocr out:   ամենակրքոտ զորախումբ Հրատարակիչների Վերջնաժամկետ` էութիւնը
+text out:  ամենակրքոտ զորախումբ Հրատարակիչների Վերջնաժամկետ` Էութիւնը
+
+number of all files: 10
+number of fails:     3
+fails percent:       30%

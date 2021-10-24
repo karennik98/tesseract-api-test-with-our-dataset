@@ -1,0 +1,23 @@
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerifCondensed/0.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerifCondensed/0.txt
+ocr out:   Էխ ԳԻՊՄԻՑ Միհրդատին մեղքերիդ սերունդ`
+text out:  Էխ ԳԻՊՍԻՑ Միհրդատին մեղքերիդ սերունդ`
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerifCondensed/2.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerifCondensed/2.txt
+ocr out:   ԹՈՒՐՔ-ՀԱՅԿԱԿԱՆ Տեառընդառաջի: մտահաղացման պատրաստուկների բերելուց
+text out:  ԹՈՒՐՔ-ՀԱՅԿԱԿԱՆ Տեառընդառաջի մտահաղացման պատրաստուկների բերելուց
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerifCondensed/5.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerifCondensed/5.txt
+ocr out:   ես...Շուշաննա ՀԷԿ-ը Գայլիկոն ԱՄԵՆԱՓՈՔԸԸ լաստի
+text out:  ես...Շուշաննա ՀԷԿ-ը Գայլիկոն ԱՄԵՆԱՓՈՔՐԸ լաստի
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerifCondensed/7.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerifCondensed/7.txt
+ocr out:   Յոզեշվարին չուսապսակ կեցված աղի Ասել
+text out:  Յոգեշվարին լուսապսակ կեցված աղի Ասել
+
+number of all files: 10
+number of fails:     4
+fails percent:       40%

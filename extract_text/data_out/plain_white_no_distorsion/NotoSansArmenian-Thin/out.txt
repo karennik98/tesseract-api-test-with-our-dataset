@@ -1,0 +1,43 @@
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-Thin/0.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-Thin/0.txt
+ocr out:   պատմությաձը Ռուբէնի խոցման Գալուստը Կոձֆուցիոսն
+text out:  պատմությանը Ռուբէնի խոցման Գալուստը Կոնֆուցիոսն
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-Thin/1.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-Thin/1.txt
+ocr out:   ԼՈՒՍԱՎՈՐԻ կըձճեռնվի Լոգու Շաձած լոբբինգ
+text out:  ԼՈՒՍԱՎՈՐԻ կընձեռնվի Հոգու Հանած լոբբինգ
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-Thin/2.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-Thin/2.txt
+ocr out:   մետրոյում աւանդութեանց Ըացին դաշնակիցը տարի
+text out:  մետրոյում աւանդութեանց Հացին դաշնակիցը տարի
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-Thin/3.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-Thin/3.txt
+ocr out:   Կարողություն պարտուց Մելիքյանին միկրոշրջաձձերի սիրեկաններ
+text out:  Կարողություն պարտուց Մելիքյանին միկրոշրջանների սիրեկաններ
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-Thin/4.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-Thin/4.txt
+ocr out:   ծռերինն զորամասից անձրեւաձոց Կխնդրեմ ՎԵԿՏՈՐՆԵՐԸ
+text out:  ծռերի»` զորամասից անձրեւանոց Կխնդրեմ ՎԵԿՏՈՐՆԵՐԸ
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-Thin/6.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-Thin/6.txt
+ocr out:   գերձոր ՊԱՇՏՈՆՆ քառնմ Լայնաֆորմատ ընդգրկեց
+text out:  գերնոր ՊԱՇՏՈՆՆ քառ.մ Լայնաֆորմատ ընդգրկեց
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-Thin/8.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-Thin/8.txt
+ocr out:   վերաձայման ԼՈՒՅԺ ԾԱՅՐԸ արտաճալյտվել ճամեմատե'ք
+text out:  վերանայման ՀՈՒՅԺ ԾԱՅՐԸ արտահայտվել համեմատե՛ք
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-Thin/9.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-Thin/9.txt
+ocr out:   գիտափորձում ձստեցում գլոր խճուղով տեվ
+text out:  գիտափորձում նստեցում գլոր խճուղով տեվ
+
+number of all files: 10
+number of fails:     8
+fails percent:       80%

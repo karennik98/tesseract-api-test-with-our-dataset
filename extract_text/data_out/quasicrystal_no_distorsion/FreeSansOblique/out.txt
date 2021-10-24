@@ -1,0 +1,10 @@
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSansOblique/1.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSansOblique/1.txt
+ocr out:   ՆԵՐԿԱՐԱՐՅԱՆ ֆուտբոլիստ հասունանալու կայացած գորշ
+text out:  ՆԵՐԿԱՐԱՐՅԱՆ ֆուտբոլիստ հասունանալով կայացած գորշ
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSansOblique/2.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSansOblique/2.txt
+ocr out:   Անփոխարինելի ԿԱՆԽԱՏԵՍՈՒՄՆԵՐԻ ԲԱՄԲԱԿՈՎ Տղաներին Սայաթ-Նովեն:
+text out:  Անփոխարինելի ԿԱՆԽԱՏԵՍՈՒՄՆԵՐԻ ԲԱՄԲԱԿՈՎ Տղաներին Սայաթ-Նովեն
+

@@ -1,0 +1,8 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeMono.otf/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeMono.otf/9.txt
+ocr out:   շլսի զբոսաշրջիկը պերուշ Շաբաթաթերթեր Գլորիայի
+text out:  չլսի զբոսաշրջիկը պերուշ Շաբաթաթերթեր Գլորիայի
+
+number of all files: 10
+number of fails:     1
+fails percent:       10%

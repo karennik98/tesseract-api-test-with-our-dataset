@@ -1,0 +1,8 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique.otf/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique.otf/4.txt
+ocr out:   ԹԱՎԱԴՅԱՆԻ դիպաւնստեցինք Աթոռը կապնվեք
+text out:  ԹԱՎԱԴՅԱՆԻ դիպաւ նստեցինք Աթոռը կապնվեք
+
+number of all files: 10
+number of fails:     1
+fails percent:       10%

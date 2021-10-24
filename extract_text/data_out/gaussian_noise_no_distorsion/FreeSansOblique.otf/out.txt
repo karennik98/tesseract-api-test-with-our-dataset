@@ -1,0 +1,8 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansOblique.otf/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansOblique.otf/2.txt
+ocr out:   ԶՈՂԻՋԽ Աստղանուշ դերասանուհիներից ծանրորդ
+text out:  ԶՈՂ ԻՋԽ Աստղանուշ դերասանուհիներից ծանրորդ
+
+number of all files: 10
+number of fails:     1
+fails percent:       10%

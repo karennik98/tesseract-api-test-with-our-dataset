@@ -1,0 +1,38 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Regular/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Regular/0.txt
+ocr out:   ՉԸԱՍՑՐԵՑԻ չքավորներին ճորտական թաթ ողջակէզի
+text out:  ՉՀԱՍՑՐԵՑԻ չքավորներին ճորտական թաթ ողջակէզի
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Regular/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Regular/1.txt
+ocr out:   ՄԵՔԵՆԱՅԱՑՈՒՄ ԳԱՐԵԳԻՆ մշակույթները ծառայությունըն Ընար
+text out:  ՄԵՔԵՆԱՅԱՑՈՒՄ ԳԱՐԵԳԻՆ մշակույթները ծառայությունը` Հնար
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Regular/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Regular/2.txt
+ocr out:   Կոմպյուտեր ՇԱՆԳՐՎԱՆԸ Ըամամիութենական դելտայում Գիւղին
+text out:  Կոմպյուտեր ՀԱՆԳՐՎԱՆԸ Համամիութենական դելտայում Գիւղին
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Regular/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Regular/3.txt
+ocr out:   ճրավերների Յովճաննէս ՄԻՐԱՔ պաշտշպանված Ֆեմինալ
+text out:  հրավերների Յովհաննէս ՄԻՐԱՔ պաշտշպանված Ֆեմինալ
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Regular/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Regular/4.txt
+ocr out:   մաճարձանի ջանն ՓՏՐ Մեսենջեր թթուներ
+text out:  մահարձանի ջանն ՓՏՐ Մեսենջեր թթուներ
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Regular/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Regular/7.txt
+ocr out:   երեքշաբթի Էլբա ԵՐԵՒԱՆՑԻՆԵՐԻ կյանքիդ ԳՆՉՈՒՇԻՆԵՐԻՆ
+text out:  երեքշաբթի Էլբա ԵՐԵՒԱՆՑԻՆԵՐԻ կյանքիդ ԳՆՉՈՒՀԻՆԵՐԻՆ
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Regular/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Regular/9.txt
+ocr out:   ՊԱՊՈՒ Յոգու-Մոգու իրագործումից չճանձնելու նրբությունների
+text out:  ՊԱՊՈՒ Յոգու-Մոգու իրագործումից չհանձնելու նրբությունների
+
+number of all files: 10
+number of fails:     7
+fails percent:       70%

@@ -1,0 +1,23 @@
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic.otf/0.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic.otf/0.txt
+ocr out:   ՀԱՐԴԱՊԵՏՅԱՆ ԲԱՐՁՐՈՒԹՅՈՒՆՆԵՐԸ կենսագոր Վերաարտահանում բասկետբոլով
+text out:  ՎԱՐԴԱՊԵՏՅԱՆ ԲԱՐՁՐՈՒԹՅՈՒՆՆԵՐԸ կենսագոր Վերաարտահանում բասկետբոլով
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic.otf/5.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic.otf/5.txt
+ocr out:   ՄՍՀԿ-ի Կամախ ՄԱՐԴԱ լուծելով ՍԵՒԵՐ
+text out:  ՍՀԿ-ի Կամախ ՄԱՐԴԱ լուծելով ՍԵՒԵՐ
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic.otf/6.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic.otf/6.txt
+ocr out:   Ելք»-ի ենթաբաժինները` Հովթի ԱՆԱՀ ՍԱՌՆԱՐԱՆՆԵՐԻ
+text out:  Ելք»-ի ենթաբաժինները` Հովքի ԱՆԱՀ ՍԱՌՆԱՐԱՆՆԵՐԻ
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic.otf/8.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic.otf/8.txt
+ocr out:   ՄԱԳԻՍՏՐԱՏՈՒՐԱՅԻ պողպատր ՅՈՒՐԱՔԱՆ ԿԵՆՍԱՔԻՄԻԱ իմպլանտներ
+text out:  ՄԱԳԻՍՏՐԱՏՈՒՐԱՅԻ պողպատը ՅՈՒՐԱՔԱՆ ԿԵՆՍԱՔԻՄԻԱ իմպլանտներ
+
+number of all files: 10
+number of fails:     4
+fails percent:       40%

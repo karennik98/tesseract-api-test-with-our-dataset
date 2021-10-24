@@ -1,0 +1,18 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/0.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/0.txt
+ocr out:   վէպի ներաշխարհի անոնւմ խաբեք չգերազանցեն
+text out:  վէպի ներաշխարհի անո՞ւմ խաբեք չգերազանցեն
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/4.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/4.txt
+ocr out:   լճակում ՀԱՍԿԱՑԱՍՐ վահանն արգասիքները ԲԼՈԿԻ
+text out:  լճակում ՀԱՍԿԱՑԱ՞Ր վահանն արգասիքները ԲԼՈԿԻ
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/9.txt
+ocr out:   նոնւյնն Դեւրիկյան ՏԻԳ ճանապարհները խնայող
+text out:  նո՞ւյնն Դեւրիկյան ՏԻԳ ճանապարհները խնայող
+
+number of all files: 10
+number of fails:     3
+fails percent:       30%

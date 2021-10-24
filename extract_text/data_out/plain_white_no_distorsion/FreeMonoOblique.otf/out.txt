@@ -1,0 +1,8 @@
+jpg file:  ../data/plain_white_no_distorsion/FreeMonoOblique.otf/7.jpg
+text file: ../data/plain_white_no_distorsion/FreeMonoOblique.otf/7.txt
+ocr out:   ՔՆԱՊԱՐԿ ՕԴԱՆԱՎԱԿԱՅԱՆԸ ՀԲՐՄ-էն ԿՍՊ-ի գերիշխանությանը
+text out:  ՔՆԱՊԱՐԿ ՕԴԱՆԱՎԱԿԱՅԱՆԸ ՀԲԸՄ-էն ԿՍՊ-ի գերիշխանությանը
+
+number of all files: 10
+number of fails:     1
+fails percent:       10%

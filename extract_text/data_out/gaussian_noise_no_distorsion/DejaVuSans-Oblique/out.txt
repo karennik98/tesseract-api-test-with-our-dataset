@@ -1,0 +1,3 @@
+number of all files: 10
+number of fails:     0
+fails percent:       0%

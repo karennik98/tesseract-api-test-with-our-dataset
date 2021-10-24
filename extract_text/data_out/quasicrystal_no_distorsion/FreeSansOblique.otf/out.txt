@@ -1,0 +1,10 @@
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSansOblique.otf/2.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSansOblique.otf/2.txt
+ocr out:   ձեռագրով հեշթեգով ծննդկան-ԱՂԵՏՆԵՐԻՆ ՆԵՐՔՆԱԿԻ
+text out:  ձեռագրով հեշթեգով ծննդկան ԱՂԵՏՆԵՐԻՆ ՆԵՐՔՆԱԿԻ
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSansOblique.otf/3.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSansOblique.otf/3.txt
+ocr out:   ամենակարեւորը ԱԿՆԹԱՐԹՈԲԵՆ հոգեբաններն Վանգենհայմը ՎԵՐԱՓՈԽՎՈՒՄ
+text out:  ամենակարեւորը ԱԿՆԹԱՐԹՈՐԵՆ հոգեբաններն Վանգենհայմը ՎԵՐԱՓՈԽՎՈՒՄ
+

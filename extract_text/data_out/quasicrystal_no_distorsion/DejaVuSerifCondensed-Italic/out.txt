@@ -1,0 +1,10 @@
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerifCondensed-Italic/0.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerifCondensed-Italic/0.txt
+ocr out:   ԶԱՐԿԵՔ ԻՐԵՆՈՒՄ նախատեն Գլխակապներ ԱՅՑԵԼՈՒ,ԴՈՒՔ:
+text out:  ԶԱՐԿԵՔ ԻՐԵՆՈՒՄ նախատեն Գլխակապներ ԱՅՑԵԼՈՒ,ԴՈՒՔ
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerifCondensed-Italic/2.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerifCondensed-Italic/2.txt
+ocr out:   պաշտպանելն Վավերացնող գեղմ ճարտասանական փիլիսո:
+text out:  պաշտպանելն Վավերացնող գեղմ ճարտասանական փիլիսո
+

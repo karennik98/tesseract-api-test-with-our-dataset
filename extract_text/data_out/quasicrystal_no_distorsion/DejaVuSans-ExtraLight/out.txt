@@ -1,0 +1,38 @@
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/1.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/1.txt
+ocr out:   կամս վեկտորին ՑԻՏՐԻՆ Սանալ ԲՆԱՇԽԱՐՀԻ:
+text out:  կամս վեկտորին ՑԻՏՐԻՆ Սանալ ԲՆԱՇԽԱՐՀԻ
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/2.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/2.txt
+ocr out:   հարազատն ԱՏԵՆՈԿԱՐԴԻԱ ԲԵԼԼԱՆ Ձայ Որոնվող
+text out:  հարազատն ՍՏԵՆՈԿԱՐԴԻԱ ԲԵԼԼԱՆ Ձայ Որոնվող
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/3.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/3.txt
+ocr out:   Սթրե՛ս Աֆիֆիի հե՞տ ՀՌՈՎՄ էրիվ
+text out:  Սթրե՛ս Աֆիֆիի հե՞տ ՀՌՈՎՄ Լրիվ
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/4.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/4.txt
+ocr out:   ՀաջԱե՛ը ռործությենքչինթներ ՏԱՆՏԻԿԻՆԲ Շեռնպիրյան։
+text out:  Հաշվե՛ք գործոյ թրենքչոնթներ ՏԱՆՏԻԿԻՆԸ Շեքսպիրյան
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/5.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/5.txt
+ocr out:   ժառւթհեմփթոե»-ի ԿՈՂՔԻ դատապարտվելու ագռավները Դիզայներներն
+text out:  Սաութհեմփթոն»-ի ԿՈՂՔԻ` դատապարտվելու ագռավները Դիզայներներն
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/8.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/8.txt
+ocr out:   ԱԻՆ-նքնո սովին ԱՉՔԵՐԻՍ հաճարենու
+text out:  ԱԻՆ նքնո սովին ԱՉՔԵՐԻՍ հաճարենու
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/9.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/9.txt
+ocr out:   ԾՐԱԳԻՐԻ տոմոգրաթիսն ԿԱՐԳԱԽՈՍԻ սերմնահեղուկը մաքսատուն
+text out:  ԾՐԱԳԻՐԻ տոմոգրաֆիան ԿԱՐԳԱԽՈՍԻ սերմնահեղուկի մաքսատուն
+
+number of all files: 10
+number of fails:     7
+fails percent:       70%

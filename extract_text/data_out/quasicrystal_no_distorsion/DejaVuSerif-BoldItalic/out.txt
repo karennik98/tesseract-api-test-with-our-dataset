@@ -1,0 +1,37 @@
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/2.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/2.txt
+ocr out:   կի
+ատի
+նգապ
+սնհի
+
+Ն տա
+
+մ ԿԲԱԽՎԵ
+
+ենա
+
+ւզ
+
+ենեռ
+
+ներ
+
+ը
+
+սցենա
+text out:  սցենարներ ենե ուզենամ ԿԲԱԽՎԵՆ տասնհինգապատիկի
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/5.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/5.txt
+ocr out:   Փնտրելով գրատան ՍԱՀՐԱԴՅԱՆ հողն Կալիֆոռնիան
+text out:  Փնտրելով գրատան ՍԱՀՐԱԴՅԱՆ հոդն Կալիֆոռնիան
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/9.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/9.txt
+ocr out:   Սինուչ Խար ԱՊԱԳԱՅԻ օրինականացված զորամասերին
+text out:  Սինոպ Խար ԱՊԱԳԱՅԻ օրինականացված զորամասերին
+
+number of all files: 10
+number of fails:     3
+fails percent:       30%

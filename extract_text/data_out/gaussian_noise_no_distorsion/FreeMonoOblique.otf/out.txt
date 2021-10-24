@@ -1,0 +1,13 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/6.txt
+ocr out:   Գլխոյ Հոլովակը մղված հայեցակարգը` պատվիրակության
+text out:  գլխոյ Հոլովակը մղված հայեցակարգը` պատվիրակության
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/7.txt
+ocr out:   Ապրի ոչնչության ՄՈՒԾՈՒՄՆԵՐ ԼԱ Է գաղտնաբառեր
+text out:  Ապրի ոչնչության ՄՈՒԾՈՒՄՆԵՐ ԼԱ՛Ւ գաղտնաբառեր
+
+number of all files: 10
+number of fails:     2
+fails percent:       20%

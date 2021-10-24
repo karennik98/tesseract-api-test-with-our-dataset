@@ -1,0 +1,13 @@
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifBoldItalic/3.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifBoldItalic/3.txt
+ocr out:   տուժելուաքը ԲԱՑ իրադրություններ ԴՎՆՈ
+text out:  տուժելու աքը ԲԱՑ իրադրություններ ԴՎՆՈ
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifBoldItalic/9.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifBoldItalic/9.txt
+ocr out:   խաղաղության Դ. Անհաղթի կրճատում` պարողների լոբ
+text out:  խաղաղության Դ.Անհաղթի կրճատում` պարողների լոբ
+
+number of all files: 10
+number of fails:     2
+fails percent:       20%

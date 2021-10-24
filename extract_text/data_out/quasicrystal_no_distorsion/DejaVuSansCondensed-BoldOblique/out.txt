@@ -1,0 +1,8 @@
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSansCondensed-BoldOblique/8.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSansCondensed-BoldOblique/8.txt
+ocr out:   Տոնիկյան թղթապանակը հարուածի: ԷԹՈՒՄ կիրիշկա:
+text out:  Տոնիկյան թղթապանակը հարուածի ԷԹՈՒՄ կիրիշկա
+
+number of all files: 10
+number of fails:     1
+fails percent:       10%

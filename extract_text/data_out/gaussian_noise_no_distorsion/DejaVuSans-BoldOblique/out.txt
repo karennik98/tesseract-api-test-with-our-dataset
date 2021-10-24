@@ -1,0 +1,8 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSans-BoldOblique/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSans-BoldOblique/3.txt
+ocr out:   Զոլաք ար ԲՅՈՒՋԵՈՎ ԷՄԻՐՈՒԹՅՈՒՆՆԵՐԸ բաքերի ՄԻՋՈՑՆԵՐՈՒՄ
+text out:  Զոլաքար ԲՅՈՒՋԵՈՎ ԷՄԻՐՈՒԹՅՈՒՆՆԵՐԸ բաքերի ՄԻՋՈՑՆԵՐՈՒՄ
+
+number of all files: 10
+number of fails:     1
+fails percent:       10%

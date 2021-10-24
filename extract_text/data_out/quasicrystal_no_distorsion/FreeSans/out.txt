@@ -1,0 +1,5 @@
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSans/1.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSans/1.txt
+ocr out:   ակտիվացման բացիկ բաժանորդագրվելով: ԿԱՍԵՏ դքան
+text out:  ակտիվացման բացիկ բաժանորդագրվելով ԿԱՍԵՏ դքան
+

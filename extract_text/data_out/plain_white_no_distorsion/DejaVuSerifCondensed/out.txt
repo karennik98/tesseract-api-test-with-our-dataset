@@ -1,0 +1,8 @@
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed/1.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed/1.txt
+ocr out:   ցավոր ԱրթուրիՄուրադյան ՖԵԴԵՐԱՑԻԱ ՈւԳՐ մլնը
+text out:  ցավոր ԱրթուրիՄուրադյան ՖԵԴԵՐԱՑԻԱ ՈւԳԸ մլն-ը
+
+number of all files: 10
+number of fails:     1
+fails percent:       10%

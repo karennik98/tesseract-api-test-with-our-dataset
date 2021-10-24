@@ -1,0 +1,8 @@
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSans.otf/8.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSans.otf/8.txt
+ocr out:   Ֆիննախի ԳՖԿ-Ի ՌՈՋԵՐ նրբորեն ազատազրկմա,
+text out:  Ֆիննախի ԳՖԿ-Ի ՌՈՋԵՐ նրբորեն ազատազրկմա
+
+number of all files: 10
+number of fails:     1
+fails percent:       10%

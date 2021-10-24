@@ -1,0 +1,5 @@
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifItalic/1.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifItalic/1.txt
+ocr out:   եզիահատ Հարցզողների ջերմասօիճան ՓՈՐՁԱՆՔ գերածախս
+text out:  եզրահատ Հարցվողների ջերմասռիճան ՓՈՐՁԱՆՔ գերածախս
+

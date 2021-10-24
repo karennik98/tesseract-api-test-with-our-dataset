@@ -1,0 +1,43 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-ExtraLight/0.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-ExtraLight/0.txt
+ocr out:   աղավաղվում քարմոնիա ԸՆԱՐՔՈՎ Թվարկենք ՇԵՐՑԵԳՈՎԻՆԱՅԻ
+text out:  աղավաղվում Հարմոնիա ՀՆԱՐՔՈՎ Թվարկենք ՀԵՐՑԵԳՈՎԻՆԱՅԻ
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-ExtraLight/1.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-ExtraLight/1.txt
+ocr out:   ԱՐԵՒՄՏԱԼԱՅՈՑ կվերա սխալներով Վրաստան-Թուրքիա դեղատներում
+text out:  ԱՐԵՒՄՏԱՀԱՅՈՑ կվերա սխալներով Վրաստան-Թուրքիա դեղատներում
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-ExtraLight/2.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-ExtraLight/2.txt
+ocr out:   Ըռիփսիմյան Ջեքսոն Աղբաճանություն ՓՈՐԸ ԹԱՆԴԻԼՅԱՆԸ
+text out:  Հռիփսիմյան Ջեքսոն Աղբահանություն ՓՈՐԸ ԹԱՆԴԻԼՅԱՆԸ
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-ExtraLight/3.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-ExtraLight/3.txt
+ocr out:   Բանվորձերը ՄԻՋԱՆՅՈՒԹ Վենգեր Լեգել զեկույցների
+text out:  Բանվորները ՄԻԶԱՆՅՈՒԹ Վենգեր Հեգել զեկույցների
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-ExtraLight/4.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-ExtraLight/4.txt
+ocr out:   թոնիր ՌՈՒՍԵՐԵՆԻ վաճառողձերը խլուրդից ԿԴՆԵՐ
+text out:  թոնիր ՌՈՒՍԵՐԵՆԻ վաճառողները խլուրդից ԿԴՆԵՐ
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-ExtraLight/5.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-ExtraLight/5.txt
+ocr out:   ղովը Արմատն ճանկերի ճիվա ֆոտոները
+text out:  ղովը Արմատն ճանկերի հիվա ֆոտոները
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-ExtraLight/6.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-ExtraLight/6.txt
+ocr out:   ճույզի ճակադարճը պատաճույթի Շայաստաձեն Կյուլպենկյան
+text out:  հույզի հակադարձը պատահույթի Հայաստանէն Կյուլպենկյան
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-ExtraLight/7.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-ExtraLight/7.txt
+ocr out:   ջերմոցի ՍԱԶԸ Լատվիայից ՇԱԳԵՑՆՈՂ Յովճաննիսեանը
+text out:  ջերմոցի ՍԱԶԸ Լատվիայից ՀԱԳԵՑՆՈՂ Յովհաննիսեանը
+
+number of all files: 10
+number of fails:     8
+fails percent:       80%

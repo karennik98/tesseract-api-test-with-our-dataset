@@ -1,0 +1,13 @@
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/7.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/7.txt
+ocr out:   ՀԶՈՐԱՑՈՒՄԸ Տրանսցենդենտալ Տեր-Վարդանյանը Համակարգով ՓՈՔԸՆ
+text out:  ՀԶՈՐԱՑՈՒՄԸ Տրանսցենդենտալ Տեր-Վարդանյանը Համակարգով ՓՈՔՐՆ
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/9.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/9.txt
+ocr out:   ՓՈԽԱՐԺԵՔՆԵՐԻ թեթեւացվածսստանում պաստվելրուպատումներ
+text out:  ՓՈԽԱՐԺԵՔՆԵՐԻ թեթեւացված ոստանում պատռվելու պատումներ
+
+number of all files: 10
+number of fails:     2
+fails percent:       20%

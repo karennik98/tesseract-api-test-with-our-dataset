@@ -1,0 +1,8 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic.otf/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic.otf/8.txt
+ocr out:   գուշակում ԳԵՅԹՍՆ գույն` նիւթեր ռեաղմիսիայի
+text out:  գուշակում ԳԵՅԹՍՆ գույն` նիւթեր ռեադմիսիայի
+
+number of all files: 10
+number of fails:     1
+fails percent:       10%

@@ -1,0 +1,18 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/5.jpg
+text file: ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/5.txt
+ocr out:   ՆԿԱՐՉՈՒԹՅՈՒՆ հանույքից Ախալցխայից Սահրադյան Հայաստանեաց
+text out:  ՆԿԱՐՉՈՒԹՅՈՒՆ հաճույքից Ախալցխայից Սահրադյան Հայաստանեաց
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/7.jpg
+text file: ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/7.txt
+ocr out:   (ւղեզրության Միկելոն մահիկ գիտելիքներն ներանձնական
+text out:  Ուղեգրության Միկելոն մահիկ գիտելիքներն ներանձնական
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/9.txt
+ocr out:   գնացիր ՄԱՌԵՐԻ ԱՍԵՑԻՆ ԵՐԿՕՔՍԻԴԻ ՍԻԴՆԻ
+text out:  գնացիր ԾԱՌԵՐԻ ԱՍԵՑԻՆ ԵՐԿՕՔՍԻԴԻ ՍԻԴՆԻ
+
+number of all files: 10
+number of fails:     3
+fails percent:       30%

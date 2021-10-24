@@ -1,0 +1,33 @@
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif/0.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif/0.txt
+ocr out:   ՓԵՏՈՒՐԵԵՐՈՎ տոկոսադրույքները Աման ՉԻՆԳԻԶ Քոսյան
+text out:  ՓԵՏՈՒՐՆԵՐՈՎ տոկոսադրույքները Ամպն ՉԻՆԳԻԶ Քոսյան
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif/2.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif/2.txt
+ocr out:   ՀՆԴԿԵՐԵՆ ԱՐՏԱԳՐԱՏԵԽ ո՛րն ԱՅՐՎԱԾՔԱՅԻՆ եռյակի
+text out:  ՀՆԴԿԵՐԵՆ ԱՐՏԱԴՐԱՏԵԽ ո՛րն ԱՅՐՎԱԾՔԱՅԻՆ եռյակի
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif/3.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif/3.txt
+ocr out:   ՄՎՏ զանգվածրչավտոմոբիլներ բանիմաց ԲԵՌԷԹԱԳԲԻՉՆԵՐԻ
+text out:  ՄՎՏ զանգվածը ավտոմոբիլներ բանիմաց ԲՆՈՒԹԱԳՐԻՉՆԵՐԻ
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif/6.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif/6.txt
+ocr out:   ՄՈՈՒՐԻՆՅՈՒՆ բարեւս ԼԻՆԻԼ նվիրված` ֆր
+text out:  ՄՈՈՒՐԻՆՅՈՒՆ բարեւս ԼԻՆԻԼ նվիրված` ֆը
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif/8.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif/8.txt
+ocr out:   ԹԵՍՏԵՐՆ Նախասենյակ Էրահոսը Միկրուչեմենտներ ՎՈԼՖՍԲՈՒՐԳ
+text out:  ԹԵՍՏԵՐՆ Նախասենյակ Լրահոսը Միկրոէլեմենտներ ՎՈԼՖՍԲՈՒՐԳ
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif/9.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif/9.txt
+ocr out:   ԻԾԱՔԱՐ ԱՐՏԱՑՈԼՎՈՒՄ ՍՊԱՌԱԶԻՆՄԱՆ ԷՐԱՑԱԿԵՐԵՐԻ ՀՆԴԿԱՑԻՆԵՐԻՆ
+text out:  ԻԾԱՔԱՐ ԱՐՏԱՑՈԼՎՈՒՄ ՍՊԱՌԱԶԻՆՄԱՆ ԼՐԱՑԱԿԵՐԵՐԻ ՀՆԴԿԱՑԻՆԵՐԻՆ
+
+number of all files: 10
+number of fails:     6
+fails percent:       60%

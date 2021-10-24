@@ -1,0 +1,8 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-BoldItalic/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-BoldItalic/6.txt
+ocr out:   ընծայած ԱՃԱՌՆԵՐԻ Այլեքս տեղանքով երկերը
+text out:  ընծայած ԱՃԱՌՆԵՐԻ Այլեքս տեղանքով երկերր
+
+number of all files: 10
+number of fails:     1
+fails percent:       10%

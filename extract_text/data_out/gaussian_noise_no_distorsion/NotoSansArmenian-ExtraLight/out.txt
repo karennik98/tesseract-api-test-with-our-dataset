@@ -1,0 +1,38 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-ExtraLight/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-ExtraLight/1.txt
+ocr out:   պատկերասրաճ ԱՐՏԱՇԱՏԻ ՇՈՒՐԹԵՐՈՎ նկատելիս ՎԻՐԱԲՅԱՆԸ
+text out:  պատկերասրահ ԱՐՏԱՇԱՏԻ ՇՈՒՐԹԵՐՈՎ նկատելիս ՎԻՐԱԲՅԱՆԸ
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-ExtraLight/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-ExtraLight/2.txt
+ocr out:   ԴԱԶՎԱԾ կատարելագործման ճենանիշների մաճաշունչ ԻՆՖՈՐՄԵՐՆԵՐ
+text out:  ԴԱՋՎԱԾ կատարելագործման հենանիշների մահաշունչ ԻՆՖՈՐՄԵՐՆԵՐ
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-ExtraLight/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-ExtraLight/4.txt
+ocr out:   ՎԵՐԱՆԱՅՈՒՄՆ ԲԱԲԱԽԵԼ ՋԵՒՈՒՅԹ կտրելիս խերն
+text out:  ՎԵՐԱՆԱՅՈՒՄՆ ԲԱԲԱԽԵԼ ՁԵՒՈՒՅԹ կտրելիս խերն
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-ExtraLight/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-ExtraLight/6.txt
+ocr out:   ԼԱՅՏՄԱՆ Տարածությունները պոլիէթիլենի ԸՍԿԱՅԱԾԱՎԱԼ Շայկազուծ
+text out:  ՀԱՅՏՄԱՆ Տարածությունները պոլիէթիլենի ՀՍԿԱՅԱԾԱՎԱԼ Հայկազուն
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-ExtraLight/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-ExtraLight/7.txt
+ocr out:   բազմամշակութ սիրուճուն Խծկոնքի ՋԵՒԱՎՈՐՎԻ ԽՕՍՔԵՐ
+text out:  բազմամշակույթ սիրուհուն Խծկոնքի ՁԵՒԱՎՈՐՎԻ ԽՕՍՔԵՐ
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-ExtraLight/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-ExtraLight/8.txt
+ocr out:   Պիկասոյի զանազաձելու ԼԱՄԵՐԳՆԵՐՈՎ Ֆադել ՓՈԽՐԱ
+text out:  Պիկասոյի զանազանելու ՀԱՄԵՐԳՆԵՐՈՎ Ֆադեյ ՓՈԽՀԱ
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-ExtraLight/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-ExtraLight/9.txt
+ocr out:   Էլինար ակաթի զտող ՎՍԱՈՄՈՒՐԱԴՅԱՆ լորի
+text out:  Էլինար ակաթի զտող Վ.Ա.ՄՈՒՐԱԴՅԱՆ լորի
+
+number of all files: 10
+number of fails:     7
+fails percent:       70%

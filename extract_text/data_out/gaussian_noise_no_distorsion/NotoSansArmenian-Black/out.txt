@@ -1,0 +1,48 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Black/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Black/0.txt
+ocr out:   Գերմանիայում վճարման նյարդաթելերի Շեղեղի ՐԵՐԻ
+text out:  Գերմանիայում` վճարման նյարդաթելերի Հեղեղի ՐԵՐԻ
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Black/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Black/1.txt
+ocr out:   ԱԼԵՔՍԱԵԴ Ղազարայ ՄԱԿ-ի Մոնղոլիայում պատառածի
+text out:  ԱԼԵՔՍԱՆԴ Ղազարայ ՄԱԿ-ի Մոնղոլիայում պատահածի
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Black/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Black/2.txt
+ocr out:   լիազորությունըն զբաղւում երգերի պոչուկի ԿՈՆՑԵՆՏՐԱՑԻԱՅԻ
+text out:  լիազորությունը` զբաղւում երգերի պոչուկի ԿՈՆՑԵՆՏՐԱՑԻԱՅԻ
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Black/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Black/3.txt
+ocr out:   ՇՈՌՈՄ մեծացնելով Խնոցին սեպը ԽՈՍԵՐ
+text out:  ՀՈՌՈՄ մեծացնելով Խնոցին սեպը ԽՈՍԵՐ
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Black/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Black/4.txt
+ocr out:   ընտրակարգ ամէնէն Շեղափոխության ՖԱՅԼԵՐ ԳՈՐԾԸՆԹԱՑԱՅԻՆ
+text out:  ընտրակարգ ամէնէն Հեղափոխության ՖԱՅԼԵՐ ԳՈՐԾԸՆԹԱՑԱՅԻՆ
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Black/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Black/5.txt
+ocr out:   նապաստակը անռիմն ՍԵՈՒՆԴԻ ինքնախաբեություն փորձառությամբ
+text out:  նապաստակը անհիմն ՍՆՈՒՆԴԻ ինքնախաբեություն փորձառությամբ
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Black/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Black/6.txt
+ocr out:   Ելքի վալի ճամառեղինակները ՍՏԵՓԱՆԱՎԱՆԸ ՄՅՈւ-ի
+text out:  Ելքի վալի համահեղինակները ՍՏԵՓԱՆԱՎԱՆԸ ՄՅՈւ-ի
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Black/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Black/7.txt
+ocr out:   ՇԱՄԲՈՒՐԳԻ ԵՐԿԱՐԱՏԳՄԱՆՇԸ ԼՈՒՍԱԲԱՑԻ ԵՐԿՎՈՐՅԱԿ ԵՍՂԻԱՅԵԱՆ
+text out:  ՀԱՄԲՈՒՐԳԻ ԵՐԿԱՐԱՁԳՄԱՆԸ ԼՈՒՍԱԲԱՑԻ ԵՐԿՎՈՐՅԱԿ Ե(ՂԻԱՅԵԱՆ
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Black/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Black/9.txt
+ocr out:   ՌՈՍԻ մեխել անկյունի ՇԱՄԱԼԻՐՈՒՄ թալանելով
+text out:  ՌՈՍԻ մեխել անկյունի ՀԱՄԱԼԻՐՈՒՄ թալանելով
+
+number of all files: 10
+number of fails:     9
+fails percent:       90%

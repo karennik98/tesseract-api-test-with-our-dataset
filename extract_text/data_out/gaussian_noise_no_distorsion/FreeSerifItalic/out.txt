@@ -1,0 +1,8 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifItalic/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifItalic/2.txt
+ocr out:   քվից ` անդամագրված ՍԵՊՏԵՄԲԵՐԻ Տեառնընդառաջը` ուղղությունը
+text out:  թվից` անդամագրված ՍԵՊՏԵՄԲԵՐԻ Տեառնընդառաջը` ուղղությունը
+
+number of all files: 10
+number of fails:     1
+fails percent:       10%
