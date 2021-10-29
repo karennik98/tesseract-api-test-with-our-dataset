@@ -1,0 +1,60 @@
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSansCondensed/0.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSansCondensed/0.txt
+ocr out:   նոպաները Ֆրեզնոյում ՓԱՍՏԵՒ:Հակա ՑՈՒԹԵՐ.
+text out:  նոպաները Ֆրեզնոյում ՓԱՍՏԵԼ Հակա ՑՈԼՔԵՐ
+WER: 60%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSansCondensed/1.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSansCondensed/1.txt
+ocr out:   անպոռնիկը ԳԱԼԻԼԻՄ սս Գնացքով
+text out:  ա՛ն պոռնիկը ԳԱԼԻԼԻԱ սս Գնացքով
+WER: 60%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSansCondensed/2.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSansCondensed/2.txt
+ocr out:   քայլակներ էկլամպսիայի դարակներ հողատարածքը ընկերասեր
+text out:  քայլակներ էկլամպսիայի դարակներ հողատարածքը ընկերասեր
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSansCondensed/3.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSansCondensed/3.txt
+ocr out:   ՏԵՄԱՆԵԼԻՈՒԹՅՈՒԵՐ:ՀՇինանյութեր Տեսչական ԿԱՅԱՆՔՆԵՐՈՒՄ Բ
+text out:  ՏԵՍԱՆԵԼԻՈՒԹՅՈՒՆԸ Շինանյութեր Տեսչական ԿԱՅԱՆՔՆԵՐՈՒՄ ԼԲ
+WER: 60%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSansCondensed/4.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSansCondensed/4.txt
+ocr out:   օձերի իմպուլսային ցուցահանդէսը ՋՐԱՀԵՌԱՑՄԱՆ Օֆելյա
+text out:  օձերի իմպուլսային ցուցահանդէսը ՋՐԱՀԵՌԱՑՄԱՆ Օֆելյա
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSansCondensed/5.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSansCondensed/5.txt
+ocr out:   կայանելու Վանոյան Աղձնիքը Տնտեսված Եգանի
+text out:  կայանելու Վանոյան Աղձնիքը Տնտեսված Եգանի
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSansCondensed/6.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSansCondensed/6.txt
+ocr out:   տեսան ՄՈԴԵՐԱՏՈՐԸ տուգանք երաշխավորագիրը Կեցություն
+text out:  տեսան ՄՈԴԵՐԱՏՈՐԸ տուգանք երաշխավորագիրը Կեցություն
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSansCondensed/7.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSansCondensed/7.txt
+ocr out:   Դեմոյան Հովեյանը Մկրտչյանին Արտթերապիա բնույ
+text out:  Դեմոյան Հովեյանը Մկրտչյանին Արտթերապիա բնույ
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSansCondensed/8.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSansCondensed/8.txt
+ocr out:   նուագ ՉԳԱԼՈՎ ԿԱՐԳԱՎՈՐՄԱՆԸ դալի ողա
+text out:  նուագ ՉԳԱԼՈՎ ԿԱՐԳԱՎՈՐՄԱՆԸ դալի ողա
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSansCondensed/9.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSansCondensed/9.txt
+ocr out:   ԲԱՐԴՈՒԹՅՈՒՆԻՑ ԱՃՅՈՒՆՆԵՐԸ Ալյոնա ԹՂԹԱԴՐԱՄՆԵՐԸ ԱԶԻԶՅԱՆԸ
+text out:  ԲԱՐԴՈՒԹՅՈՒՆԻՑ ԱՃՅՈՒՆՆԵՐԸ Ալյոնա ԹՂԹԱԴՐԱՄՆԵՐԸ ԱԶԻԶՅԱՆԸ
+WER: 0%
+

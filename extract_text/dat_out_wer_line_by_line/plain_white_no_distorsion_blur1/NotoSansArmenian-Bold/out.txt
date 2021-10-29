@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Bold/0.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Bold/0.txt
+ocr out:   ԳԻՆԵԿՈԼՈԳ Ծակեր ԸԾԿԸ Ըեւա Գեները
+text out:  ԳԻՆԵԿՈԼՈԳ Ծակեր ՀԾԿՀ Հեւա Գեները
+WER: 40%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Bold/1.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Bold/1.txt
+ocr out:   Շրթունքի Շիշատակելի Ամառային առաջիկա Մոթոր
+text out:  Շրթունքի Հիշատակելի Ամառային առաջիկա Մոթոր
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Bold/2.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Bold/2.txt
+ocr out:   վազքն Ասվածն Քաղաքակրթության ԴԻՄՈՒՄԻՆ Վալյա
+text out:  վազքն Ասվածն Քաղաքակրթության ԴԻՄՈՒՄԻՆ Վալյա
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Bold/3.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Bold/3.txt
+ocr out:   եղեգը ՇՔԵՂ Այդքան Տարել Տելեկոմը
+text out:  եղեգը ՇՔԵՂ Այդքան Տարել Տելեկոմը
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Bold/4.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Bold/4.txt
+ocr out:   ԵՐԵՒԱՆՈՒՄՍը ՋՐԱՌԱՏ թատրոնԵրեւանի երեկոներն Լատինաբան
+text out:  ԵՐԵՒԱՆՈՒՄ` ՋՐԱՌԱՏ թատրոնԵրեւանի երեկոներն Լատինաբան
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Bold/5.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Bold/5.txt
+ocr out:   անդրադառ ՄԻԼԻՈՆՆԵՐԻ չափությունները ՎԼԱԴԻՄԻՐ ճամբարները
+text out:  անդրադառ ՄԻԼԻՈՆՆԵՐԻ չափությունները ՎԼԱԴԻՄԻՐ ճամբարները
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Bold/6.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Bold/6.txt
+ocr out:   Շերը զգայա ՆՄԱՏԱՊԻՏ ԱՂԱՋԱՆՅԱՆԸ ՖԵԼԻՔՍ
+text out:  Շերը զգայա ՆՄԱՏԱՊԻՏ ԱՂԱՋԱՆՅԱՆԸ ՖԵԼԻՔՍ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Bold/7.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Bold/7.txt
+ocr out:   քշեք ՔՐԻՍՏԻԻ ՅՈՒՆԵՍԿՕ ԸԵՆՐԻԽ միաձուլվելով
+text out:  քշեք ՔՐԻՍՏԻԻ ՅՈՒՆԵՍԿՕ ՀԵՆՐԻԽ միաձուլվելով
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Bold/8.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Bold/8.txt
+ocr out:   Աբեղյան տեւողությունը Գավրիլա խոնարճվել ՄԻԱՑԻՐ
+text out:  Աբեղյան տեւողությունը` Գավրիլա խոնարհվել ՄԻԱՑԻՐ
+WER: 40%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Bold/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Bold/9.txt
+ocr out:   էնպես արժեզրկումից Անգլիայի ջոկատ որդեգրումն
+text out:  էնպես արժեզրկումից Անգլիայի ջոկատ որդեգրումն
+WER: 0%
+

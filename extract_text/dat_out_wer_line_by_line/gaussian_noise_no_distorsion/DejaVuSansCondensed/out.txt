@@ -1,0 +1,60 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed/0.txt
+ocr out:   Խարտիան Կասկած ԱՍՐՅԱՆ ՎԻՐԱՎՈՐԱՆՔԸ ԿՐԱԿԵԼ
+text out:  Խարտիան Կասկած ԱՍՐՅԱՆ ՎԻՐԱՎՈՐԱՆՔԸ ԿՐԱԿԵԼ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed/1.txt
+ocr out:   Նպաստները հիվանդություն` ՀԱՐՑԱԶՐՈՒՅՑՆ Չորք-Մարզպանի պոեզիայի
+text out:  Նպաստները հիվանդություն` ՀԱՐՑԱԶՐՈՒՅՑՆ Չորք-Մարզպանի պոեզիայի
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed/2.txt
+ocr out:   բանեցրել ՊԱՊԻԿՍ Լեռնակերտի թագավորր ԱՐՏԱՀԱՆՄԱՆՆ
+text out:  բանեցրել ՊԱՊԻԿՍ Լեռնակերտի թագավորր ԱՐՏԱՀԱՆՄԱՆՆ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed/3.txt
+ocr out:   վառարանների ռեժիմն ԿԱՐՄՐԵՑ էլիտաների դոլլարը
+text out:  վառարանների ռեժիմն ԿԱՐՄՐԵՑ էլիտաների դոլլարը
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed/4.txt
+ocr out:   Սորոսը ԾՆՎԵՑԻՆ մանկատներում բարեկամներն ՀԻՄՆԱԴԻՐՆԵՐՆ
+text out:  Սորոսը ԾՆՎԵՑԻՆ մանկատներում բարեկամներն ՀԻՄՆԱԴԻՐՆԵՐՆ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed/5.txt
+ocr out:   միամտորեն ոչնչացումը ԴՀՈԼԻ Կեղտաջրերը Նենեն
+text out:  միամտորեն ոչնչացումը ԴՀՈԼԻ Կեղտաջրերը Նենեն
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed/6.txt
+ocr out:   պորտալարային կլաստերի Ավետարանչի բանկերը ԷՋԱԲԱԺԱՆԻՉՆԵՐ
+text out:  պորտալարային կլաստերի Ավետարանչի բանկերը ԷՋԱԲԱԺԱՆԻՉՆԵՐ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed/7.txt
+ocr out:   համբավի ԱՎԻԱՏՐԱՆՍ կրթությանն մարդահամարն Բժեզինսկի
+text out:  համբավի ԱՎԻԱՏՐԱՆՍ կրթությանն մարդահամարն Բժեզինսկի
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed/8.txt
+ocr out:   ԸՆԴՈՒՆԻՉՆԵՐ կկատարեմ Արքայազն ԿԱՆԱԴԱՆ ԳՐՊԱՆՈՒՄ
+text out:  ԸՆԴՈՒՆԻՉՆԵՐ կկատարեմ Արքայազն ԿԱՆԱԴԱՆ ԳՐՊԱՆՈՒՄ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed/9.txt
+ocr out:   այծն ԱԳԳԱՅԻՆ Յատկանշական նոսրացնում տարիքում
+text out:  այծն ԱԳԳԱՅԻՆ Յատկանշական նոսրացնում տարիքում
+WER: 0%
+

@@ -1,0 +1,30 @@
+jpg file:  ../data/quasicrystal_no_distorsion/NotoSansArmenian-Regular/0.jpg
+text file: ../data/quasicrystal_no_distorsion/NotoSansArmenian-Regular/0.txt
+ocr out:   ճամակարգիչները ԱՐԳԵԼՔՆ Կարնեցի ըսենք ԳԵՏԻԿ
+text out:  համակարգիչները ԱՐԳԵԼՔՆ Կարնեցի ըսենք ԳԵՏԻԿ
+WER: 20%
+
+jpg file:  ../data/quasicrystal_no_distorsion/NotoSansArmenian-Regular/1.jpg
+text file: ../data/quasicrystal_no_distorsion/NotoSansArmenian-Regular/1.txt
+ocr out:   ժողովեաց զմնե Ըացիկ Որմիզդուխտը կուրություն
+text out:  ժողովեաց զմնե Հացիկ Որմիզդուխտը կուրություն
+WER: 20%
+
+jpg file:  ../data/quasicrystal_no_distorsion/NotoSansArmenian-Regular/2.jpg
+text file: ../data/quasicrystal_no_distorsion/NotoSansArmenian-Regular/2.txt
+ocr out:   Որովճետեւ ԷՆԵՐԳԻԱՅԻ ՔՆՆԱՐԿՈՒՄԸ անշեղ ՄԷԼ
+text out:  Որովհետեւ ԷՆԵՐԳԻԱՅԻ ՔՆՆԱՐԿՈՒՄԸ անշեղ ՄԷԼ
+WER: 20%
+
+jpg file:  ../data/quasicrystal_no_distorsion/NotoSansArmenian-Regular/3.jpg
+text file: ../data/quasicrystal_no_distorsion/NotoSansArmenian-Regular/3.txt
+ocr out:   Գաստրոնոմիկ ճետերոգեն ԵԼԻՍԵՅԱՆ գաղտնալսման նիոն
+text out:  Գաստրոնոմիկ հետերոգեն ԵԼԻՍԵՅԱՆ գաղտնալսման Նիոն
+WER: 40%
+
+jpg file:  ../data/quasicrystal_no_distorsion/NotoSansArmenian-Regular/4.jpg
+text file: ../data/quasicrystal_no_distorsion/NotoSansArmenian-Regular/4.txt
+ocr out:   ՄԱՍ սարում աշակերտներիս ընտրությունները Դիմադրությունը:
+text out:  ՄԱՀՍ սարում աշակերտներիս ընտրությունները Դիմադրությունը
+WER: 40%
+

@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSerifBold.otf/0.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSerifBold.otf/0.txt
+ocr out:   ծխախո Կամյու վնասը՝ վարագույր ԵՎՐՈՒՂԻՆ
+text out:  ծխախո Կամյու վնասը` վարագույր ԵՎՐՈՒՂԻՆ
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSerifBold.otf/1.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSerifBold.otf/1.txt
+ocr out:   Աստուա տեսահսկման ԱՎԱՆԵՍՅԱՆԸ քարփուլինգի բոնցքամարտի
+text out:  Աստուա տեսահսկման ԱՎԱՆԵՍՅԱՆԸ քարփուլինգի բռնցքամարտի
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSerifBold.otf/2.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSerifBold.otf/2.txt
+ocr out:   տա՞նն ՄԵԿՆԵՑ ԱՅՑԵՐԻ Ռեզերվային Առողջապահություն
+text out:  տա՞նն ՄԵԿՆԵՑ ԱՅՑԵՐԻ Ռեզերվային Առողջապահություն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSerifBold.otf/3.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSerifBold.otf/3.txt
+ocr out:   Սելենա Ամանորի ատենախոսությունը Խամենեին Պայմանավորվող
+text out:  Սելենա Ամանորի ատենախոսությունը Խամենեին Պայմանավորվող
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSerifBold.otf/4.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSerifBold.otf/4.txt
+ocr out:   ակտիվանում Առանցքում ցրում չպատահեց անբաւարար
+text out:  ակտիվանում Առանցքում ցրում չպատահեց անբաւարար
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSerifBold.otf/5.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSerifBold.otf/5.txt
+ocr out:   ՄՈՒԼՏՖԻԼՄԸ Անհետաձգելի պարզապէս ԻՍԹԱՆՊՈՒԼ կենսաթոշակառուին
+text out:  ՄՈՒԼՏՖԻԼՄԸ Անհետաձգելի պարզապէս ԻՍԹԱՆՊՈՒԼ կենսաթոշակառուին
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSerifBold.otf/6.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSerifBold.otf/6.txt
+ocr out:   Ամուսնու ՀԻՇՎԵԼ հարմարանքներով հոսքերից Փաշինյանը`
+text out:  Ամուսնու ՀԻՇՎԵԼ հարմարանքներով հոսքերից Փաշինյանը`
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSerifBold.otf/7.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSerifBold.otf/7.txt
+ocr out:   ՄՏԵՐԻՄՆԵՐԻ շրազրկում ԿԱՐԴԱԿԻ մտածողութիւնը Կլինիկորեն
+text out:  ՄՏԵՐԻՄՆԵՐԻ ջրազրկում ԿԱՐԴԱԿԻ մտածողութիւնը Կլինիկորեն
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSerifBold.otf/8.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSerifBold.otf/8.txt
+ocr out:   հնարավարություն ձեռներեցի ռուսաստ Պուչինիի Սովորություն
+text out:  հնարավարություն ձեռներեցի ռուսաստ Պուչինիի Սովորություն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSerifBold.otf/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSerifBold.otf/9.txt
+ocr out:   եվրապարտատոմսերի ԴԵՂԱՏՈՒՆԸ Շշուկների Զգուշացեք մեկնեցան
+text out:  եվրապարտատոմսերի ԴԵՂԱՏՈՒՆԸ Շշուկների Զգուշացեք մեկնեցան
+WER: 0%
+

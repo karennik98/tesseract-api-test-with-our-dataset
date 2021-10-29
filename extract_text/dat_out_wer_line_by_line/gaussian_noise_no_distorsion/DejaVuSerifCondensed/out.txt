@@ -1,0 +1,60 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed/0.txt
+ocr out:   ՃՈՅՏ հիասքանչն կտպագրվեն ԴՅՈՒՄԱՆ ԵԿԵԼ`
+text out:  ՃՈՅՏ հիասքանչն կտպագրվեն ԴՅՈՒՄԱՆ ԵԿԵԼ`
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed/1.txt
+ocr out:   ՆԵԼԻ ՍԵԼԵՒԿՅԱՆՆԵՐԻ Մարկես Միհրանյանին իմուն
+text out:  ՆԵԼԻ ՍԵԼԵՒԿՅԱՆՆԵՐԻ Մարկես Միհրանյանին իմուն
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed/2.txt
+ocr out:   աղեղային ԲԱԲՈՅԱՆ ՓԱՐԱՔԱՐԻ հրաշալիքներ կիսամյակային)`
+text out:  աղեղային ԲԱԲՈՅԱՆ ՓԱՐԱՔԱՐԻ հրաշալիքներ կիսամյակային)`
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed/3.txt
+ocr out:   քաղցրությունը Ֆրենսիս պայքարից տեւո զհայր
+text out:  քաղցրությունը Ֆրենսիս պայքարից տեւո զհայր
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed/4.txt
+ocr out:   հասարակությամբ Յուրաքանչյուրը կէսից ՄԱՐԶԻՉՆԵՐԸ հարկատուներ
+text out:  հասարակությամբ Յուրաքանչյուրը կէսից ՄԱՐԶԻՉՆԵՐԸ հարկատուներ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed/5.txt
+ocr out:   գիտենամ ՄՆԱՎՈ մասնաւորապէս դավադիրները հանցակազմի
+text out:  գիտենամ ՄՆԱՎՈ մասնաւորապէս դավադիրները հանցակազմի
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed/6.txt
+ocr out:   ՄՆԾԳՐ ֆարշ հունվար-հունիսի մարմնացաւ ուսումնավարժական
+text out:  ՄՆԾԳՐ ֆարշ հունվար-հունիսի մարմնացաւ ուսումնավարժական
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed/7.txt
+ocr out:   դավաճանների ԽԱՂԱՑԱԾ Բորիսպոլսկայա ասելիքը խոտերի
+text out:  դավաճանների ԽԱՂԱՑԱԾ Բորիսպոլսկայա ասելիքը խոտերի
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed/8.txt
+ocr out:   ռումբերի ԿՐԹԱ ԱՌՆՎԱԶՆ մաստիտ Տպաքանակը
+text out:  ռումբերի ԿՐԹԱ ԱՌՆՎԱԶՆ մաստիտ Տպաքանակը
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed/9.txt
+ocr out:   հաշվեգրման ԱՌԱՎՈՏԻՆ երկրպագուներ Լաչինը դուլ
+text out:  հաշվեգրման ԱՌԱՎՈՏԻՆ երկրպագուներ Լաչինը դուլ
+WER: 0%
+

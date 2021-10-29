@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-Black/0.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-Black/0.txt
+ocr out:   պառոցները խողովակներից լէս յաշիկը բողոքարկվում
+text out:  պահոցները խողովակներից յէս յաշիկը բողոքարկվում
+WER: 40%
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-Black/1.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-Black/1.txt
+ocr out:   անարդարությունը տղայից խմբվել կմտցնեն կաթոդի
+text out:  անարդարությունը տղայից խմբվել կմտցնեն կաթոդի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-Black/2.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-Black/2.txt
+ocr out:   Մինի ռրապարակումից չարչարվել ԵԿԱՐԻՉԵԵՐԻՑ ՄՏՑՆԵԼՈՒՑ
+text out:  Մինի հրապարակումից չարչարվել ՆԿԱՐԻՉՆԵՐԻՑ ՄՏՑՆԵԼՈՒՑ
+WER: 40%
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-Black/3.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-Black/3.txt
+ocr out:   չշտապել ռմբակոծելու ՈՒՍԱԴԻՐԵԵՐԻ աշխարճագր Տրապիզոնում
+text out:  չշտապել ռմբակոծելու ՈՒՍԱԴԻՐՆԵՐԻ աշխարհագր Տրապիզոնում
+WER: 40%
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-Black/4.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-Black/4.txt
+ocr out:   Կարաչենցեւը դրսեւորումով պատասխանողներ բռնակալ ունենալն
+text out:  Կարաչենցեւը դրսեւորումով պատասխանողներ բռնակալ ունենալն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-Black/5.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-Black/5.txt
+ocr out:   Անդերլեխտ ՇԵՏԱՔՆԵՈՒՄ ՃԱՊՈՆԵՐԵՆ ինգյավ Դեմքով
+text out:  Անդերլեխտ ՀԵՏԱՔՆՆՈՒՄ ՃԱՊՈՆԵՐԵՆ ինգյավ Դեմքով
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-Black/6.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-Black/6.txt
+ocr out:   գործակցով օգնեմ ջրերով ԱՋԱԿՑՈՒՄԸ միաշղթա
+text out:  գործակցով օգնեմ ջրերով ԱՋԱԿՑՈՒՄԸ միաշղթա
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-Black/7.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-Black/7.txt
+ocr out:   տեղաբնիկների ԴԱՇՏԵՐԻՆ ավիացիոն Էրդողանի ՖՐՈՄ
+text out:  տեղաբնիկների ԴԱՇՏԵՐԻՆ ավիացիոն Էրդողանի ՖՐՈՄ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-Black/8.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-Black/8.txt
+ocr out:   ինովացիոն ԵՐԿԱԹԻ տեղաշարժմանը Կենսաթոշակի Սողանքային
+text out:  ինովացիոն ԵՐԿԱԹԻ տեղաշարժմանը Կենսաթոշակի Սողանքային
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-Black/9.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-Black/9.txt
+ocr out:   միոման կպցնելուՆԵՐԻՆ փղին Մուշական
+text out:  միոման կպցնելու ՆԵՐԻՆ փղին Մուշական
+WER: 40%
+

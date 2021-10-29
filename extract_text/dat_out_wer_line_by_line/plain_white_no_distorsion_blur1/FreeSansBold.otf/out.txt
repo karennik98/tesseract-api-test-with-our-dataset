@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansBold.otf/0.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansBold.otf/0.txt
+ocr out:   Մոնտաժում թէկուզ ՈՐՆԱ արդյունավետորեն Մշտադալար
+text out:  Մոնտաժում թէկուզ ՈՐՆԱ արդյունավետորեն Մշտադալար
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansBold.otf/1.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansBold.otf/1.txt
+ocr out:   հեռախոսագիրք ռադիոլոգ ԷԼ.ՓՈՍՏ՝ մելիքներից ՀԱՅՏՆԱԳՈՐԾԱԾ
+text out:  հեռախոսագիրք ռադիոլոգ ԷԼ.ՓՈՍՏ` մելիքներից ՀԱՅՏՆԱԳՈՐԾԱԾ
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansBold.otf/2.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansBold.otf/2.txt
+ocr out:   մոնտաժն ՊԱՅՄԱՆՆԵՐՈՒՄ Ալիմենտային բաներին չավելացնել
+text out:  մոնտաժն ՊԱՅՄԱՆՆԵՐՈՒՄ Ալիմենտային բաներին չավելացնել
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansBold.otf/3.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansBold.otf/3.txt
+ocr out:   խոսքը` ԲՐՅՈՒՍՈՎԸ ԺԵԼԻԲՏԵՐ այցելութեան հանվանե
+text out:  խոսքը` ԲՐՅՈՒՍՈՎԸ ԺԵԼԻԲՏԵՐ այցելութեան հանվանե
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansBold.otf/4.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansBold.otf/4.txt
+ocr out:   շրջակայքն ԲՐԻԼՈԿՆԵՐ կլցնեմ տնտսգ բջիջներով
+text out:  շրջակայքն ԲՐԻԼՈԿՆԵՐ կլցնեմ տնտսգ բջիջներով
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansBold.otf/5.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansBold.otf/5.txt
+ocr out:   խոսեմ չորացնելու ԳԱՄԿ-ԵՐԻ տողներ Ստանում
+text out:  խոսեմ չորացնելու ԳԱՄԿ-ԵՐԻ տողներ Ստանում
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansBold.otf/6.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansBold.otf/6.txt
+ocr out:   խաչակրաց ՀԱՂՈՐԴԱՇԱՐԵՐ կողքերում ԿՌՒՈՒՄ նշանակ
+text out:  խաչակրաց ՀԱՂՈՐԴԱՇԱՐԵՐ կողքերում ԿՌՒՈՒՄ նշանակ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansBold.otf/7.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansBold.otf/7.txt
+ocr out:   ուրոլոգի ամաչել կարծելու ԴՐՈՒՅՔՈՎ Բալայանի
+text out:  ուրոլոգի ամաչել կարծելու ԴՐՈՒՅՔՈՎ Բալայանի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansBold.otf/8.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansBold.otf/8.txt
+ocr out:   ՎՆԱՍԱԶԵՐԾՎԱԾ պնդացած Դոլուխանյանը օդիոզները նամակ-դիմում`
+text out:  ՎՆԱՍԱԶԵՐԾՎԱԾ պնդացած Դոլուխանյանը օդիոզները նամակ-դիմում`
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansBold.otf/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansBold.otf/9.txt
+ocr out:   Հայրա զՈրդի բնութագրում Կալոն ՏՈՏԵՆՀԵՄԸ
+text out:  Հայրա զՈրդի բնութագրում Կալոն ՏՈՏԵՆՀԵՄԸ
+WER: 0%
+

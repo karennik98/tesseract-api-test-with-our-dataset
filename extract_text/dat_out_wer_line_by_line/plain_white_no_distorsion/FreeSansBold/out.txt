@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBold/0.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBold/0.txt
+ocr out:   Գտնվելով ՓՈՐՁՈՎ Քարտֆոնային ԱՐԱՏՆԵՐ մուկիկը
+text out:  Գտնվելով ՓՈՐՁՈՎ Քարտֆոնային ԱՐԱՏՆԵՐ մուկիկը
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBold/1.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBold/1.txt
+ocr out:   Սպասվելիք աստղագուշական Բեյրութ Կառուցի՛ր պալեոլիթի
+text out:  Սպասվելիք աստղագուշական Բեյրութ Կառուցի՛ր պալեոլիթի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBold/2.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBold/2.txt
+ocr out:   ԿՈՆՉԻՏԱ թելին Քարթրիջի չափաքանակից անոթազարկ
+text out:  ԿՈՆՉԻՏԱ թելին Քարթրիջի չափաքանակից անոթազարկ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBold/3.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBold/3.txt
+ocr out:   Ընտանիքի մաքսատունը ԺԱՆՐՈՒՄ ներած Թորոսի
+text out:  Ընտանիքի մաքսատունը ԺԱՆՐՈՒՄ ներած Թորոսի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBold/4.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBold/4.txt
+ocr out:   մակարդակն տարակուսանքով մանուկներու ՂԵԿԱՎԱՐ-ՏՆՕՐԵՆԻ Բաստիա
+text out:  մակարդակն տարակուսանքով մանուկներու ՂԵԿԱՎԱՐ-ՏՆՕՐԵՆԻ Բաստիա
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBold/5.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBold/5.txt
+ocr out:   անալոգային աղտոտում թուլացել կապնվեք չափված
+text out:  անալոգային աղտոտում թուլացել կապնվեք չափված
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBold/6.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBold/6.txt
+ocr out:   հատկանիշներին Թուղթ/խոհ տեղումներից կանաչապատման Բազմաձայն
+text out:  հատկանիշներին Թուղթ/խոհ տեղումներից կանաչապատման Բազմաձայն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBold/7.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBold/7.txt
+ocr out:   լեզվ Տեղապահի սփոփում ժամանակահատվածի Բոռերի
+text out:  լեզվ Տեղապահի սփոփում ժամանակահատվածի Բոռերի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBold/8.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBold/8.txt
+ocr out:   Կապսի Միրիբյան հանրահաշվական ԹԱԳԱՎՈՐՈՒԹՅԱՆԸ ԳՐԱՎԵԼՈՎ
+text out:  Կապսի Միրիբյան հանրահաշվական ԹԱԳԱՎՈՐՈՒԹՅԱՆԸ ԳՐԱՎԵԼՈՎ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBold/9.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBold/9.txt
+ocr out:   դուրս` քաղաքացիներ Թինան Ալիս վտակներն
+text out:  դուրս` քաղաքացիներ Թինան Ալիս վտակներն
+WER: 0%
+

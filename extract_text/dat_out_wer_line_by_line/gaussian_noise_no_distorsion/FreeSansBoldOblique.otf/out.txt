@@ -1,0 +1,60 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique.otf/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique.otf/0.txt
+ocr out:   Տեղեկագիրը ձեւով` վերական զեյթունցիների Սիրելիներս
+text out:  Տեղեկագիրը ձեւով` վերական զեյթունցիների Սիրելիներս
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique.otf/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique.otf/1.txt
+ocr out:   զերգս մարիչներ այլընտրանք ռեզերվներ Այրեսի
+text out:  զերգս մարիչներ այլընտրանք ռեզերվներ Այրեսի
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique.otf/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique.otf/2.txt
+ocr out:   ՆԻԿՈՍԻԱՅՈՒՄ մտնել ամենազինված Բախչինյանը դուդուկն
+text out:  ՆԻԿՈՍԻԱՅՈՒՄ մտնել ամենազինված Բախչինյանը դուդուկն
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique.otf/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique.otf/3.txt
+ocr out:   աճմանը համահալվածքների Կռվից ձորերով հանճարով
+text out:  աճմանը համահալվածքների Կռվից ձորերով հանճարով
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique.otf/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique.otf/4.txt
+ocr out:   ԹԱՎԱԴՅԱՆԻ դիպաւնստեցինք Աթոռը կապնվեք
+text out:  ԹԱՎԱԴՅԱՆԻ դիպաւ նստեցինք Աթոռը կապնվեք
+WER: 40%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique.otf/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique.otf/5.txt
+ocr out:   գրանցելը ՑՈՒՑԱՆԻՇՆԵՐ պատճառեցին ՇՈՒՐՋՕՐՅԱ նախազորակոչային
+text out:  գրանցելը ՑՈՒՑԱՆԻՇՆԵՐ պատճառեցին ՇՈՒՐՋՕՐՅԱ նախազորակոչային
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique.otf/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique.otf/6.txt
+ocr out:   ԶՐԱԴԱՇՏԻ խորհրդականները մետալուրգիայի ՇՏԵՄԱՐԱՆՆԵՐ տանը`
+text out:  ԶՐԱԴԱՇՏԻ խորհրդականները մետալուրգիայի ՇՏԵՄԱՐԱՆՆԵՐ տանը`
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique.otf/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique.otf/7.txt
+ocr out:   հավաքչությամբ Ջելալը Հախվերդյանին պատմվող վերաբաշխման
+text out:  հավաքչությամբ Ջելալը Հախվերդյանին պատմվող վերաբաշխման
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique.otf/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique.otf/8.txt
+ocr out:   Հոկտեմբերյանի ՉՀԵՏԱՊՆԴՈՂ Պերճ զուգընկերը սփյուռք
+text out:  Հոկտեմբերյանի ՉՀԵՏԱՊՆԴՈՂ Պերճ զուգընկերը սփյուռք
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique.otf/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique.otf/9.txt
+ocr out:   կախարդական ապահովե ԵՐԱԺՇՏՈՒԹԵԱՆ ԱՆԻՎԻ աղերսանքներով
+text out:  կախարդական ապահովե ԵՐԱԺՇՏՈՒԹԵԱՆ ԱՆԻՎԻ աղերսանքներով
+WER: 0%
+

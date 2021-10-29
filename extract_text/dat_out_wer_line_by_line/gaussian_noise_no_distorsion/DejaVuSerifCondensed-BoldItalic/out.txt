@@ -1,0 +1,60 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-BoldItalic/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-BoldItalic/0.txt
+ocr out:   բազմապտուղ անիծված հովանավորն ՓԱՐ լուսանկարիչ`
+text out:  բազմապտուղ անիծված հովանավորն ՓԱՐ լուսանկարիչ`
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-BoldItalic/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-BoldItalic/1.txt
+ocr out:   գոլորշացումը Պելեն կասեցրեց նիքում կիսի
+text out:  գոլորշացումը Պելեն կասեցրեց նիքում կիսի
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-BoldItalic/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-BoldItalic/2.txt
+ocr out:   ՎԱՐՁԱ երկպառակության Վ.Գրիգորյանի ՎՆԱՍՎԱԾՔՈՎ Պարսամ
+text out:  ՎԱՐՁԱ երկպառակության Վ.Գրիգորյանի ՎՆԱՍՎԱԾՔՈՎ Պարսամ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-BoldItalic/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-BoldItalic/3.txt
+ocr out:   ջրվեժի Հ.Թումանյանի ԴԻԶԱՅՆԵՐԸ տարածաշրջանները Մամբլ
+text out:  ջրվեժի Հ.Թումանյանի ԴԻԶԱՅՆԵՐԸ տարածաշրջանները Մամբլ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-BoldItalic/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-BoldItalic/4.txt
+ocr out:   ԾԱՆՐՈՑԻ խումբ կրծքավանդակից ԱՓԱՆԻ Բոզոյանը
+text out:  ԾԱՆՐՈՑԻ խումբ կրծքավանդակից ԱՓԱՆԻ Բոզոյանը
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-BoldItalic/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-BoldItalic/5.txt
+ocr out:   Արարողությանը ԽՈՐՀՐԴԱՐԱՆԻ գործում` ձեռքին ԱՋԱԿԻՑՆԵՐ
+text out:  Արարողությանը ԽՈՐՀՐԴԱՐԱՆԻ գործում` ձեռքին ԱՋԱԿԻՑՆԵՐ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-BoldItalic/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-BoldItalic/6.txt
+ocr out:   ընծայած ԱՃԱՌՆԵՐԻ Այլեքս տեղանքով երկերը
+text out:  ընծայած ԱՃԱՌՆԵՐԻ Այլեքս տեղանքով երկերր
+WER: 20%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-BoldItalic/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-BoldItalic/7.txt
+ocr out:   բնորոշելու սալիկային ՁՈՂԵՐԻ Խար ՄԵՏԱԼՈՒՐԳԻԱՅԻ
+text out:  բնորոշելու սալիկային ՁՈՂԵՐԻ Խար ՄԵՏԱԼՈՒՐԳԻԱՅԻ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-BoldItalic/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-BoldItalic/8.txt
+ocr out:   ՌԵՍՊՈՆԴԵՆՏՆԵՐԻ Ոլոռի խոցոտում ՀԱՒԱՏՈՎ Մրցաշարեր
+text out:  ՌԵՍՊՈՆԴԵՆՏՆԵՐԻ Ոլոռի խոցոտում ՀԱՒԱՏՈՎ Մրցաշարեր
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-BoldItalic/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-BoldItalic/9.txt
+ocr out:   սյունին չնայեմ ԵՄ-Ադրբե Շաքիի տեսություն
+text out:  սյունին չնայեմ ԵՄ-Ադրբե Շաքիի տեսություն
+WER: 0%
+

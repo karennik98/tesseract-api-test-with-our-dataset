@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed-Oblique/0.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed-Oblique/0.txt
+ocr out:   շարժառիթով ԶԱՎԹԻՉՆԵՐԻՑ կատարե հաստոցներով ԲՈԼՈՐԻ
+text out:  շարժառիթով ԶԱՎԹԻՉՆԵՐԻՑ կատարե հաստոցներով ԲՈԼՈՐԻ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed-Oblique/1.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed-Oblique/1.txt
+ocr out:   Եվրահանձնաժողովի մեղավորություն ՎԱՆԴԱԼԻԶՄ ՍԻԳ Կամքին
+text out:  Եվրահանձնաժողովի մեղավորություն ՎԱՆԴԱԼԻԶՄ ՍԻԳ Կամքին
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed-Oblique/2.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed-Oblique/2.txt
+ocr out:   սարդները անմրցունակ ՀԱԿԱԿԱՐԻՉՆԵՐ վըրան ֆիլմից
+text out:  սարդները անմրցունակ ՀԱԿԱԿԱՐԻՉՆԵՐ վըրան ֆիլմից
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed-Oblique/3.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed-Oblique/3.txt
+ocr out:   հղիությանը ԲԻԹԼԻՍ ԿԱՍԱԼԻՍԸ Յովհաննէս Ցուցչային
+text out:  հղիությանը ԲԻԹԼԻՍ ԿԱՍԱԼԻՍԸ Յովհաննէս Ցուցչային
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed-Oblique/4.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed-Oblique/4.txt
+ocr out:   լրացումները` ՇԱՀԳԵԼԴՅԱՆ` ՏԻՐՈՋԻՑ գոյ շքեղ
+text out:  լրացումները` ՇԱՀԳԵԼԴՅԱՆ` ՏԻՐՈՋԻՑ գոյ շքեղ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed-Oblique/5.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed-Oblique/5.txt
+ocr out:   մամռակալած ԱՄԲԻՈՆԻՆ ՀԱՍԱԿԱԿԻՑ համալսարանը փողերով
+text out:  մամռակալած ԱՄԲԻՈՆԻՆ ՀԱՍԱԿԱԿԻՑ համալսարանը փողերով
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed-Oblique/6.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed-Oblique/6.txt
+ocr out:   թիվս Լուսակարծրացող մանուշակի հսկումը այլաբանական
+text out:  թիվս Լուսակարծրացող մանուշակի հսկումը այլաբանական
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed-Oblique/7.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed-Oblique/7.txt
+ocr out:   ՄԵՂԱԴՐԱՆՔՆԵՐԻՑ փափլիկ ՑԱՆԿԸ` ՕՐԻՆԱԿՈՎ ՊԱՐԱՄԵՏՐԵՐԻՑ
+text out:  ՄԵՂԱԴՐԱՆՔՆԵՐԻՑ փափլիկ ՑԱՆԿԸ` ՕՐԻՆԱԿՈՎ ՊԱՐԱՄԵՏՐԵՐԻՑ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed-Oblique/8.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed-Oblique/8.txt
+ocr out:   մոբիլիզացնելու ղոնախ նամակից Միաց քարշակվող
+text out:  մոբիլիզացնելու ղոնախ նամակից Միաց քարշակվող
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed-Oblique/9.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed-Oblique/9.txt
+ocr out:   ծախիւք Գործում թափուի ՀԱՎԱՍԱՐԵՑՎԵԼ ՊԱՐԲԵՐՈՒԹՅՈՒՆ
+text out:  ծախիւք Գործում թափուի ՀԱՎԱՍԱՐԵՑՎԵԼ ՊԱՐԲԵՐՈՒԹՅՈՒՆ
+WER: 0%
+

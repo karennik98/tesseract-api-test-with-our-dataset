@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Bold/0.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Bold/0.txt
+ocr out:   երկիրը` նապահությամբ ԳԵՂԵՑԿՈՒԹՅՈՒՆԸ Դիպուկահարը դիմումի
+text out:  երկիրը` նապահությամբ ԳԵՂԵՑԿՈՒԹՅՈՒՆԸ Դիպուկահարը դիմումի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Bold/1.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Bold/1.txt
+ocr out:   ԱՄՐՈՑՆԵՐ Թերթեր/Ամսագրեր ԴԻՄԵԼՆ վախմ տիրապետու
+text out:  ԱՄՐՈՑՆԵՐ Թերթեր/Ամսագրեր ԴԻՄԵԼՆ վախմ տիրապետու
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Bold/2.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Bold/2.txt
+ocr out:   մասնակցող Սրվանձտյանի ուրարտերենի բրդից Տրոլեյբուսի
+text out:  մասնակցող Սրվանձտյանի ուրարտերենի բրդից Տրոլեյբուսի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Bold/3.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Bold/3.txt
+ocr out:   Գրիշա ՈԳՈՒ փոխե իմաստասերների ՀԱՅՑԱԴԻՄՈՒՄՆԵՐԻ
+text out:  Գրիշա ՈԳՈՒ փոխե իմաստասերների ՀԱՅՑԱԴԻՄՈՒՄՆԵՐԻ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Bold/4.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Bold/4.txt
+ocr out:   լրագրությունը ԱՆՁԵՐԻ ՖԻՔՍՎԱԾ չսիրած տուգանքը
+text out:  լրագրությունը ԱՆՁԵՐԻ ՖԻՔՍՎԱԾ չսիրած տուգանքը
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Bold/5.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Bold/5.txt
+ocr out:   Խոտհնձիչ ԻՄԱՍՏՈՒՆՆԵՐԻ ՀՑԹԻ ՈԳԵՒՈՐՈՒԹՅՈՒՆԸ լեգիրացված
+text out:  Խոտհնձիչ ԻՄԱՍՏՈՒՆՆԵՐԻ ՀՑԹԻ ՈԳԵՒՈՐՈՒԹՅՈՒՆԸ լեգիրացված
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Bold/6.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Bold/6.txt
+ocr out:   ԾԱՌՈՒԿՅԱՆԸ տոմսակ ՄԱՆՎՈՒՄ բակալավ հանեցին
+text out:  ԾԱՌՈՒԿՅԱՆԸ տոմսակ ՄԱՆՎՈՒՄ բակալավ հանեցին
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Bold/7.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Bold/7.txt
+ocr out:   վերածվեցին կոորդինացման Կավալիերսի բերկրության ԱՍՏՐԱԽԱՆԻ
+text out:  վերածվեցին կոորդինացման Կավալիերսի բերկրության ԱՍՏՐԱԽԱՆԻ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Bold/8.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Bold/8.txt
+ocr out:   չկայ Ագարակի ներկայացրել` Այլազան ֆիդայիները
+text out:  չկայ Ագարակի ներկայացրել` Այլազան ֆիդայիները
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Bold/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Bold/9.txt
+ocr out:   բոշաների ԼՑՆԵՄ մաթեմատիկան քահանայություն ՆԵՐԿԱՅԱՑՐԻՆ
+text out:  բոշաների ԼՑՆԵՄ մաթեմատիկան քահանայություն ՆԵՐԿԱՅԱՑՐԻՆ
+WER: 0%
+

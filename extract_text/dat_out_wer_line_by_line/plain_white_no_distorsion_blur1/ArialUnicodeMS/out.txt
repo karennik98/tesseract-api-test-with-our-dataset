@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/0.jpg
+text file: ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/0.txt
+ocr out:   արջեւ ԵՐԳԵՑՈՂՈՒԹՅԱՆ Աչքն ՊԱՏԺԻՑ ՅԱՐՈՄԻՐ
+text out:  արջեւ ԵՐԳԵՑՈՂՈՒԹՅԱՆ Աչքն ՊԱՏԺԻՑ ՅԱՐՈՄԻՐ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/1.jpg
+text file: ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/1.txt
+ocr out:   ինքը` բյուրեղային բացառումն որդիներին ՊԱՏԿԵՐՎԱԾ
+text out:  ինքը` բյուրեղային բացառումն որդիներին ՊԱՏԿԵՐՎԱԾ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/2.jpg
+text file: ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/2.txt
+ocr out:   դեֆորմացիայի դադարումն ՏԻՐՈՋԻՑ ԹՈՒՆԵԼԻ ՊԱՆԱՅՈՏԻՍ
+text out:  դեֆորմացիայի դադարումն ՏԻՐՈՋԻՑ ԹՈՒՆԵԼԻ ՊԱՆԱՅՈՏԻՍ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/3.jpg
+text file: ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/3.txt
+ocr out:   ՍՅՈՒԺԵՆ աճից Յունական սովխոզի Թալինից
+text out:  ՍՅՈՒԺԵՆ աճից Յունական սովխոզի Թալինից
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/4.jpg
+text file: ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/4.txt
+ocr out:   քսանական ԾԱՌԱՅՈՒԹՅՈՒՆՆԵՐՆ Օդորակիչներ ավտոդողերի սելով
+text out:  քսանական ԾԱՌԱՅՈՒԹՅՈՒՆՆԵՐՆ Օդորակիչներ ավտոդողերի սելով
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/5.jpg
+text file: ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/5.txt
+ocr out:   ՆԿԱՐՉՈՒԹՅՈՒՆ հանույքից Ախալցխայից Սահրադյան Հայաստանեաց
+text out:  ՆԿԱՐՉՈՒԹՅՈՒՆ հաճույքից Ախալցխայից Սահրադյան Հայաստանեաց
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/6.jpg
+text file: ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/6.txt
+ocr out:   ԻԼԻԱԿԱՆ անհեթեթության Շոստակովիչը Տունն Կամավորների
+text out:  ԻԼԻԱԿԱՆ անհեթեթության Շոստակովիչը Տունն Կամավորների
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/7.jpg
+text file: ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/7.txt
+ocr out:   (ւղեզրության Միկելոն մահիկ գիտելիքներն ներանձնական
+text out:  Ուղեգրության Միկելոն մահիկ գիտելիքներն ներանձնական
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/8.jpg
+text file: ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/8.txt
+ocr out:   կընկնենք հետուսումնական Ջանք Սիլ սահմանվել
+text out:  կընկնենք հետուսումնական Ջանք Սիլ սահմանվել
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/ArialUnicodeMS/9.txt
+ocr out:   գնացիր ՄԱՌԵՐԻ ԱՍԵՑԻՆ ԵՐԿՕՔՍԻԴԻ ՍԻԴՆԻ
+text out:  գնացիր ԾԱՌԵՐԻ ԱՍԵՑԻՆ ԵՐԿՕՔՍԻԴԻ ՍԻԴՆԻ
+WER: 20%
+

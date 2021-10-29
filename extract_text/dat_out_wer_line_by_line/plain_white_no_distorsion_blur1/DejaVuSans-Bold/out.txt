@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSans-Bold/0.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSans-Bold/0.txt
+ocr out:   վերահաշված ընտրողականության հախ դահուկորդը ԶԻԿԱԿԱՆ
+text out:  վերահաշված ընտրողականության հախ դահուկորդը ԶԻԿԱԿԱՆ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSans-Bold/1.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSans-Bold/1.txt
+ocr out:   եզակիորեն հետաքրքրեց Տնտ Բառակազմական նահանգապետ
+text out:  եզակիորեն հետաքրքրեց Տնտ Բառակազմական նահանգապետ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSans-Bold/2.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSans-Bold/2.txt
+ocr out:   ամենր բրենդավորման մողեսի ՏԱՏԱՆՈՒՄՆԵՐԻՆ ԲՈՒՀ-ական
+text out:  ամենր բրենդավորման մողեսի ՏԱՏԱՆՈՒՄՆԵՐԻՆ ԲՈՒՀ-ական
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSans-Bold/3.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSans-Bold/3.txt
+ocr out:   շինականի ՔԱՂԱՔՈՒՄ ՂԵԿԱՎԱՐՆԵՐԻՑ ավտոմոբիլի ազատազրկվել
+text out:  շինականի ՔԱՂԱՔՈՒՄ ՂԵԿԱՎԱՐՆԵՐԻՑ ավտոմոբիլի ազատազրկվել
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSans-Bold/4.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSans-Bold/4.txt
+ocr out:   ՀԱՊԿ-ՈՒՄ Արեւս ՍԱԼՄԱՆԱՍԱՐ Ղարաբաղի ԿԵՑՑԷ
+text out:  ՀԱՊԿ-ՈՒՄ Արեւս ՍԱԼՄԱՆԱՍԱՐ Ղարաբաղի ԿԵՑՑԷ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSans-Bold/5.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSans-Bold/5.txt
+ocr out:   այսքանով Շարուր նուազ լգ երգչի
+text out:  այսքանով Շարուր նուազ լգ երգչի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSans-Bold/6.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSans-Bold/6.txt
+ocr out:   Մայիս անույշ Երր հարցուպատասխան ՍՐԲՈՒՀԻ
+text out:  Մայիս անույշ Երր հարցուպատասխան ՍՐԲՈՒՀԻ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSans-Bold/7.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSans-Bold/7.txt
+ocr out:   Ջեննի ԳՈՌԸ չԷ Հարմարանքներ Աֆրիկյան
+text out:  Ջեննի ԳՈՌԸ չԷ Հարմարանքներ Աֆրիկյան
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSans-Bold/8.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSans-Bold/8.txt
+ocr out:   կոտորածն Քրիեյթիվ Մազակալ ԱՌՈՂՋԱՆՈՒՄ Վիքիպեդիային
+text out:  կոտորածն Քրիեյթիվ Մազակալ ԱՌՈՂՋԱՆՈՒՄ Վիքիպեդիային
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSans-Bold/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSans-Bold/9.txt
+ocr out:   հաղթահարել ՊԱՇՏՈՆՅԱՆԵՐԻ ԹՌՉՈՒՆՆԵՐԻՑ կծկվել Ակումբն
+text out:  հաղթահարել ՊԱՇՏՈՆՅԱՆԵՐԻ ԹՌՉՈՒՆՆԵՐԻՑ կծկվել Ակումբն
+WER: 0%
+

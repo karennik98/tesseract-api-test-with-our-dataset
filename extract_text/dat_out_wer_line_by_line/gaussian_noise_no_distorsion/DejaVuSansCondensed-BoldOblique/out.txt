@@ -1,0 +1,60 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-BoldOblique/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-BoldOblique/0.txt
+ocr out:   ՄԱՆԿԱԲՈՒԺԱԿԱՆ սիրտին տունն ՉԱՐԵՆՑԱՎԱՆԻ սովորաբար
+text out:  ՄԱՆԿԱԲՈՒԺԱԿԱՆ սիրտին տունն ՉԱՐԵՆՑԱՎԱՆԻ սովորաբար
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-BoldOblique/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-BoldOblique/1.txt
+ocr out:   ՀՈԳՈՑ նվաճվում պիտակավորման սուրբերուն ՈՒՂՂՄԱՆ
+text out:  ՀՈԳՈՑ նվաճվում պիտակավորման սուրբերուն ՈՒՂՂՄԱՆ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-BoldOblique/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-BoldOblique/2.txt
+ocr out:   ՈՒԻԹՆԻ ծովահենները աղյու ռեցեպտի պատճառել
+text out:  ՈՒԻԹՆԻ ծովահենները աղյու ռեցեպտի պատճառել
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-BoldOblique/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-BoldOblique/3.txt
+ocr out:   փոխել` Դպրոցներին Դիփ հյութը ՌԵՏԻՆԱՏԵԽՆԻԿԱԿԱՆ
+text out:  փոխել` Դպրոցներին Դիփ հյութը ՌԵՏԻՆԱՏԵԽՆԻԿԱԿԱՆ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-BoldOblique/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-BoldOblique/4.txt
+ocr out:   եկալ ՄԱՅԱԿՈՎՍԿՈՒ մասնագիտությանս թագու փոխպատրիարք
+text out:  եկալ ՄԱՅԱԿՈՎՍԿՈՒ մասնագիտությանս թագու փոխպատրիարք
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-BoldOblique/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-BoldOblique/5.txt
+ocr out:   մարդակերպ Խաչերյանը նման ԱՐՏԿՈԴԻՆԳ Կաթողիկե
+text out:  մարդակերպ Խաչերյանը նման ԱՐՏԿՈԴԻՆԳ Կաթողիկե
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-BoldOblique/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-BoldOblique/6.txt
+ocr out:   ՀԻՄՆԱՐԿՆԵՐԻ կնքմանը Մայդանի Ջոաննա ժպտացի
+text out:  ՀԻՄՆԱՐԿՆԵՐԻ կնքմանը Մայդանի Ջոաննա ժպտացի
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-BoldOblique/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-BoldOblique/7.txt
+ocr out:   Հետքը կոծկվել ԸՆՏՐՄԱՆ ՏԷՄԻՐՃԵԱՆ չխանգարել
+text out:  Հետքը կոծկվել ԸՆՏՐՄԱՆ ՏԷՄԻՐՃԵԱՆ չխանգարել
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-BoldOblique/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-BoldOblique/8.txt
+ocr out:   նշաններում ԽԱՉԱԳՈՂԻ մտածելակերպին ՎԻՊԱԿՆԵՐԻ շալի
+text out:  նշաններում ԽԱՉԱԳՈՂԻ մտածելակերպին ՎԻՊԱԿՆԵՐԻ շալի
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-BoldOblique/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-BoldOblique/9.txt
+ocr out:   ՀԻՄՆԱԴՐՈՒՅԹՆԵՐ նախորդներն ՏՊԱՎՈՐՈՒԹՅՈՒՆՆԵՐ Բենդերը թուրս
+text out:  ՀԻՄՆԱԴՐՈՒՅԹՆԵՐ նախորդներն ՏՊԱՎՈՐՈՒԹՅՈՒՆՆԵՐ Բենդերը թուրս
+WER: 0%
+

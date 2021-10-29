@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSans-ExtraLight/0.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSans-ExtraLight/0.txt
+ocr out:   բյուջետավորումը ապագադ ՈՒՂԵՒՈՐՆԵՐԻՆ Կուսակցական եռանախագահների
+text out:  բյուջետավորումը ապագադ ՈՒՂԵՒՈՐՆԵՐԻՆ Կուսակցական եռանախագահների
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSans-ExtraLight/1.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSans-ExtraLight/1.txt
+ocr out:   եպիսկոպո մոտենալով Գեյցի ՊԱՏ.` Բուղ
+text out:  եպիսկոպո մոտենալով Գեյցի ՊԱՏ.` Բուղ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSans-ExtraLight/2.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSans-ExtraLight/2.txt
+ocr out:   բարելավելու ամբողջութեամբ ՌԵՍՏՈՐԱՆՆԵՐՈՒՄ ԶԳԱՑԻՆ Ասթմայի
+text out:  բարելավելու ամբողջութեամբ ՌԵՍՏՈՐԱՆՆԵՐՈՒՄ ԶԳԱՑԻՆ Ասթմայի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSans-ExtraLight/3.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSans-ExtraLight/3.txt
+ocr out:   ՀԱԶԱՐ վերահաստատման ԳԵՏԱԿԸ տուն-ինտերնատում սերմնացանը
+text out:  ՀԱԶԱՐ վերահաստատման ԳԵՏԱԿԸ տուն-ինտերնատում սերմնացանը
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSans-ExtraLight/4.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSans-ExtraLight/4.txt
+ocr out:   ՊՏՏՎԵԼՈՒ կծկվել ՀՈԼՈՎԱԿՈՒՄ ՔՈՂԱՐԿԵԼ գլյուկոզան
+text out:  ՊՏՏՎԵԼՈՒ կծկվել ՀՈԼՈՎԱԿՈՒՄ ՔՈՂԱՐԿԵԼ գլյուկոզան
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSans-ExtraLight/5.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSans-ExtraLight/5.txt
+ocr out:   ռայում ՑՈՒՑԱԴՐՈՒԹՅՈՒՆԸ գրադարանում ՀԱՄԱՉԱՓՈՐԵՆ Մեռյալների
+text out:  ռայում ՑՈՒՑԱԴՐՈՒԹՅՈՒՆԸ գրադարանում ՀԱՄԱՉԱՓՈՐԵՆ Մեռյալների
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSans-ExtraLight/6.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSans-ExtraLight/6.txt
+ocr out:   անտարակոյս ԴԱՇՆԱԿՑՈՒԹՅԱՆ խզ Քուշնարյանի Խերսոն
+text out:  անտարակոյս ԴԱՇՆԱԿՑՈՒԹՅԱՆ խզ Քուշնարյանի Խերսոն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSans-ExtraLight/7.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSans-ExtraLight/7.txt
+ocr out:   ձերբակալելուց ՋԵՐՄՈՑ ԿՆԵՐԴՆԻ ԿՐԹՈՒԹՅՈՒՆՆ պատվիրած
+text out:  ձերբակալելուց ՋԵՐՄՈՑ ԿՆԵՐԴՆԻ ԿՐԹՈՒԹՅՈՒՆՆ պատվիրած
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSans-ExtraLight/8.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSans-ExtraLight/8.txt
+ocr out:   ԴԵԿՏԵՄԲԵՐԻ Տնկիների սելֆիներն Վ.Ավետիսյան Քադիրովի
+text out:  ԴԵԿՏԵՄԲԵՐԻ Տնկիների սելֆիներն Վ.Ավետիսյան Քադիրովի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSans-ExtraLight/9.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSans-ExtraLight/9.txt
+ocr out:   ԺԱՄՅԱ մածնի Սկավառակի ադեկվատ շեղվելու
+text out:  ԺԱՄՅԱ մածնի Սկավառակի ադեկվատ շեղվելու
+WER: 0%
+

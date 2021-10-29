@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/0.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/0.txt
+ocr out:   վէպի ներաշխարհի անոնւմ խաբեք չգերազանցեն
+text out:  վէպի ներաշխարհի անո՞ւմ խաբեք չգերազանցեն
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/1.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/1.txt
+ocr out:   ՎՃԱՐՈՒՄՆ նեյրոէնդոկրին դահիճը Վաճառվում ԱՇԽԱՏԱՎԱՐՁՈՎ
+text out:  ՎՃԱՐՈՒՄՆ նեյրոէնդոկրին դահիճը Վաճառվում ԱՇԽԱՏԱՎԱՐՁՈՎ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/2.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/2.txt
+ocr out:   քրքումի Նիկոսիոյ ՔԼԱԲ կացնահարել ձնաանձրեւային
+text out:  քրքումի Նիկոսիոյ ՔԼԱԲ կացնահարել ձնաանձրեւային
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/3.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/3.txt
+ocr out:   ԳԵՆԵՐԱՏՈՐԻ Շվեյկի ՀԱՆՐԱԳՈՒՄԱՐԻՑ ԹՊՐՏՈՒՄ լճացած
+text out:  ԳԵՆԵՐԱՏՈՐԻ Շվեյկի ՀԱՆՐԱԳՈՒՄԱՐԻՑ ԹՊՐՏՈՒՄ լճացած
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/4.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/4.txt
+ocr out:   լճակում ՀԱՍԿԱՑԱՍՐ վահանն արգասիքները ԲԼՈԿԻ
+text out:  լճակում ՀԱՍԿԱՑԱ՞Ր վահանն արգասիքները ԲԼՈԿԻ
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/5.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/5.txt
+ocr out:   կհատկացնեն միջնաբերդում մարե Յուջելին ՊՐԻՆՏԼԻՍՏԻ
+text out:  կհատկացնեն միջնաբերդում մարե Յուջելին ՊՐԻՆՏԼԻՍՏԻ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/6.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/6.txt
+ocr out:   մակերեւույթն ՉԱՐԺԵ միացրեցին Նախագիծը Ֆանտա
+text out:  մակերեւույթն ՉԱՐԺԵ միացրեցին Նախագիծը Ֆանտա
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/7.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/7.txt
+ocr out:   ԼԵՌՆԵՐԻ գերազանցիկներին ԲՊՄՄ Սիներջի»-ն ՊԱՏՐԱՍՏՎԵԼՈՎ
+text out:  ԼԵՌՆԵՐԻ գերազանցիկներին ԲՊՄՄ Սիներջի»-ն ՊԱՏՐԱՍՏՎԵԼՈՎ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/8.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/8.txt
+ocr out:   ախտորոշումը` կշնորհավորեմ հանգերը ՄԻՋՍԱՀՄԱՆԱՅԻՆ Առածին
+text out:  ախտորոշումը` կշնորհավորեմ հանգերը ՄԻՋՍԱՀՄԱՆԱՅԻՆ Առածին
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeMono-Regular-8975/9.txt
+ocr out:   նոնւյնն Դեւրիկյան ՏԻԳ ճանապարհները խնայող
+text out:  նո՞ւյնն Դեւրիկյան ՏԻԳ ճանապարհները խնայող
+WER: 20%
+

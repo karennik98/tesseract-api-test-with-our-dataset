@@ -1,0 +1,60 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/0.txt
+ocr out:   Ջմռանը ՓՈԽՆԵՐԳՈՐԾՈՒԹՅԱՆ Վաճառականները կիսաթափանցիկ ԸՇԵՌԱՑՐՈՒ
+text out:  Ձմռանը ՓՈԽՆԵՐԳՈՐԾՈՒԹՅԱՆ Վաճառականները կիսաթափանցիկ ՀԵՌԱՑՐՈՒ
+WER: 40%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/1.txt
+ocr out:   Սոթք երիվարի ՇԱՄԱԽՄԲՄԱՆ եղանակներն Ջողերնժապավեններ
+text out:  Սոթք երիվարի ՀԱՄԱԽՄԲՄԱՆ եղանակներ` Ձողեր/ժապավեններ
+WER: 60%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/2.txt
+ocr out:   ԿԱԿԱՉ քարվանը սկրինինգի Շաքարախտը ԱՐԻՍՏԱԿԵՍԻ
+text out:  ԿԱԿԱՉ քարվանը սկրինինգի Շաքարախտը ԱՐԻՍՏԱԿԵՍԻ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/3.txt
+ocr out:   վերառսկողութ ԳՈՂՈՆԸ Իրօք Խառնուրդ վանիլային
+text out:  վերահսկողութ ԳՈՂՈՆԸ Իրօք Խառնուրդ վանիլային
+WER: 20%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/4.txt
+ocr out:   ԿԵՐՊԱՓՈԽՄԱՆ ՐԵԿԱ ԺՈՂՈՎԱԾՈՒՆԵՐԸ Շող ծավալվում
+text out:  ԿԵՐՊԱՓՈԽՄԱՆ ՐԵԿԱ ԺՈՂՈՎԱԾՈՒՆԵՐԸ Շող ծավալվում
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/5.txt
+ocr out:   Ծնկի ՔԱՄԻՆԵՐԸ ուժերին ԳԵԴԱԿԻՑ Շեղում
+text out:  Ծնկի ՔԱՄԻՆԵՐԸ ուժերի` ԳՆԴԱԿԻՑ Շեղում
+WER: 40%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/6.txt
+ocr out:   Ասմար ԷՔՍՏԵՌՆ անդորրագրի ՍԱՆ Մեթոդիկա
+text out:  Ասմար ԷՔՍՏԵՌՆ անդորրագրի ՍԱՆ Մեթոդիկա
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/7.txt
+ocr out:   գործատուին ԿՄ-ԻՆ զնծ ՍՈՒՆԻԱԿԱՆ ԲԱՆՆԵՐ
+text out:  գործատուին ԿՄ-ԻՆ զ/ծ ՍՈՒՆԻԱԿԱՆ ԲԱՆՆԵՐ
+WER: 20%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/8.txt
+ocr out:   ամրապնդեց ՌՈ գլխներիս ՇՐՋԱԳԱՅՈՒԹՅԱՆ սառմանադրութեան
+text out:  ամրապնդեց ՌՈ գլխներիս ՇՐՋԱԳԱՅՈՒԹՅԱՆ սահմանադրութեան
+WER: 20%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Bold/9.txt
+ocr out:   երթեւեկությունն ԾՊՏՅԱԼ ԳՈՐԾԱԾՎՈՂ Ռաշ Ընդդիմադիրները
+text out:  երթեւեկությունն ԾՊՏՅԱԼ ԳՈՐԾԱԾՎՈՂ Ռաշ Ընդդիմադիրները
+WER: 0%
+

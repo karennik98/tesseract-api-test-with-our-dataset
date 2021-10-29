@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion/FreeSerif.otf/0.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerif.otf/0.txt
+ocr out:   ԼԻԶԱՅԻ վերագրելը ճոճելով Ջելալ Հովս
+text out:  ԼԻԶԱՅԻ վերագրելը ճոճելով Ջելալ Հովս
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerif.otf/1.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerif.otf/1.txt
+ocr out:   հաջորդակա ամրոցն սիրողին ՆԵՐԳԱՂԹԱԾ ՔՆՆԱՐԿ
+text out:  հաջորդակա ամրոցն սիրողին ՆԵՐԳԱՂԹԱԾ ՔՆՆԱՐԿ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerif.otf/2.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerif.otf/2.txt
+ocr out:   Էլ-Բաբում ՀԻՄՆԱՍՅՈՒՆԵՐԻՑ անվանատեր ՑԵՂԱՆՈՒՆԸ դարձնող
+text out:  Էլ-Բաբում ՀԻՄՆԱՍՅՈՒՆԵՐԻՑ անվանատեր ՑԵՂԱՆՈՒՆԸ դարձնող
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerif.otf/3.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerif.otf/3.txt
+ocr out:   լրացու ավատական Դիլմանի ՅՈՒՆԱՅԹԵԴԻ փարաւոն
+text out:  լրացու ավատական Դիլմանի ՅՈՒՆԱՅԹԵԴԻ փարաւոն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerif.otf/4.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerif.otf/4.txt
+ocr out:   սեփականաշնորհված հրահանգել գահակալման գունանկ կերպվում
+text out:  սեփականաշնորհված հրահանգել գահակալման գունանկ կերպվում
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerif.otf/5.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerif.otf/5.txt
+ocr out:   ԱՆՏԱՐԲԵՐՈՒԹՅՈՒՆՆ հողէն նա՛խ ՀԻՆԳԵՐՈՐԴԸ ՀՐԴԵՀՆԵՐԸ
+text out:  ԱՆՏԱՐԲԵՐՈՒԹՅՈՒՆՆ հողէն նա՛խ ՀԻՆԳԵՐՈՐԴԸ ՀՐԴԵՀՆԵՐԸ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerif.otf/6.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerif.otf/6.txt
+ocr out:   ՇՈՐԱԳՅԱԼԻ ԼՎԱՑՎՈՒՄ Ջաֆար Երեսնամյա այրուն
+text out:  ՇՈՐԱԳՅԱԼԻ ԼՎԱՑՎՈՒՄ Ջաֆար Երեսնամյա այրուն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerif.otf/7.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerif.otf/7.txt
+ocr out:   աշխատավայրերում ԳԱՅԱՆԵԻՆ հետեւում բալամ չդի
+text out:  աշխատավայրերում ԳԱՅԱՆԵԻՆ հետեւում բալամ չդի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerif.otf/8.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerif.otf/8.txt
+ocr out:   տրաքեց ԼՍԵՐ վիրավորներն ավազը ՄԱՐԴԿԱՅՆՈՐԵՆ
+text out:  տրաքեց ԼՍԵՐ վիրավորներն ավազը ՄԱՐԴԿԱՅՆՈՐԵՆ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerif.otf/9.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerif.otf/9.txt
+ocr out:   ԹՈՒՅԼԱՏՐԱԳՐԻ Ծառի մակույկը թուղթ` զգլխիչ
+text out:  ԹՈՒՅԼԱՏՐԱԳՐԻ Ծառի մակույկը թուղթ` զգլխիչ
+WER: 0%
+

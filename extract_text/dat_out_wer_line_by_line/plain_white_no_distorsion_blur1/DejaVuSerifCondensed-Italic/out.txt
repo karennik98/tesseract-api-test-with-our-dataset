@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Italic/0.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Italic/0.txt
+ocr out:   Տրամադրությունը հանդէսին շողով ակնկալած զրկվեցի
+text out:  Տրամադրությունը հանդէսին շողով ակնկալած զրկվեցի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Italic/1.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Italic/1.txt
+ocr out:   լիդերություն ՄԱՐԹԱ ԿԱԹՆԱՇՈՌՈՎ ՍԻՊԻԼ ձավար
+text out:  լիդերություն ՄԱՐԹԱ ԿԱԹՆԱՇՈՌՈՎ ՍԻՊԻԼ ձավար
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Italic/2.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Italic/2.txt
+ocr out:   հիշի՛ր ԵՂԲՈՐՆ ՀՈՎՆԱՆԻ պսպղուն անքակտելիորեն
+text out:  հիշի՛ր ԵՂԲՈՐՆ ՀՈՎՆԱՆԻ պսպղուն անքակտելիորեն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Italic/3.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Italic/3.txt
+ocr out:   մոդիֆիկացիոն չտար ՇԻՆԱՐԱՐՈՒԹՅՈՒՆՆ շուտով ԱԴՐԻԱՆ
+text out:  մոդիֆիկացիոն չտար ՇԻՆԱՐԱՐՈՒԹՅՈՒՆՆ շուտով ԱԴՐԻԱՆ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Italic/4.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Italic/4.txt
+ocr out:   Գործարանն ՀԵՏԱԽՈՒԶՄԱՆ ՍՈՒՊԻՆԱՏՈՐՆԵՐԻ ՊԱՐԶՈՒԹՅՈՒՆ նվագելու
+text out:  Գործարանն ՀԵՏԱԽՈՒԶՄԱՆ ՍՈՒՊԻՆԱՏՈՐՆԵՐԻ ՊԱՐԶՈՒԹՅՈՒՆ նվագելու
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Italic/5.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Italic/5.txt
+ocr out:   ն/ք մբի Քերթողի հոգեցունց Դինո
+text out:  ն/ք մբի Քերթողի հոգեցունց Դինո
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Italic/6.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Italic/6.txt
+ocr out:   ներդրողներն ՄԱԿԱՆՎԱՄԲ այգիներից զուգընկերոջ ՏԵՐՄԻՆԱԼՆԵՐԻ
+text out:  ներդրողներն ՄԱԿԱՆՎԱՄԲ այգիներից զուգընկերոջ ՏԵՐՄԻՆԱԼՆԵՐԻ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Italic/7.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Italic/7.txt
+ocr out:   երգիչներն ՀԱՆԴԻՊՄԱՆՆ ԼՈԳԱՆՔՆԵՐԻ ամենալավ անհիմն
+text out:  երգիչներն ՀԱՆԴԻՊՄԱՆՆ ԼՈԳԱՆՔՆԵՐԻ ամենալավ անհիմն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Italic/8.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Italic/8.txt
+ocr out:   ԿՇԻՌՆԵՐՈՎ ընթացային նահապետաց ԱՎՏՈՏՆԱԿՈՒՄ ՔԱՂԱՔԱՑՈՒՆ
+text out:  ԿՇԻՌՆԵՐՈՎ ընթացային նահապետաց ԱՎՏՈՏՆԱԿՈՒՄ ՔԱՂԱՔԱՑՈՒՆ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Italic/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-Italic/9.txt
+ocr out:   Տարածքում առավ նուրբ ՔԵՐԻ գրախանութը
+text out:  Տարածքում առավ նուրբ ՔԵՐԻ գրախանութը
+WER: 0%
+

@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSans-Oblique/0.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSans-Oblique/0.txt
+ocr out:   ԱՆՏԱՌՆԵՐԻ Համաժողովն Ուսմունք ՍՈՎԵՏՆԵՐԻ կամերայի
+text out:  ԱՆՏԱՌՆԵՐԻ Համաժողովն Ուսմունք ՍՈՎԵՏՆԵՐԻ կամերայի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSans-Oblique/1.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSans-Oblique/1.txt
+ocr out:   ապացուցեցինք սովորողներ Բալկանֆարմա արժեւորվել ՄԱՍՆԱԿՑԵԻՆ
+text out:  ապացուցեցինք սովորողներ Բալկանֆարմա արժեւորվել ՄԱՍՆԱԿՑԵԻՆ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSans-Oblique/2.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSans-Oblique/2.txt
+ocr out:   վերաբերի ԱՂԱՆԴԵՐԱՅԻՆ ցոյց Ժիլետներ Շաքարավազն
+text out:  վերաբերի ԱՂԱՆԴԵՐԱՅԻՆ ցոյց Ժիլետներ Շաքարավազն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSans-Oblique/3.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSans-Oblique/3.txt
+ocr out:   ՈՒԹԵՐԻ Ընտրել ներառվելու ԶԲՈՍԱՇՐՋԻԿԻՆ կացվելու
+text out:  ՈՒԹԵՐԻ Ընտրել ներառվելու ԶԲՈՍԱՇՐՋԻԿԻՆ կացվելու
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSans-Oblique/4.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSans-Oblique/4.txt
+ocr out:   ջավախքյան ԾՆՆԴՈՑԻ ՀԱՇԻՇ ԴԻՄԱԽԱՂԻ երիտասարդութեան
+text out:  ջավախքյան ԾՆՆԴՈՑԻ ՀԱՇԻՇ ԴԻՄԱԽԱՂԻ երիտասարդութեան
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSans-Oblique/5.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSans-Oblique/5.txt
+ocr out:   ԵՂԻ պարտիայում Եվրախորհրդի թեստը Յոլ
+text out:  ԵՂԻ պարտիայում Եվրախորհրդի թեստը Յոլ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSans-Oblique/6.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSans-Oblique/6.txt
+ocr out:   ՈՒՂԵԿՑՎՈՂ Դինամիկա բարձրում ՆԹԱԴՐ ՆՈՐԱՑՈՒՄ
+text out:  ՈՒՂԵԿՑՎՈՂ Դինամիկա բարձրում ՆԹԱԴՐ ՆՈՐԱՑՈՒՄ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSans-Oblique/7.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSans-Oblique/7.txt
+ocr out:   հավերժացնող ՀԱՃՆԻ Ամենավաղ ՑԻԱԼ-ՏՆՏԵՍԱԿԱՆ ԼՍԻ
+text out:  հավերժացնող ՀԱՃՆԻ Ամենավաղ ՑԻԱԼ-ՏՆՏԵՍԱԿԱՆ ԼՍԻ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSans-Oblique/8.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSans-Oblique/8.txt
+ocr out:   բառախաղեր ԿԱՐԱՍ խաղաղված րոշման առողջարան
+text out:  բառախաղեր ԿԱՐԱՍ խաղաղված րոշման առողջարան
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSans-Oblique/9.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSans-Oblique/9.txt
+ocr out:   տեսակավորումը եե անդունդից ասորոց աղոթելով
+text out:  տեսակավորումը եե անդունդից ասորոց աղոթելով
+WER: 0%
+

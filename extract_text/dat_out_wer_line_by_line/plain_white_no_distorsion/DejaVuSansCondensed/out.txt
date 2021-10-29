@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed/0.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed/0.txt
+ocr out:   ԱՄԵՆԱՀԱՄԱՐՁԱԿ ԱՊՐԵՍՅԱՆԸ ծավալվող գլխատողի կնետեն
+text out:  ԱՄԵՆԱՀԱՄԱՐՁԱԿ ԱՊՐԵՍՅԱՆԸ ծավալվող գլխատողի կնետեն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed/1.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed/1.txt
+ocr out:   ՀԵՏԱԶՈՏՄԱՆ ՋՐԻՄՈՒՌՆԵՐԸ ռիսկերը փոխւում Ռեյթինգային
+text out:  ՀԵՏԱԶՈՏՄԱՆ ՋՐԻՄՈՒՌՆԵՐԸ ռիսկերը փոխւում Ռեյթինգային
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed/2.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed/2.txt
+ocr out:   կցորդիչով Նորավանքի ԷՐ մորեն ՄՈՏԵՑՆԵԼ
+text out:  կցորդիչով Նորավանքի ԷՐ մորեն ՄՈՏԵՑՆԵԼ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed/3.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed/3.txt
+ocr out:   ՖԻՐՄԱՆԵՐ Էլաստիկ ԿՇՏԱՆՈՒՄ Ամունդսենին ուսումնասիրեցին
+text out:  ՖԻՐՄԱՆԵՐ Էլաստիկ ԿՇՏԱՆՈՒՄ Ամունդսենին ուսումնասիրեցին
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed/4.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed/4.txt
+ocr out:   Տեր-Գուլանյան Համայնքներում ԳՐԱՎԱԴՐՎԵԼ ծրագրա ՀՈԴԵՐԸ
+text out:  Տեր-Գուլանյան Համայնքներում ԳՐԱՎԱԴՐՎԵԼ ծրագրա ՀՈԴԵՐԸ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed/5.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed/5.txt
+ocr out:   ԴԱՄԲԱՐԱՆԻ ՀՈՍՊԻՏԱԼԱՑՎԱԾ վից ՎԻՐԱՎՈՐՈՒՄ կանների
+text out:  ԴԱՄԲԱՐԱՆԻ ՀՈՍՊԻՏԱԼԱՑՎԱԾ վից ՎԻՐԱՎՈՐՈՒՄ կանների
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed/6.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed/6.txt
+ocr out:   Ավետարանչի հայտնաբերած ԱՄՓՈՓԵԼ սպիտակության ՇՈՒՏՎԱՆԻՑ
+text out:  Ավետարանչի հայտնաբերած ԱՄՓՈՓԵԼ սպիտակության ՇՈՒՏՎԱՆԻՑ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed/7.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed/7.txt
+ocr out:   թիւնք հրաւիրում եկալ Բառացանկ ՍԵՒԱԿ
+text out:  թիւնք հրաւիրում եկալ Բառացանկ ՍԵՒԱԿ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed/8.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed/8.txt
+ocr out:   Պոպովի Վարազի ՆԱԽՆԻՆԵՐԻ խոյերի ՓԱՐԱԴԱՅՍ
+text out:  Պոպովի Վարազի ՆԱԽՆԻՆԵՐԻ խոյերի ՓԱՐԱԴԱՅՍ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed/9.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed/9.txt
+ocr out:   ոչ»-ի Բրեմենյան ւկ աշխատանքերը գիշեր`
+text out:  ոչ»-ի Բրեմենյան ւկ աշխատանքերը գիշեր`
+WER: 0%
+

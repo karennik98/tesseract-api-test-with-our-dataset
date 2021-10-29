@@ -1,0 +1,60 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/0.txt
+ocr out:   բուժելիս Եկղ-ցու թողնեք ԿՈՒՐՍԿ ավարտված
+text out:  բուժելիս Եկղ-ցու թողնեք ԿՈՒՐՍԿ ավարտված
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/1.txt
+ocr out:   ՍԱՐՅԱՆԻ ՈՒՆԵՑՈՒԱԾՔԸ միկրոալիքային ԸՆԿԱԾ նժույգ
+text out:  ՍԱՐՅԱՆԻ ՈՒՆԵՑՈՒԱԾՔԸ միկրոալիքային ԸՆԿԱԾ նժույգ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/2.txt
+ocr out:   մրցաշրջանում պես Լենինգրադից ՄԵՂՄՈՂ Կտիրապետի
+text out:  մրցաշրջանում պես Լենինգրադից ՄԵՂՄՈՂ Կտիրապետի
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/3.txt
+ocr out:   ՖԱՐՄԱ-ԴԵՐՄԱ նկարահանումների Կանայանի ՄԱՍՏԱԿԻ ՎԱՐՔԱԿԱՆՈՆ
+text out:  ՖԱՐՄԱ-ԴԵՐՄԱ նկարահանումների Կանայանի ՄԱՍՏԱԿԻ ՎԱՐՔԱԿԱՆՈՆ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/4.txt
+ocr out:   ԱՄԲԱՐՏԱՎԱՆ Աւետարանական Հեռագրեր մաքսատուրքի ԹՈՐՈՍԵԱՆ
+text out:  ԱՄԲԱՐՏԱՎԱՆ Աւետարանական Հեռագրեր մաքսատուրքի ԹՈՐՈՍԵԱՆ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/5.txt
+ocr out:   ԼՈՒԾԱՐՄԱՆ Կարթագենը ՍՏԱՆՁՆՎԱԾ երտասարդ Տիգրիսը
+text out:  ԼՈՒԾԱՐՄԱՆ Կարթագենը ՍՏԱՆՁՆՎԱԾ երտասարդ Տիգրիսը
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/6.txt
+ocr out:   Գլխոյ Հոլովակը մղված հայեցակարգը` պատվիրակության
+text out:  գլխոյ Հոլովակը մղված հայեցակարգը` պատվիրակության
+WER: 20%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/7.txt
+ocr out:   Ապրի ոչնչության ՄՈՒԾՈՒՄՆԵՐ ԼԱ Է գաղտնաբառեր
+text out:  Ապրի ոչնչության ՄՈՒԾՈՒՄՆԵՐ ԼԱ՛Ւ գաղտնաբառեր
+WER: 40%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/8.txt
+ocr out:   աքսեսուարով ՀԱՏԱԿՈՒՄ ամպոց Մուրադյանն բաժանվի
+text out:  աքսեսուարով ՀԱՏԱԿՈՒՄ ամպոց Մուրադյանն բաժանվի
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeMonoOblique.otf/9.txt
+ocr out:   Չափածո անարդարացի զոտման հնչակյանների ԱՆՉԱՓԱՀԱՍՆԵՐԻ
+text out:  Չափածո անարդարացի զոտման հնչակյանների ԱՆՉԱՓԱՀԱՍՆԵՐԻ
+WER: 0%
+

@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Black/0.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Black/0.txt
+ocr out:   ԽՈՐԱՊԷՍ ամփոփում փազանց Յոր աշխատանքում
+text out:  ԽՈՐԱՊԷՍ ամփոփում` փազանց Յոր աշխատանքում
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Black/1.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Black/1.txt
+ocr out:   ԱՄԵՆԱԳԵՂԱՏԵՍԻԼ ղիս լացից ԿՈՏՐԵՑԻՆ ՄԵՔԵ
+text out:  ԱՄԵՆԱԳԵՂԱՏԵՍԻԼ ղիս լացից ԿՈՏՐԵՑԻՆ ՄԵՔԵ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Black/2.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Black/2.txt
+ocr out:   ՑՈՒՑԱՆԻՇՆԵՐ ՍԻՍԵՌԻ Ղ:-ն ՎՃԱՐ մանանան
+text out:  ՑՈՒՑԱՆԻՇՆԵՐ` ՍԻՍԵՌԻ Ղ.-ն ՎՃԱՐ մանանան
+WER: 40%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Black/3.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Black/3.txt
+ocr out:   ԱԲԵԱԿ թթվածնում ԾԱՆՈԹԱՑԱՆՔ բացայայտել Մարկեսի
+text out:  ԱԲՆԱԿ թթվածնում ԾԱՆՈԹԱՑԱՆՔ բացայայտել Մարկեսի
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Black/4.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Black/4.txt
+ocr out:   ցեխոտ նախազգուշացրել ԱՐՔԱՅԱՋՆԻ վարձակալելու բարեխիղճ
+text out:  ցեխոտ նախազգուշացրել ԱՐՔԱՅԱԶՆԻ վարձակալելու բարեխիղճ
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Black/5.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Black/5.txt
+ocr out:   ՍԱՐՍԱՓԱՋԴՈՒ նկարչական Թույլատրվում ՌԱՅԱ ՌԵԿՈՐԴՆԵՐ
+text out:  ՍԱՐՍԱՓԱԶԴՈՒ նկարչական Թույլատրվում ՌԱՅԱ ՌԵԿՈՐԴՆԵՐ
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Black/6.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Black/6.txt
+ocr out:   ԹԱՂԱՆԹԻ ՎԻՔԻՊԵԴԻԱՅԻՆ դիֆթերիա միջոցառման կանխատեսում
+text out:  ԹԱՂԱՆԹԻ ՎԻՔԻՊԵԴԻԱՅԻՆ դիֆթերիա միջոցառման կանխատեսում
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Black/7.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Black/7.txt
+ocr out:   խարկ Բավարիայի ՇԵՌՈՒ' ԿԱՊԻՆ Ապակեղենի
+text out:  խարկ Բավարիայի ՀԵՌՈՒ` ԿԱՊԻՆ Ապակեղենի
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Black/8.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Black/8.txt
+ocr out:   ամենակարեւորի ֆաշիստների ՎԱՅՈՑ լրանում դատաւորը
+text out:  ամենակարեւորի ֆաշիստների ՎԱՅՈՑ լրանում դատաւորը
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Black/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Black/9.txt
+ocr out:   Սրճարան սենսոր գովասանք Տեսիլքներ ԵՇԱՆԱԿՎՈՂ
+text out:  Սրճարան սենսոր գովասանք Տեսիլքներ ՆՇԱՆԱԿՎՈՂ
+WER: 20%
+

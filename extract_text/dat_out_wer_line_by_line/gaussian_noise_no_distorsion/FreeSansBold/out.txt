@@ -1,0 +1,60 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBold/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBold/0.txt
+ocr out:   հալէպահայ ուղեգրված գրատախտակներ Դիրիխլեի ՔՈՒՄ`
+text out:  հալէպահայ ուղեգրված գրատախտակներ Դիրիխլեի ՔՈՒՄ`
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBold/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBold/1.txt
+ocr out:   թթ.-ից ստեղները ԱՐՎԵՍՏԱԲԱՆ Ըսե ՄԵԾԱԾԱԽ
+text out:  թթ.-ից ստեղները ԱՐՎԵՍՏԱԲԱՆ Ըսե ՄԵԾԱԾԱԽ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBold/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBold/2.txt
+ocr out:   ՁԱՅՆԱՎՈՐԻ ՊԻԼՈՏԱՅԻՆ կուլտուրաները իրականացնողները նպատակայնության
+text out:  ՁԱՅՆԱՎՈՐԻ ՊԻԼՈՏԱՅԻՆ կուլտուրաները իրականացնողները նպատակայնության
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBold/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBold/3.txt
+ocr out:   ՏԱՅԻ ԿՀԱՄԱԳՈՐԾԱԿՑԵՆՔ հաջորդը՝ պաշտոնակատարի տեսութեան
+text out:  ՏԱՅԻ ԿՀԱՄԱԳՈՐԾԱԿՑԵՆՔ հաջորդը` պաշտոնակատարի տեսութեան
+WER: 20%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBold/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBold/4.txt
+ocr out:   մուլտիմեդիոն Ցելյուլիտի ԵՊԲՀ-ում Երեքշաբթի` ՆՈՏԱՐԻՆ
+text out:  մուլտիմեդիոն Ցելյուլիտի ԵՊԲՀ-ում Երեքշաբթի` ՆՈՏԱՐԻՆ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBold/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBold/5.txt
+ocr out:   հյուծիչ պնդումներից անէ նավերից Գնելի
+text out:  հյուծիչ պնդումներից անէ նավերից Գնելի
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBold/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBold/6.txt
+ocr out:   ԱՆՄԱՆ ՍՊԱՆՈՒԹՅԱՆ ոտքերը Մուր ԲԵՐԴՈՒՄ
+text out:  ԱՆՄԱՆ ՍՊԱՆՈՒԹՅԱՆ ոտքերը Մուր ԲԵՐԴՈՒՄ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBold/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBold/7.txt
+ocr out:   ՆԱՏՐԻՈՒՄԻ ԻՇԽԱՆԱՎՈՐՆԵՐԸ ադմինների ԴԱՏԱՊԱՐՏՎԱԾՆԵՐԻ դեղաչափերի
+text out:  ՆԱՏՐԻՈՒՄԻ ԻՇԽԱՆԱՎՈՐՆԵՐԸ ադմինների ԴԱՏԱՊԱՐՏՎԱԾՆԵՐԻ դեղաչափերի
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBold/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBold/8.txt
+ocr out:   կասկածներով նշիկները ատամիկի Թեղենյաց ՇՐՋԵԼ
+text out:  կասկածներով նշիկները ատամիկի Թեղենյաց ՇՐՋԵԼ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBold/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBold/9.txt
+ocr out:   Ժողովածու՝ կրկնություն չափագրման լարվեց ԿԱՌԱՎԱ
+text out:  ժողովածու` կրկնություն չափագրման լարվեց ԿԱՌԱՎԱ
+WER: 20%
+

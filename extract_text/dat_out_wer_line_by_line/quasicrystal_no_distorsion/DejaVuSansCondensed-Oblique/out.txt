@@ -1,0 +1,60 @@
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSansCondensed-Oblique/0.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSansCondensed-Oblique/0.txt
+ocr out:   Վառնայում սավոկ ՀԱՎԱՍՏԻԱՑՄԱՄԲ:ՊԱՇԱՐՎԱԾՆԵՐԸ գործակիցների
+text out:  Վառնայում սավոկ ՀԱՎԱՍՏԻԱՑՄԱՄԲ ՊԱՇԱՐՎԱԾՆԵՐԸ գործակիցների
+WER: 40%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSansCondensed-Oblique/1.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSansCondensed-Oblique/1.txt
+ocr out:   հրձիգ բնակատեղով ԵՌՈՒԶԵՌ արխիվների ՍԵՐՆԴԻ
+text out:  հրձիգ բնակատեղով ԵՌՈՒԶԵՌ արխիվների ՍԵՐՆԴԻ
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSansCondensed-Oblique/2.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSansCondensed-Oblique/2.txt
+ocr out:   ՎԻՐԱՎՈՐԱՆՔ ՄԵԹՈԴԻԿԱ փրկանք լատրելի ՔԵՄԱԼԻ
+text out:  ՎԻՐԱՎՈՐԱՆՔ ՄԵԹՈԴԻԿԱ փրկանք լատրելի ՔԵՄԱԼԻ
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSansCondensed-Oblique/3.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSansCondensed-Oblique/3.txt
+ocr out:   մայրաքաղաքն վերազանցելու ԱՌԱՋՆՈՒԹՅՈՒՆՆ քայլեմ ՄՀերի
+text out:  մայրաքաղաքն վերազանցելու ԱՌԱՋՆՈՒԹՅՈՒՆՆ քայլեմ ՄՀերի
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSansCondensed-Oblique/4.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSansCondensed-Oblique/4.txt
+ocr out:   ՎԻՐՔԸ Հիմնաբառ ԱՅՂՄ` ԱՄԱՆՈՍ Մոխրագույնի
+text out:  ՎԻՐՔԸ Հիմնաբառ ԱՅԴՄ` ԱՄԱՆՈՍ Մոխրագույնի
+WER: 20%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSansCondensed-Oblique/5.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSansCondensed-Oblique/5.txt
+ocr out:   տմարդների ուսուցանէր ԱՇԽԱՐՀԱԿԱՐԳԸ նբա Մեղրի-Քաջարան
+text out:  տմարդների ուսուցանէր ԱՇԽԱՐՀԱԿԱՐԳԸ նբա Մեղրի-Քաջարան
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSansCondensed-Oblique/6.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSansCondensed-Oblique/6.txt
+ocr out:   տերեւաթափից-Օգտվողը կորագիծ ԿԱԶՄԱԿԵՐՊԵԼԸ նկարահանվեցին
+text out:  տերեւաթափից Օգտվողը կորագիծ ԿԱԶՄԱԿԵՐՊԵԼԸ նկարահանվեցին
+WER: 40%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSansCondensed-Oblique/7.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSansCondensed-Oblique/7.txt
+ocr out:   նեւրոպաթոլոգի ԿՎԻՐԻԿԱՇՎԻԼԻԻՆ Աբովյանի ԾԱՂԻԿՆԵՐՈՎ ՈՂԲԵՐԳՈՒԹՅԱՆԸ
+text out:  նեւրոպաթոլոգի ԿՎԻՐԻԿԱՇՎԻԼԻԻՆ Աբովյանի ԾԱՂԻԿՆԵՐՈՎ ՈՂԲԵՐԳՈՒԹՅԱՆԸ
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSansCondensed-Oblique/8.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSansCondensed-Oblique/8.txt
+ocr out:   հաղորդումից Սանտ ՎԱՐՁԱՏՐՈՒԹՅՈՒՆ գրեիք շաբաթօրյակին
+text out:  հաղորդումից Սանտ ՎԱՐՁԱՏՐՈՒԹՅՈՒՆ գրեիք շաբաթօրյակին
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSansCondensed-Oblique/9.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSansCondensed-Oblique/9.txt
+ocr out:   ՍՎԱԶԻ թոքերին փոխադրված ՄՍԱՄԹԵՐՔԻ ուսապարկ
+text out:  ՍՎԱԶԻ թոքերին փոխադրված ՄՍԱՄԹԵՐՔԻ ուսապարկ
+WER: 0%
+

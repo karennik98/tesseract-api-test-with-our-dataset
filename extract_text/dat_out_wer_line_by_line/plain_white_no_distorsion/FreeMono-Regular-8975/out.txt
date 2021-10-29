@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion/FreeMono-Regular-8975/0.jpg
+text file: ../data/plain_white_no_distorsion/FreeMono-Regular-8975/0.txt
+ocr out:   ջանասիրությամբ լուսանցիկ Ազգա Սահակն ԶԻՆՅԱԼՆԵՐԻՑ
+text out:  ջանասիրությամբ լուսանցիկ Ազգա Սահակն ԶԻՆՅԱԼՆԵՐԻՑ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeMono-Regular-8975/1.jpg
+text file: ../data/plain_white_no_distorsion/FreeMono-Regular-8975/1.txt
+ocr out:   Նելլին Կիպրիանոսը էւր Ապիֆոբիա Երիքովի
+text out:  Նելլին Կիպրիանոսը էւր Ապիֆոբիա Երիքովի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeMono-Regular-8975/2.jpg
+text file: ../data/plain_white_no_distorsion/FreeMono-Regular-8975/2.txt
+ocr out:   պացիենտ ՏԱՐԲԵՐԱԿՆԵՐԻ պիոներ ՑՈՒՄՆԵՐԻ ձեւը
+text out:  պացիենտ ՏԱՐԲԵՐԱԿՆԵՐԻ պիոներ ՑՈՒՄՆԵՐԻ ձեւը
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeMono-Regular-8975/3.jpg
+text file: ../data/plain_white_no_distorsion/FreeMono-Regular-8975/3.txt
+ocr out:   Մցխեթա Եկմալյանը ապահովեք Տավուշում ԱՐՏԱԴՐԱՄԱՍ
+text out:  Մցխեթա Եկմալյանը ապահովեք Տավուշում ԱՐՏԱԴՐԱՄԱՍ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeMono-Regular-8975/4.jpg
+text file: ../data/plain_white_no_distorsion/FreeMono-Regular-8975/4.txt
+ocr out:   արմատա ֆեյքեր ՆԵՐԳԱՂԹՅԱԼ պարտա լող
+text out:  արմատա ֆեյքեր ՆԵՐԳԱՂԹՅԱԼ պարտա լող
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeMono-Regular-8975/5.jpg
+text file: ../data/plain_white_no_distorsion/FreeMono-Regular-8975/5.txt
+ocr out:   խափանելով վաքի բերող ՄՐԳԵՐԻՑ Բոհեմիան
+text out:  խափանելով վաքի բերող ՄՐԳԵՐԻՑ Բոհեմիան
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeMono-Regular-8975/6.jpg
+text file: ../data/plain_white_no_distorsion/FreeMono-Regular-8975/6.txt
+ocr out:   Օրդինար ԴԱՏԱՐԿԵԼ ՏԱՐԲԵՐԱԿՆԵՐԸ` զրպարտություններ Ցավալիորեն
+text out:  Օրդինար ԴԱՏԱՐԿԵԼ ՏԱՐԲԵՐԱԿՆԵՐԸ` զրպարտություններ Ցավալիորեն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeMono-Regular-8975/7.jpg
+text file: ../data/plain_white_no_distorsion/FreeMono-Regular-8975/7.txt
+ocr out:   պատռվածքը ՊԱՏՌՎԱԾՔ ԴՐԱՄԱՊԱՆԱԿԻ հայմորիտը սովետին
+text out:  պատռվածքը ՊԱՏՌՎԱԾՔ ԴՐԱՄԱՊԱՆԱԿԻ հայմորիտը սովետին
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeMono-Regular-8975/8.jpg
+text file: ../data/plain_white_no_distorsion/FreeMono-Regular-8975/8.txt
+ocr out:   պատմվածքներն ՏԵՂԱԲԱՇԽՄԱՆ ԱՐՏԱԴՐԱՄԱՍԵՐ անցկացվող ՈՍԿԵՂԷՆ
+text out:  պատմվածքներն ՏԵՂԱԲԱՇԽՄԱՆ ԱՐՏԱԴՐԱՄԱՍԵՐ անցկացվող ՈՍԿԵՂԷՆ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeMono-Regular-8975/9.jpg
+text file: ../data/plain_white_no_distorsion/FreeMono-Regular-8975/9.txt
+ocr out:   շարժառիթ ԿԼԵՈՊԱՏՐԱՅԻՑ եթերաժամի ԱՐԱՐՈՒՄ Ընկերները
+text out:  շարժառիթ ԿԼԵՈՊԱՏՐԱՅԻՑ եթերաժամի ԱՐԱՐՈՒՄ Ընկերները
+WER: 0%
+

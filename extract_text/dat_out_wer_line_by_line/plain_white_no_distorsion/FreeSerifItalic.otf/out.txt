@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifItalic.otf/0.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifItalic.otf/0.txt
+ocr out:   անվանումը որակումը հաստատելիս գովաբանական Ճամբար
+text out:  անվանումր որակումը հաստատելիս գովաբանական Ճամբար
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifItalic.otf/1.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifItalic.otf/1.txt
+ocr out:   Հաշտարարը ցանկանա Թովմա ԴԱՏԱՎԱՐՈՒ Ջանիկ
+text out:  Հաշտարարը ցանկանա Թովմա ԴԱՏԱՎԱՐՈՒ Ջանիկ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifItalic.otf/2.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifItalic.otf/2.txt
+ocr out:   ՓՈՇԻ ՄԻԱՎՈՐԻ ԽԵՂԱԹՅՈՒՐՎՈՒՄ մաղթ Գազատարն
+text out:  ՓՈՇԻ ՄԻԱՎՈՐԻ ԽԵՂԱԹՅՈՒՐՎՈՒՄ մաղթ Գազատարն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifItalic.otf/3.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifItalic.otf/3.txt
+ocr out:   ՍԽԱԼՆԵՐԻ լեռնանցքի խոտհնձիչ ծածկանուն հոգանք
+text out:  ՍԽԱԼՆԵՐԻ լեռնանցքի խոտհնձիչ ծածկանուն հոգանք
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifItalic.otf/4.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifItalic.otf/4.txt
+ocr out:   մասնիկ Թռչնոց անցյալիս ՈՒՈԹՖՈՐԴ Տեր-Ղեւոնդյանի
+text out:  մասնիկ Թռչնոց անցյալիս ՈՒՈԹՖՈՐԴ Տեր-Ղեւոնդյանի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifItalic.otf/5.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifItalic.otf/5.txt
+ocr out:   Դաշնակից Խորհրդանիշների ազդեցությունների ՈՏՔԵՐԻ ՕՊՏ
+text out:  Դաշնակից Խորհրդանիշների ազդեցությունների ՈՏՔԵՐԻ ՕՊՏ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifItalic.otf/6.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifItalic.otf/6.txt
+ocr out:   ԱՐՏԱՀԱՅՏՈՒԹՅԱՆՍ ամենահաջողակ ԱՐԺՈՒՅԹՈՎ Էգոն ԱՄԵՆԱՊԱՅԾԱՌ
+text out:  ԱՐՏԱՀԱՅՏՈՒԹՅԱՆՍ ամենահաջողակ ԱՐԺՈՒՅԹՈՎ Էգոն ԱՄԵՆԱՊԱՅԾԱՌ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifItalic.otf/7.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifItalic.otf/7.txt
+ocr out:   Արամազդը ԹԱԼԵ ամբիոններ պէյ ԿՈՆՑԵՐՏ
+text out:  Արամազդը ԹԱԼԵ ամբիոններ պէյ ԿՈՆՑԵՐՏ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifItalic.otf/8.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifItalic.otf/8.txt
+ocr out:   ԹԻՖԼԻՍԻՑ ամսավճար հայերենով Խրատ հասարական
+text out:  ԹԻՖԼԻՍԻՑ ամսավճար հայերենով Խրատ հասարական
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifItalic.otf/9.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifItalic.otf/9.txt
+ocr out:   Սնման սորտափորձարկման Կոստանյանի տպավորված ՊԱՏՄՈՂԻ
+text out:  Սնման սորտափորձարկման Կոստանյանի տպավորված ՊԱՏՄՈՂԻ
+WER: 0%
+

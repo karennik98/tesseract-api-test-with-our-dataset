@@ -1,0 +1,60 @@
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-BoldOblique/0.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-BoldOblique/0.txt
+ocr out:   ՀՈՍՊԻՏԱԼԻՑ էեւ ոստիկանության` ՀԱՅՏՆԱԲԵՐԻ յայլ
+text out:  ՀՈՍՊԻՏԱԼԻՑ էեւ ոստիկանության` ՀԱՅՏՆԱԲԵՐԻ յայլ
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-BoldOblique/1.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-BoldOblique/1.txt
+ocr out:   այրից ընտանեական ընթացել Շերի ՍԻՍԱԿԱՆ
+text out:  այրից ընտանեական ընթացել Շերի ՍԻՍԱԿԱՆ
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-BoldOblique/2.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-BoldOblique/2.txt
+ocr out:   ազատագրումն ԳԻՏԱԿՑՈՒԹՅՈՒՆԻՑ ՊԱՀԱԿԸ ճյու փառավորել
+text out:  ազատագրումն ԳԻՏԱԿՑՈՒԹՅՈՒՆԻՑ ՊԱՀԱԿԸ ճյու փառավորել
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-BoldOblique/3.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-BoldOblique/3.txt
+ocr out:   շարականներում ՍՏՈՒԳԱՉԱՓՄԱՆ Ֆիսկեն Միլ Գլխարկ
+text out:  շարականներում ՍՏՈՒԳԱՉԱՓՄԱՆ Ֆիսկեն Միլ Գլխարկ
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-BoldOblique/4.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-BoldOblique/4.txt
+ocr out:   ոճաբանութիւններ Բեմադրություններ խտուցքի ԲՈՂԿԸ ավարտեցին
+text out:  ոճաբանութիւններ Բեմադրություններ խտուցքի ԲՈՂԿԸ ավարտեցին
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-BoldOblique/5.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-BoldOblique/5.txt
+ocr out:   աշխարհայացքով իրանդ արգելոցային հնչակյանների կողմերին`
+text out:  աշխարհայացքով իրանդ արգելոցային հնչակյանների կողմերին`
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-BoldOblique/6.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-BoldOblique/6.txt
+ocr out:   բարձին ՀԱՆԴԻՍԱՏԵՍԻ ահագնանում ՏԱՓԱՐԱԿԻ ՍՊՈՒՆԳ
+text out:  բարձին ՀԱՆԴԻՍԱՏԵՍԻ ահագնանում ՏԱՓԱՐԱԿԻ ՍՊՈՒՆԳ
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-BoldOblique/7.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-BoldOblique/7.txt
+ocr out:   շինարարին Կասկածում ԼՈՂԱՑԵԼ կերտելով ԼԱԳՐԱՆԺԻ
+text out:  շինարարին Կասկածում ԼՈՂԱՑԵԼ կերտելով ԼԱԳՐԱՆԺԻ
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-BoldOblique/8.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-BoldOblique/8.txt
+ocr out:   Բուկ ԴԱՍԱՐԱՆՆԵՐԻ Իջեւանում Պոլիտեխնիկում թեթեւաբարո
+text out:  Բուկ ԴԱՍԱՐԱՆՆԵՐԻ Իջեւանում Պոլիտեխնիկում թեթեւաբարո
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-BoldOblique/9.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-BoldOblique/9.txt
+ocr out:   երգեցիկ ՖԻՈՆԻ ԹԱՆԿԱՑԵԼ փաստաաբնների Սանասարն
+text out:  երգեցիկ ՖԻՈՆԻ ԹԱՆԿԱՑԵԼ փաստաաբնների Սանասարն
+WER: 0%
+

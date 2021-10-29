@@ -1,0 +1,60 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Bold/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Bold/0.txt
+ocr out:   իրավատեր ՀԱՆԵՄ դաստիրակություն խաչմերուկն շփել
+text out:  իրավատեր ՀԱՆԵՄ դաստիրակություն խաչմերուկն շփել
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Bold/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Bold/1.txt
+ocr out:   յԵ ԿԱՊՈՒԿ ցեխով դաշնակցութեան Հոլտեր
+text out:  յԵ ԿԱՊՈՒԿ ցեխով դաշնակցութեան Հոլտեր
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Bold/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Bold/2.txt
+ocr out:   Բարեգործություն ԻՋԵՑՈՒՄՈՎ ԽԵՂՃԱՑԱԾ ԷՔՍՊՈ վանս
+text out:  Բարեգործություն ԻՋԵՑՈՒՄՈՎ ԽԵՂՃԱՑԱԾ ԷՔՍՊՈ վանս
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Bold/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Bold/3.txt
+ocr out:   փնտրումը կտրատվում ՕՐԵՐԸ՝ պաշտոնները Ուսուցումների
+text out:  փնտրումը կտրատվում ՕՐԵՐԸ` պաշտոնները Ուսուցումների
+WER: 20%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Bold/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Bold/4.txt
+ocr out:   ՆՈՎԵԼՆԵՐ Էլիզբարյանը Մուտքագրման պարզումը մանդատների
+text out:  ՆՈՎԵԼՆԵՐ Էլիզբարյանը Մուտքագրման պարզումը մանդատների
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Bold/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Bold/5.txt
+ocr out:   մարմնավորվել դաշտաց ԳԼՈԲԱԼԻԶԱՑԻԱՅԻՆ եվրոյինն ԱԶԻԶՅԱՆ
+text out:  մարմնավորվել դաշտաց ԳԼՈԲԱԼԻԶԱՑԻԱՅԻՆ եվրոյինն ԱԶԻԶՅԱՆ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Bold/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Bold/6.txt
+ocr out:   Փրկիչին ՀԱՇՎԱՌԻ հաշվված Մարկվարտի ֆուտբոլիստներից
+text out:  Փրկիչին ՀԱՇՎԱՌԻ հաշվված Մարկվարտի ֆուտբոլիստներից
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Bold/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Bold/7.txt
+ocr out:   ԳՈՐՏՈՒԿ անհատին երեւոյթի Սլավը խաղաթղթով
+text out:  ԳՈՐՏՈՒԿ անհատին երեւոյթի Սլավը խաղաթղթով
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Bold/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Bold/8.txt
+ocr out:   Խոնավությունը Սուպեր ԱՌԱՆՁՆԱՍԵՆՅԱԿԸ ԶԻՆՔՆ ԴԻՎԱՆԱԳԵՏՆԵՐԻՆ
+text out:  Խոնավությունը Սուպեր ԱՌԱՆՁՆԱՍԵՆՅԱԿԸ ԶԻՆՔՆ ԴԻՎԱՆԱԳԵՏՆԵՐԻՆ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Bold/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerifCondensed-Bold/9.txt
+ocr out:   դժուարութիւն ընտրատեղամասից ԿՆԱՑ Շրի ՆԺԴԵՀԻՆ
+text out:  դժուարութիւն ընտրատեղամասից ԿՆԱՑ Շրի ՆԺԴԵՀԻՆ
+WER: 0%
+

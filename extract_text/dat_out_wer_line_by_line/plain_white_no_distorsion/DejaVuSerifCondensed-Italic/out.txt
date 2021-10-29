@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed-Italic/0.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed-Italic/0.txt
+ocr out:   աղեղնային ՊԱՏԳԱՄԱՎՈՐ մակերեսով ավտո օգտագործվի
+text out:  աղեղնային ՊԱՏԳԱՄԱՎՈՐ մակերեսով ավտո օգտագործվի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed-Italic/1.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed-Italic/1.txt
+ocr out:   Դասախոս ԱՌՆԵՐ հորիզոնը ԳԱ Ունկնդիրների
+text out:  Դասախոս ԱՌՆԵՐ հորիզոնը ԳԱ Ունկնդիրների
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed-Italic/2.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed-Italic/2.txt
+ocr out:   տեղաբնակների հմալ խայտառակեց ՍՊԱՆԵԼ Իրիկուն
+text out:  տեղաբնակների հմալ խայտառակեց ՍՊԱՆԵԼ Իրիկուն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed-Italic/3.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed-Italic/3.txt
+ocr out:   ՄԷԹԵԱՆ Բացի Ջեռոցը հերոսուհիների իմունաբանության
+text out:  ՍԷԹԵԱՆ Բացի Ջեռոցը հերոսուհիների իմունաբանության
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed-Italic/4.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed-Italic/4.txt
+ocr out:   գծագրից Կիսավեր ստախոսությունը ԴԻՍԿՈՏԵԿ էժանացման
+text out:  գծագրից Կիսավեր ստախոսությունը ԴԻՍԿՈՏԵԿ էժանացման
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed-Italic/5.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed-Italic/5.txt
+ocr out:   Մաիղ խինդ անալոգային ՀԱՇՎՎՈՒՄ Զինվորների
+text out:  Սաիդ խինդ անալոգային ՀԱՇՎՎՈՒՄ Զինվորների
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed-Italic/6.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed-Italic/6.txt
+ocr out:   խոստումները մեյմունությամբ զրկեն Օսվալդ ԱՐՏԱՏՊՈՒՄԸ
+text out:  խոստումները մեյմունությամբ զրկեն Օսվալդ ԱՐՏԱՏՊՈՒՄԸ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed-Italic/7.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed-Italic/7.txt
+ocr out:   Բուֆֆոնն դատարան չափանիշին ԿԱՆՈՆԱԴՐՈՒԹՅԱՆԸ ԻՉԱՆ
+text out:  Բուֆֆոնն դատարան չափանիշին ԿԱՆՈՆԱԴՐՈՒԹՅԱՆԸ ԻՉԱՆ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed-Italic/8.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed-Italic/8.txt
+ocr out:   բրդուճ ՏԻԿԻՆՆԵՐ ջանքերը դերերում ՕՐ`
+text out:  բրդուճ ՏԻԿԻՆՆԵՐ ջանքերը դերերում ՕՐ`
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed-Italic/9.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed-Italic/9.txt
+ocr out:   Ատրակցիոններ արհեստակցական թներից Հովո ԲՌՆՈՒԹՅԱՆ
+text out:  Ատրակցիոններ արհեստակցական թներից Հովո ԲՌՆՈՒԹՅԱՆ
+WER: 0%
+

@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSerifItalic/0.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSerifItalic/0.txt
+ocr out:   ԱԿՆԿԱԼԻՔԸ ՄՈԴՈՒԼԱՅԻՆ հորով ուտիլիզացման Արծրունիների
+text out:  ԱԿՆԿԱԼԻՔԸ ՄՈԴՈՒԼԱՅԻՆ հորով ուտիլիզացման Արծրունիների
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSerifItalic/1.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSerifItalic/1.txt
+ocr out:   ՔԱՐԱՆՁԱՎ գտնուում մորթն ԿԱՌԱՋԱՆԱ նակցում
+text out:  ՔԱՐԱՆՁԱՎ գտնուում մորթն ԿԱՌԱՋԱՆԱ նակցում
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSerifItalic/2.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSerifItalic/2.txt
+ocr out:   ՉԻԼԻՈՒՄ ՄԱՆՆԵՐԸ Հազվադեպ փոփոխությամբ Տիգրիսն
+text out:  ՉԻԼԻՈՒՄ ՄԱՆՆԵՐԸ Հազվադեպ փոփոխությամբ Տիգրիսն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSerifItalic/3.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSerifItalic/3.txt
+ocr out:   երկարացած յացված գնդակոծման ԿՓՈԽԱՆԱԿԵՄ ԿՔՆՆԱՐԿԻ
+text out:  երկարացած յացված գնդակոծման ԿՓՈԽԱՆԱԿԵՄ ԿՔՆՆԱՐԿԻ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSerifItalic/4.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSerifItalic/4.txt
+ocr out:   ՄԱՍՈՒՆՔՆԵՐԻ գրգիռը ԼԱՏԻՆԵՐԵՆԸ մրցանակի միլիցիոներ
+text out:  ՄԱՍՈՒՆՔՆԵՐԻ գրգիռը ԼԱՏԻՆԵՐԵՆԸ մրցանակի միլիցիոներ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSerifItalic/5.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSerifItalic/5.txt
+ocr out:   ԲԾԱՎՈՐՈՒԹՅՈՒՆ ՌԱԶՄԱՎԱՐԱ ԼԱՅՆՈՒԹՅՈՒՆԻՑ Քոչարի մահապարտ
+text out:  ԲԾԱՎՈՐՈՒԹՅՈՒՆ ՌԱԶՄԱՎԱՐԱ ԼԱՅՆՈՒԹՅՈՒՆԻՑ Քոչարի մահապարտ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSerifItalic/6.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSerifItalic/6.txt
+ocr out:   փոխհաղորդակի Շինանյութը ՀԱՐԿԱԴՐՎԱԾ ԻՐԱՔԻ Սպիտակը
+text out:  փոխհաղորդակի Շինանյութը ՀԱՐԿԱԴՐՎԱԾ ԻՐԱՔԻ Սպիտակը
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSerifItalic/7.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSerifItalic/7.txt
+ocr out:   ներքնաձիգը Հաշվարկել Շարմաղ բնակէր ՕՐԳՏԵԽՆԻԿԱ
+text out:  ներքնաձիգը Հաշվարկել Շարմաղ բնակէր ՕՐԳՏԵԽՆԻԿԱ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSerifItalic/8.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSerifItalic/8.txt
+ocr out:   Պարարտացում սովորելը որոտը տուն-տեղ ԱՍՏՂՆ
+text out:  Պարարտացում սովորելը որոտը տուն-տեղ ԱՍՏՂՆ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSerifItalic/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSerifItalic/9.txt
+ocr out:   շառաչը Սարգսյանի` շաքարավազով գնորդն Բանտից
+text out:  շառաչը Սարգսյանի` շաքարավազով գնորդն Բանտից
+WER: 0%
+

@@ -1,0 +1,60 @@
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif/0.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif/0.txt
+ocr out:   ՓԵՏՈՒՐԵԵՐՈՎ տոկոսադրույքները Աման ՉԻՆԳԻԶ Քոսյան
+text out:  ՓԵՏՈՒՐՆԵՐՈՎ տոկոսադրույքները Ամպն ՉԻՆԳԻԶ Քոսյան
+WER: 40%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif/1.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif/1.txt
+ocr out:   Ամերիկային ացում ԱՄՍԱԳՐԵՐԻ ՂԳԴ Զապել
+text out:  Ամերիկային ացում ԱՄՍԱԳՐԵՐԻ ՂԳԴ Զապել
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif/2.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif/2.txt
+ocr out:   ՀՆԴԿԵՐԵՆ ԱՐՏԱԳՐԱՏԵԽ ո՛րն ԱՅՐՎԱԾՔԱՅԻՆ եռյակի
+text out:  ՀՆԴԿԵՐԵՆ ԱՐՏԱԴՐԱՏԵԽ ո՛րն ԱՅՐՎԱԾՔԱՅԻՆ եռյակի
+WER: 20%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif/3.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif/3.txt
+ocr out:   ՄՎՏ զանգվածրչավտոմոբիլներ բանիմաց ԲԵՌԷԹԱԳԲԻՉՆԵՐԻ
+text out:  ՄՎՏ զանգվածը ավտոմոբիլներ բանիմաց ԲՆՈՒԹԱԳՐԻՉՆԵՐԻ
+WER: 60%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif/4.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif/4.txt
+ocr out:   հարսանքավորների Անասելի հարցումն ԱՌԱՎՈՏՈՒՆ չկիրառվել
+text out:  հարսանքավորների Անասելի հարցումն ԱՌԱՎՈՏՈՒՆ չկիրառվել
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif/5.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif/5.txt
+ocr out:   կիմ ՆԱԽԱՏՈՆԱԿԸ ԱՄԵՆԱՍԻՐԵԼԻՆ ՈՂՋԵՐԻ թելադրողներն
+text out:  կիմ ՆԱԽԱՏՈՆԱԿԸ ԱՄԵՆԱՍԻՐԵԼԻՆ ՈՂՋԵՐԻ թելադրողներն
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif/6.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif/6.txt
+ocr out:   ՄՈՈՒՐԻՆՅՈՒՆ բարեւս ԼԻՆԻԼ նվիրված` ֆր
+text out:  ՄՈՈՒՐԻՆՅՈՒՆ բարեւս ԼԻՆԻԼ նվիրված` ֆը
+WER: 20%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif/7.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif/7.txt
+ocr out:   ՍԿԱՅՊՈՄԱՆԻԱ Հակոբյանն ՆԵՐԳՐԱՎՎԵՑ ՈՃՐԱԳՈՐԾՈՒԹՅՈՒՆԸ բարեխօսութեամբ
+text out:  ՍԿԱՅՊՈՄԱՆԻԱ Հակոբյանն ՆԵՐԳՐԱՎՎԵՑ ՈՃՐԱԳՈՐԾՈՒԹՅՈՒՆԸ բարեխօսութեամբ
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif/8.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif/8.txt
+ocr out:   ԹԵՍՏԵՐՆ Նախասենյակ Էրահոսը Միկրուչեմենտներ ՎՈԼՖՍԲՈՒՐԳ
+text out:  ԹԵՍՏԵՐՆ Նախասենյակ Լրահոսը Միկրոէլեմենտներ ՎՈԼՖՍԲՈՒՐԳ
+WER: 40%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif/9.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif/9.txt
+ocr out:   ԻԾԱՔԱՐ ԱՐՏԱՑՈԼՎՈՒՄ ՍՊԱՌԱԶԻՆՄԱՆ ԷՐԱՑԱԿԵՐԵՐԻ ՀՆԴԿԱՑԻՆԵՐԻՆ
+text out:  ԻԾԱՔԱՐ ԱՐՏԱՑՈԼՎՈՒՄ ՍՊԱՌԱԶԻՆՄԱՆ ԼՐԱՑԱԿԵՐԵՐԻ ՀՆԴԿԱՑԻՆԵՐԻՆ
+WER: 20%
+

@@ -1,0 +1,60 @@
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-Bold/0.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-Bold/0.txt
+ocr out:   Կ.Բեգլարյանի Այրվում ՕՊՑԻՈՆ ԴԵՊՔԵՐԻ` աբսիդով
+text out:  Կ.Բեգլարյանի Այրվում ՕՊՑԻՈՆ ԴԵՊՔԵՐԻ` աբսիդով
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-Bold/1.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-Bold/1.txt
+ocr out:   ԲԱՆՍ ԸԼ կարվում ՓՈՂՈՑԻՆ հիմնմանը
+text out:  ԲԱՆՍ ԸԼ կարվում ՓՈՂՈՑԻՆ հիմնմանը
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-Bold/2.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-Bold/2.txt
+ocr out:   Գ.Սունդուկյանի մուրճով արքայազն ՃԵՄԱՍՐԱՀՈՒՄ Նորմանդիայում
+text out:  Գ.Սունդուկյանի մուրճով արքայազն ՃԵՄԱՍՐԱՀՈՒՄ Նորմանդիայում
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-Bold/3.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-Bold/3.txt
+ocr out:   ԲԱՆՏԻ ՏՈՒՍԿ ՁԵՒԱՎՈՐՎԻ փոփոխելուց Ինչո՛ւ
+text out:  ԲԱՆՏԻ ՏՈՒՍԿ ՁԵՒԱՎՈՐՎԻ փոփոխելուց Ինչո՛ւ
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-Bold/4.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-Bold/4.txt
+ocr out:   աղջիկները-անոնս մոլուցքով ՎԱՆՔԱՊԱՏԿԱՆ քննություններով դործ
+text out:  աղջիկները-անոնս մոլուցքով ՎԱՆՔԱՊԱՏԿԱՆ քննություններով դործ
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-Bold/5.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-Bold/5.txt
+ocr out:   ՄՈՒՅԹԵՐԻ ՄԱՔՍԱԶԵՐԾՈՒՄ կազմեցինք ՏԻԲԵՐԻՈՍ հանգցրին:
+text out:  ՄՈՒՅԹԵՐԻ ՄԱՔՍԱԶԵՐԾՈՒՄ կազմեցինք ՏԻԲԵՐԻՈՍ հանգցրին
+WER: 20%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-Bold/6.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-Bold/6.txt
+ocr out:   ԵՐԹՈՒՂԱՅԻՆԸ ԱԶԳԻՍ հատկորոշիչների հաղթահարելի ՈՒՐԱՑՈՒՄՆԵՐ
+text out:  ԵՐԹՈՒՂԱՅԻՆԸ ԱԶԳԻՍ հատկորոշիչների հաղթահարելի ՈՒՐԱՑՈՒՄՆԵՐ
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-Bold/7.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-Bold/7.txt
+ocr out:   ԻՐԱՎԱՍՈՒԹՅԱՆԸ ԽՈՀԱՆՈՑԱՅԻՆ Բերիմորը գոտիները նյութեղեն
+text out:  ԻՐԱՎԱՍՈՒԹՅԱՆԸ ԽՈՀԱՆՈՑԱՅԻՆ Բերիմորը գոտիները նյութեղեն
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-Bold/8.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-Bold/8.txt
+ocr out:   յայսմ նորմավորում բերետներ երեւում ծխում
+text out:  յայսմ նորմավորում բերետներ երեւում ծխում
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-Bold/9.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-Bold/9.txt
+ocr out:   փնտրտուքներ ԸՄԲՌՆԵԼՈՒ ՓՈՒՇԸ կազակների ՍՏՐՈՒԿԻ
+text out:  փնտրտուքներ ԸՄԲՌՆԵԼՈՒ ՓՈՒՇԸ կազակների ՍՏՐՈՒԿԻ
+WER: 0%
+

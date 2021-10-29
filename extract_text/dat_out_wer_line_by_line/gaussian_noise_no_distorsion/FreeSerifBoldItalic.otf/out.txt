@@ -1,0 +1,60 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic.otf/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic.otf/0.txt
+ocr out:   ԶԱՐՄԱՑԱ հայտարարած Ինքնաթիռների ՍՏԱՆ Մնջախաղ
+text out:  ԶԱՐՄԱՑԱ հայտարարած Ինքնաթիռների ՍՏԱՆ Մնջախաղ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic.otf/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic.otf/1.txt
+ocr out:   արդարությունն վարկերի Ճստիկ շաբաթօրյակի կոթողներից
+text out:  արդարությունն վարկերի Ճստիկ շաբաթօրյակի կոթողներից
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic.otf/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic.otf/2.txt
+ocr out:   ԶՕՐՈՒ ԴՈՒՊԼԵՔՍ ՄՐՑԱԿՑՈՒԹՅԱՆ ԵՆՈՐ մարզիչին
+text out:  ԶՕՐՈՒ ԴՈՒՊԼԵՔՍ ՄՐՑԱԿՑՈՒԹՅԱՆ ԵՆՈՐ մարզիչին
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic.otf/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic.otf/3.txt
+ocr out:   մոսկվայաբնակ ԽԱՂԸ ԿՃՈՅԱՆ Բարսելոնն փրկելու
+text out:  մոսկվայաբնակ ԽԱՂԸ ԿՃՈՅԱՆ Բարսելոնն փրկելու
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic.otf/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic.otf/4.txt
+ocr out:   ՎԱՐԴԱՎԱՌ սպասուած հետեւությունն ւլի տհաճության
+text out:  ՎԱՐԴԱՎԱՌ սպասուած հետեւությունն ւլի տհաճության
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic.otf/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic.otf/5.txt
+ocr out:   կազդարարի գրատախտակով փորված Սեյֆ Շամշյան
+text out:  կազդարարի գրատախտակով փորված Սեյֆ Շամշյան
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic.otf/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic.otf/6.txt
+ocr out:   Կլենտէյլի պավլիկյանների փաստաբանների ԲԱՐԵՄԱՂԹԱՆՔՆԵՐՆ բերանիցս
+text out:  Կլենտէյլի պավլիկյանների փաստաբանների ԲԱՐԵՄԱՂԹԱՆՔՆԵՐՆ բերանիցս
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic.otf/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic.otf/7.txt
+ocr out:   Աղջիկները նմանատեսակ ՊՆԴՈՒՄՆԵՐԸ ՇՈՏԼԱՆՂ Բուզանդն
+text out:  Աղջիկները նմանատեսակ ՊՆԴՈՒՄՆԵՐԸ ՇՈՏԼԱՆՂ Բուզանդն
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic.otf/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic.otf/8.txt
+ocr out:   գուշակում ԳԵՅԹՍՆ գույն` նիւթեր ռեաղմիսիայի
+text out:  գուշակում ԳԵՅԹՍՆ գույն` նիւթեր ռեադմիսիայի
+WER: 20%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic.otf/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBoldItalic.otf/9.txt
+ocr out:   ՀՈՂՍ ասֆալտապատվել Հետադարձը` Ռիչիի ԳԱՄՓՌ
+text out:  ՀՈՂՍ ասֆալտապատվել Հետադարձը` Ռիչիի ԳԱՄՓՌ
+WER: 0%
+

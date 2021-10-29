@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifItalic/0.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifItalic/0.txt
+ocr out:   շեշտադրված կայս համայնավարական ծննդօգնություն ցատկելով
+text out:  շեշտադրված կայս համայնավարական ծննդօգնություն ցատկելով
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifItalic/1.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifItalic/1.txt
+ocr out:   էրկնուց հոմանիշներ մտավորականության ՎԵՐԱԲԵՐՄՈՒՆՔԸ գյուտարարական
+text out:  էրկնուց հոմանիշներ մտավորականության ՎԵՐԱԲԵՐՄՈՒՆՔԸ գյուտարարական
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifItalic/2.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifItalic/2.txt
+ocr out:   ՏԱՐԱԿՈՒՍԱԾ ՀԵՋԱՎՈՐՄԱՆ այտա թնջուկը առաքեց
+text out:  ՏԱՐԱԿՈՒՍԱԾ ՀԵՋԱՎՈՐՄԱՆ այտա թնջուկը առաքեց
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifItalic/3.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifItalic/3.txt
+ocr out:   րաբնույթ ՍՆՆԴԱԿԱՐԳՈՎ Տրիբունա ՊԱՊԵՐ սխալ
+text out:  րաբնույթ ՍՆՆԴԱԿԱՐԳՈՎ Տրիբունա ՊԱՊԵՐ սխալ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifItalic/4.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifItalic/4.txt
+ocr out:   Գյուղում ԿՈՒՄ թառահար գայլից ԱԼԱՎԵՍ
+text out:  Գյուղում ԿՈՒՄ թառահար գայլից ԱԼԱՎԵՍ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifItalic/5.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifItalic/5.txt
+ocr out:   Աթոռիս ԹԵՐԵՒՍ Ռոստովյան ԿԱՆՈՆԻՑ.թեա
+text out:  Աթոռիս ԹԵՐԵՒՍ Ռոստովյան ԿԱՆՈՆԻՑ ւթեա
+WER: 40%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifItalic/6.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifItalic/6.txt
+ocr out:   Ռաղիոսարքեր խորհրդականների շախմատաձեւ ԲԱԿԱԼԱՎՐԻ լոգարանային
+text out:  Ռադիոսարքեր խորհրդականների շախմատաձեւ ԲԱԿԱԼԱՎՐԻ լոգարանային
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifItalic/7.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifItalic/7.txt
+ocr out:   ՔՐԻՍՏՈՆՅԱՆԵՐՆ ԲՈՒԺՔՈՒՅՐԵՐ ՉԱՐԼԻ ատրիբուտ ՎԱՑԼԱՎ
+text out:  ՔՐԻՍՏՈՆՅԱՆԵՐՆ ԲՈՒԺՔՈՒՅՐԵՐ ՉԱՐԼԻ ատրիբուտ ՎԱՑԼԱՎ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifItalic/8.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifItalic/8.txt
+ocr out:   սկավառակակիրներ դիմանկարներից Էվրան ՆԵՐԿԱՅԱՑՆԵԼՈՒ ՄԵԹՈԴԱԿԱՆ
+text out:  սկավառակակիրներ դիմանկարներից Էվրան ՆԵՐԿԱՅԱՑՆԵԼՈՒ ՄԵԹՈԴԱԿԱՆ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifItalic/9.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifItalic/9.txt
+ocr out:   բաժնետոմսերն միամսյակ Ինթերմոուշն Հուրն ծլվլոց
+text out:  բաժնետոմսերն միամսյակ Ինթերմոուշն Հուրն ծլվլոց
+WER: 0%
+

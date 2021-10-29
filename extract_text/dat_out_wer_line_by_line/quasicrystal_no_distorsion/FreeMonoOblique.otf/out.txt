@@ -1,0 +1,30 @@
+jpg file:  ../data/quasicrystal_no_distorsion/FreeMonoOblique.otf/0.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeMonoOblique.otf/0.txt
+ocr out:   ՊԼԱՏՈՆԱԿԱՆ: ՆԵՐԿԱՅԱՑՈՒ ՊԱՏԱՌԻԿՆԵՐ: ՄԱԿԱՐԴԱԿԻ՝ ԵԶԴԻՆԵՐԻ
+text out:  ՊԼԱՏՈՆԱԿԱՆ ՆԵՐԿԱՅԱՑՈՒ ՊԱՏԱՌԻԿՆԵՐ ՄԱԿԱՐԴԱԿԻ` ԵԶԴԻՆԵՐԻ
+WER: 60%
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeMonoOblique.otf/1.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeMonoOblique.otf/1.txt
+ocr out:   երանգային Տեն: ԳՈՐԾՈՆԱՅԻՆ ծախսեն: Պետերսոնի
+text out:  երանգային Տեն ԳՈՐԾՈՆԱՅԻՆ ծախսեն Պետերսոնի
+WER: 40%
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeMonoOblique.otf/2.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeMonoOblique.otf/2.txt
+ocr out:   ԿԵՆՍԱԳՐՈՒԹՅԱՆԸ Գեհենի ՊԵՊԵԼՅԱՆԻ ՊԱՀԱԾ կողմնորոցելու
+text out:  ԿԵՆՍԱԳՐՈՒԹՅԱՆԸ Գեհենի ՊԵՊԵԼՅԱՆԻ ՊԱՀԱԾ կողմնորոշելու
+WER: 20%
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeMonoOblique.otf/3.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeMonoOblique.otf/3.txt
+ocr out:   խոստովա Բեսթը հասկացել որդեա՛կ րները
+text out:  խոստովա Բեսթը հասկացել որդեա՛կ րները
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeMonoOblique.otf/4.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeMonoOblique.otf/4.txt
+ocr out:   պատրաստվո՞ւմ անելանելիության հաստատմանը ՈՒՍԱՆՈՂԻՆ ՀՈՐՄՈՆԸ
+text out:  պատրաստվո՞ւմ անելանելիության հաստատմանը ՈՒՍԱՆՈՂԻՆ ՀՈՐՄՈՆԸ
+WER: 0%
+

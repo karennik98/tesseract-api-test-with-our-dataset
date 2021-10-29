@@ -1,0 +1,60 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBold.otf/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBold.otf/0.txt
+ocr out:   ԱՊՍՏԱՄԲԵՑ Պատանիներ ՕԳՏՎԻ րսավ ուրախացրեց
+text out:  ԱՊՍՏԱՄԲԵՑ Պատանիներ ՕԳՏՎԻ րսավ ուրախացրեց
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBold.otf/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBold.otf/1.txt
+ocr out:   ԵՂՋԵՐՈՒՆ ՆԵԱՆՈՒՄ հայ-չինական ջրե Համարձակություն
+text out:  ԵՂՋԵՐՈՒՆ ՆԱՆՈՒՄ հայ-չինական ջրե Համարձակություն
+WER: 20%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBold.otf/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBold.otf/2.txt
+ocr out:   Շարժիչը` ծրարը Հեռախոսազանգերի Դիմադրություն Լիպոսակցիա
+text out:  Շարժիչը` ծրարը Հեռախոսազանգերի Դիմադրություն Լիպոսակցիա
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBold.otf/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBold.otf/3.txt
+ocr out:   Բագրատունիների ԳՈՐԾԱՐՔԸ վիրահայոց բավարարվեն բրիտանացու
+text out:  Բագրատունիների ԳՈՐԾԱՐՔԸ վիրահայոց բավարարվեն բրիտանացու
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBold.otf/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBold.otf/4.txt
+ocr out:   ԴՈՆԱՐՈՒՄԱՅԻ զղջաց թեզիսները վզնոց ակունքները
+text out:  ԴՈՆԱՐՈՒՄԱՅԻ զղջաց թեզիսները վզնոց ակունքները
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBold.otf/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBold.otf/5.txt
+ocr out:   թանաքներ քերականին ԲԵԳԼԱՐՅԱՆԻ թենէ ԵՐԴՎԵՑԻՆ
+text out:  թանաքներ քերականին ԲԵԳԼԱՐՅԱՆԻ թենէ ԵՐԴՎԵՑԻՆ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBold.otf/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBold.otf/6.txt
+ocr out:   ԹԵՒՈՍԻԿԻ լուսացել ՁԱՎԱՐՈՎ գոյատեւող շահութաբաժիններ
+text out:  ԹԵՒՈՍԻԿԻ լուսացել ՁԱՎԱՐՈՎ գոյատեւող շահութաբաժիններ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBold.otf/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBold.otf/7.txt
+ocr out:   ումի Մոնպելիեից Բիզեի ՇՈՂՔ թեթեւացել
+text out:  ումի Մոնպելիեից Բիզեի ՇՈՂՔ թեթեւացել
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBold.otf/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBold.otf/8.txt
+ocr out:   արյունաքամ Բահիա գրգիոի կատարէք վերանայեք
+text out:  արյունաքամ Բահիա գրգիռի կատարէք վերանայեք
+WER: 20%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifBold.otf/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifBold.otf/9.txt
+ocr out:   ԿԻՍԱՆԴՐԻՆ Արվեստագետներ Կապիկն ընթացքը վարչախմբին
+text out:  ԿԻՍԱՆԴՐԻՆ Արվեստագետներ Կապիկն րնթացքր վարչախմբին
+WER: 20%
+

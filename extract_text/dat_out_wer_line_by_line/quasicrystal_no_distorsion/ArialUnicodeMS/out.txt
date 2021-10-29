@@ -1,0 +1,24 @@
+jpg file:  ../data/quasicrystal_no_distorsion/ArialUnicodeMS/0.jpg
+text file: ../data/quasicrystal_no_distorsion/ArialUnicodeMS/0.txt
+ocr out:    նանարաաւ՝ անդերի հախացին՝ հա նուկ Կտորեն
+text out:  օգտագործում` զարդերի նախագիծ` հանուկ տորեն
+WER: 140%
+
+jpg file:  ../data/quasicrystal_no_distorsion/ArialUnicodeMS/1.jpg
+text file: ../data/quasicrystal_no_distorsion/ArialUnicodeMS/1.txt
+ocr out:   ՄԱՅՐԱՔԱՂԱՔ»` կանոնակրքեր Գեւոր դժբախտ միջամտելով
+text out:  ՄԱՅՐԱՔԱՂԱՔ»` կանոնագրքեր Գեւոր դժբախտ միջամտելով
+WER: 20%
+
+jpg file:  ../data/quasicrystal_no_distorsion/ArialUnicodeMS/2.jpg
+text file: ../data/quasicrystal_no_distorsion/ArialUnicodeMS/2.txt
+ocr out:   ՄՈՒՄԲԱՅ ՀԱՇՎԵՏՈՒ նեղություններ Խորովածի Լիլու
+text out:  ՄՈՒՄԲԱՅ ՀԱՇՎԵՏՈՒ նեղություններ Խորովածի Լիլու
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/ArialUnicodeMS/3.jpg
+text file: ../data/quasicrystal_no_distorsion/ArialUnicodeMS/3.txt
+ocr out:   մոլեկուլին գործուղման ֆոլկլորը կենտրոնների Ավոռապահո
+text out:  մոլեկուլին գործուղման ֆոլկլորը կենտրոնների Ավտոապահո
+WER: 20%
+

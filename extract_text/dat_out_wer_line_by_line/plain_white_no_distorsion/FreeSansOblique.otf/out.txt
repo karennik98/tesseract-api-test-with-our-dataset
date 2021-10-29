@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion/FreeSansOblique.otf/0.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansOblique.otf/0.txt
+ocr out:   կոչեաց ՀՈՒԼԻՍ Լիզ ԱՆԵՐՈՋ կաշկանդում
+text out:  կոչեաց ՀՈՒԼԻՍ Լիզ ԱՆԵՐՈՋ կաշկանդում
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansOblique.otf/1.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansOblique.otf/1.txt
+ocr out:   Ջերմամեկուսացում հաղորդակցային նախագծին ԽՈՐԱԳՐԵՐՈՎ չորացավ
+text out:  Ջերմամեկուսացում հաղորդակցային նախագծին ԽՈՐԱԳՐԵՐՈՎ չորացավ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansOblique.otf/2.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansOblique.otf/2.txt
+ocr out:   ԱՆՀՈԳ ծանրամարտ Գորիսն ՎԵՐԱՐՏԱԴՐՈՂ ԿԱՐԲՕՔՍԻԼ
+text out:  ԱՆՀՈԳ ծանրամարտ Գորիսն ՎԵՐԱՐՏԱԴՐՈՂ ԿԱՐԲՕՔՍԻԼ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansOblique.otf/3.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansOblique.otf/3.txt
+ocr out:   ՋՐՕԳՏԱԳՈՐԾՈՒՄԸ կրաքարերի ԲԵՐՎՈՒՄ ջախջախման ԿԱՅՔԷՋԻՑ
+text out:  ՋՐՕԳՏԱԳՈՐԾՈՒՄԸ կրաքարերի ԲԵՐՎՈՒՄ ջախջախման ԿԱՅՔԷՋԻՑ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansOblique.otf/4.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansOblique.otf/4.txt
+ocr out:   ՄԹԱԳՆԵԼ ապառիկով ժամանող Ինֆեկցիաներ հենապատի
+text out:  ՄԹԱԳՆԵԼ ապառիկով ժամանող Ինֆեկցիաներ հենապատի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansOblique.otf/5.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansOblique.otf/5.txt
+ocr out:   ՃԱԳԱՐՆԵՐ չափվի կորստին Ցանկապատ օգտվելուն
+text out:  ՃԱԳԱՐՆԵՐ չափվի կորստին Ցանկապատ օգտվելուն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansOblique.otf/6.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansOblique.otf/6.txt
+ocr out:   կոնցեպտի միլիցիա ռուսթուրքական դիտողությունները Ծաղ
+text out:  կոնցեպտի միլիցիա ռուսթուրքական դիտողությունները Ծաղ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansOblique.otf/7.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansOblique.otf/7.txt
+ocr out:   ԲՌՆԱՃՆՇՈՒՄՆԵՐԸ հիպո ՍԵՔՍԻԲՆԱԿԱՐԱՆՆԵՐ Մուսթաֆա նահատուկ
+text out:  ԲՌՆԱՃՆՇՈՒՄՆԵՐԸ հիպո ՍԵՔՍԻԲՆԱԿԱՐԱՆՆԵՐ Մուսթաֆա նահատուկ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansOblique.otf/8.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansOblique.otf/8.txt
+ocr out:   Տարածվածություն հավաստել Խաղադարան ապուրն Ավետարաններից
+text out:  Տարածվածություն հավաստել Խաղադարան ապուրն Ավետարաններից
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansOblique.otf/9.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansOblique.otf/9.txt
+ocr out:   Յագո ԴՅՈՒԲԵԼ թեյերը Շահամիրյանի Անավարզեցի
+text out:  Յագո ԴՅՈՒԲԵԼ թեյերը Շահամիրյանի Անավարզեցի
+WER: 0%
+

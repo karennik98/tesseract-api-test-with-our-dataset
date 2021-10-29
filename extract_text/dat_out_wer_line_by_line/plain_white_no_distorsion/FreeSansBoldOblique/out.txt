@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBoldOblique/0.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBoldOblique/0.txt
+ocr out:   գաուսյան ԿԵՐԱԿՈՒՐՆԵՐ կերակուրներն թուխս կօգտագործվեն
+text out:  գաուսյան ԿԵՐԱԿՈՒՐՆԵՐ կերակուրներն թուխս կօգտագործվեն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBoldOblique/1.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBoldOblique/1.txt
+ocr out:   նախաձեռն ԱՊՐՈՂԸ Երեւան-Կրասնոդար Ձեռքս չկայ
+text out:  նախաձեռն ԱՊՐՈՂԸ Երեւան-Կրասնոդար Ձեռքս չկայ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBoldOblique/2.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBoldOblique/2.txt
+ocr out:   ԹՌՉՆԱՄՍԻՑ էրոզիայի խեթերը համալրվի Ընտրողը
+text out:  ԹՌՉՆԱՄՍԻՑ էրոզիայի խեթերը համալրվի Ընտրողը
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBoldOblique/3.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBoldOblique/3.txt
+ocr out:   ԿՀԱՄՈԶՎԵՆՔ ՀՐԱՀԱՆԳՎԱԾ լերինս սանդղակներ Ունեւոր
+text out:  ԿՀԱՄՈԶՎԵՆՔ ՀՐԱՀԱՆԳՎԱԾ լերինս սանդղակներ Ունեւոր
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBoldOblique/4.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBoldOblique/4.txt
+ocr out:   ԴՈՒԲԼՆ Մալա արմատացել լըսում ՏՆ
+text out:  ԴՈՒԲԼՆ Մալա արմատացել լըսում ՏՆ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBoldOblique/5.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBoldOblique/5.txt
+ocr out:   ՈՒՇԱԴՐՈՒԹՅՈՒՆԻՑ քրեականների տնտեսումներով Յարաբ բացակայող
+text out:  ՈՒՇԱԴՐՈՒԹՅՈՒՆԻՑ քրեականների տնտեսումներով Յարաբ բացակայող
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBoldOblique/6.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBoldOblique/6.txt
+ocr out:   ԻՐԱԴՐՈՒԹՅՈՒՆՆ հարմարվելով կերուխումի կհասկանան Աբեղեան
+text out:  ԻՐԱԴՐՈՒԹՅՈՒՆՆ հարմարվելով կերուխումի կհասկանան Աբեղեան
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBoldOblique/7.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBoldOblique/7.txt
+ocr out:   ՀԱՄԱՍՏԵՂԻ Սիվիլվոյս Հովեյանի Ճորոխի ԿՈՂՄՆԱԿԻՑՆԵՐԻ
+text out:  ՀԱՄԱՍՏԵՂԻ Սիվիլվոյս Հովեյանի Ճորոխի ԿՈՂՄՆԱԿԻՑՆԵՐԻ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBoldOblique/8.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBoldOblique/8.txt
+ocr out:   լեզվագիտության բախտավորության կրիզիս տադրական տարեալ
+text out:  լեզվագիտության բախտավորության կրիզիս տադրական տարեալ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBoldOblique/9.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBoldOblique/9.txt
+ocr out:   ՔԱՂԱՔԱՊԵՏԱՐԱՆԻՆ Բիբինը ԶՈՀԱԲԵՐԱԾ կպցնում մեծացնելու
+text out:  ՔԱՂԱՔԱՊԵՏԱՐԱՆԻՆ Բիբինը ԶՈՀԱԲԵՐԱԾ կպցնում մեծացնելու
+WER: 0%
+

@@ -1,0 +1,60 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique/0.txt
+ocr out:   Նշանադրություն քաղաքականութեան Պահեստում բնորոշեց արտադրողները
+text out:  Նշանադրություն քաղաքականութեան Պահեստում բնորոշեց արտադրողները
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique/1.txt
+ocr out:   ՄԿՆԵՐԸ ԹՐԹՈՒՐԱՎՈՐ տրվել ԿՈՉԵ ՄՄ-ին
+text out:  ՄԿՆԵՐԸ ԹՐԹՈՒՐԱՎՈՐ տրվել ԿՈՉԵ ՄՄ-ին
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique/2.txt
+ocr out:   գործուղումից Տեսախցիկի ԲՈԼՈՐԴ Տաճկաստանի Հեռուստացույցի
+text out:  գործուղումից Տեսախցիկի ԲՈԼՈՐԴ Տաճկաստանի Հեռուստացույցի
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique/3.txt
+ocr out:   ռադիոկապ ավտոգնացքի ՀՈՒՆԱՍՏԱՆՆ որդւոց ՄԻՈՒԹՅԱՆԸ
+text out:  ռադիոկապ ավտոգնացքի ՀՈՒՆԱՍՏԱՆՆ որդւոց ՄԻՈՒԹՅԱՆԸ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique/4.txt
+ocr out:   տերմինալի Թասոս ՖՎ Օրակարգից ՂԵԿԻ
+text out:  տերմինալի Թասոս ՖՎ Օրակարգից ՂԵԿԻ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique/5.txt
+ocr out:   ՌԵԿՏՈՐԱՏԻ ԲՆԱԿԱՎԱՅՐԻՆ Աբովեանի մասնավորապես` նիշի
+text out:  ՌԵԿՏՈՐԱՏԻ ԲՆԱԿԱՎԱՅՐԻՆ Աբովեանի մասնավորապես` նիշի
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique/6.txt
+ocr out:   թոդը նուռն ԲԱՌՈՎ լեթարգիական ԱՎԵՐՈՒՄԸ
+text out:  թոդը նուռն ԲԱՌՈՎ լեթարգիական ԱՎԵՐՈՒՄԸ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique/7.txt
+ocr out:   ԲՆԱԿԱՎԱ ԹԲԻԼԻՍՈ ԽՈՐՀՐԴԱՆԻՇՆԵՐԻՑ ՋԵՐՄԱԷԼԵԿՏՐԱԿԱՆ զրկվեցի
+text out:  ԲՆԱԿԱՎԱ ԹԲԻԼԻՍՈ ԽՈՐՀՐԴԱՆԻՇՆԵՐԻՑ ՋԵՐՄԱԷԼԵԿՏՐԱԿԱՆ զրկվեցի
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique/8.txt
+ocr out:   ՀՈՒՍԱՀԱՏՎԵՔ Մարո վերաբերվում գոյութ ՀԱՐՄԱՐՎԵԼՈՒ
+text out:  ՀՈՒՍԱՀԱՏՎԵՔ Մարո վերաբերվում գոյութ ՀԱՐՄԱՐՎԵԼՈՒ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSansBoldOblique/9.txt
+ocr out:   ԱԿՈՒՆՔՆԵՐՈՒՄ վարդագու ջրազրկում Անգլերէն-Հայերէն համախմբում
+text out:  ԱԿՈՒՆՔՆԵՐՈՒՄ վարդագու ջրազրկում Անգլերէն-Հայերէն համախմբում
+WER: 0%
+

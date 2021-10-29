@@ -1,0 +1,60 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSans-Bold/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSans-Bold/0.txt
+ocr out:   հանվեցին ՀԻՄՔԸ` ՀԱՐԿԱԴՐԵՑ Վանական դրութ
+text out:  հանվեցին ՀԻՄՔԸ` ՀԱՐԿԱԴՐԵՑ Վանական դրութ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSans-Bold/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSans-Bold/1.txt
+ocr out:   բարձրախոսով տարիքից կությամբ սերմնահեղուկը ընդմիջվել
+text out:  բարձրախոսով տարիքից կությամբ սերմնահեղուկը ընդմիջվել
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSans-Bold/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSans-Bold/2.txt
+ocr out:   քահանայ ՀՄՏՈՒԹՅՈՒՆՆԵՐԻՑ լրացումը` սահմանման պարգեւատրել
+text out:  քահանայ ՀՄՏՈՒԹՅՈՒՆՆԵՐԻՑ լրացումը` սահմանման պարգեւատրել
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSans-Bold/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSans-Bold/3.txt
+ocr out:   խորհրդոց վահանագեղձ ԲԱՅԵՐԻՆ հիմնախնդիրներից ԿՐԵՄԼՈՒՄ
+text out:  խորհրդոց վահանագեղձ ԲԱՅԵՐԻՆ հիմնախնդիրներից ԿՐԵՄԼՈՒՄ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSans-Bold/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSans-Bold/4.txt
+ocr out:   Անմահ Փանիկի կուսակցության դատապարտվածներ հաշվեգրվող
+text out:  Անմահ Փանիկի կուսակցության դատապարտվածներ հաշվեգրվող
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSans-Bold/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSans-Bold/5.txt
+ocr out:   ամենահնագույն քանդվող ՎԵՐԱՑՐԵՑ ՏԱՐԱԾԵՑ սակավաթիվ
+text out:  ամենահնագույն քանդվող ՎԵՐԱՑՐԵՑ ՏԱՐԱԾԵՑ սակավաթիվ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSans-Bold/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSans-Bold/6.txt
+ocr out:   այլնի եվրո Կային Թարխուն ԵՂԵ՞Լ
+text out:  այլնի եվրո Կային Թարխուն ԵՂԵ՞Լ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSans-Bold/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSans-Bold/7.txt
+ocr out:   ՌԵՍՏՈՐԱՆՆԵՐ ԿՂՄԻՆԴՐԻ ՀԱՆՑԱԿԻՑ չխանգարել ԵԿԵԼ
+text out:  ՌԵՍՏՈՐԱՆՆԵՐ ԿՂՄԻՆԴՐԻ ՀԱՆՑԱԿԻՑ չխանգարել ԵԿԵԼ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSans-Bold/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSans-Bold/8.txt
+ocr out:   րիկյան զերը ռադիոկայաններն վալդորֆյան նրբությունները
+text out:  րիկյան զերը ռադիոկայաններն վալդորֆյան նրբությունները
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSans-Bold/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSans-Bold/9.txt
+ocr out:   ԳՆԵ ՇԵՇՏԱԴՐՈՒՄԸ Կանաչեան քաղաքագետները կարգերու
+text out:  ԳՆԵ ՇԵՇՏԱԴՐՈՒՄԸ Կանաչեան քաղաքագետները կարգերու
+WER: 0%
+

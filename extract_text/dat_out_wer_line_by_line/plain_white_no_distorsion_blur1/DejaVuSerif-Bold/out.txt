@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Bold/0.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Bold/0.txt
+ocr out:   բնակչուհի ԱԿՏՈՒՄ զաղօթս չհավատալ Բամբինո
+text out:  բնակչուհի ԱԿՏՈՒՄ զաղօթս չհավատալ Բամբինո
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Bold/1.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Bold/1.txt
+ocr out:   ամերիկայի ապրելը ԾԱՂԿԱՁՈՐՅԱՆ արշավանքի ավանդությունները
+text out:  ամերիկայի ապրելը ԾԱՂԿԱՁՈՐՅԱՆ արշավանքի ավանդությունները
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Bold/2.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Bold/2.txt
+ocr out:   ՏՊԱԳՐԱՏՈՒՆ Վրաստանի` Երիքով ԿԵՆԱՑՆ բանկաները
+text out:  ՏՊԱԳՐԱՏՈՒՆ Վրաստանի` Երիքով ԿԵՆԱՑՆ բանկաները
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Bold/3.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Bold/3.txt
+ocr out:   հայմորյան Յահյա Ֆրիդոմ բիո խաբկանք
+text out:  հայմորյան Յահյա Ֆրիդոմ բիո խաբկանք
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Bold/4.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Bold/4.txt
+ocr out:   նարհ հիշատ հնարավորությամբ կառավարիչներից դադարներ
+text out:  նարհ հիշատ հնարավորությամբ կառավարիչներից դադարներ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Bold/5.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Bold/5.txt
+ocr out:   վախերն դաժանորեն արտահագուստը մումիայի կրթամասը
+text out:  վախերն դաժանորեն արտահագուստը մումիայի կրթամասը
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Bold/6.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Bold/6.txt
+ocr out:   շշերի վերադասների Արտը համարժեքով հետախուզում
+text out:  շշերի վերադասների Արտը համարժեքով հետախուզում
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Bold/7.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Bold/7.txt
+ocr out:   սիրություն Շուշանն բյուջետավորում միավորների` կացության
+text out:  սիրություն Շուշանն բյուջետավորում միավորների` կացության
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Bold/8.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Bold/8.txt
+ocr out:   փեշերին ՀԱՆՐԱԳԻՏԱԿԱՆ հարցե զիջողական ԱՐՎԵՍՏԻՆ
+text out:  փեշերին ՀԱՆՐԱԳԻՏԱԿԱՆ հարցե զիջողական ԱՐՎԵՍՏԻՆ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Bold/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Bold/9.txt
+ocr out:   վարելահող` Առաւօտ Հրաժարվեք ԵԼԱՅ հայասեր
+text out:  վարելահող` Առաւօտ Հրաժարվեք ԵԼԱՅ հայասեր
+WER: 0%
+

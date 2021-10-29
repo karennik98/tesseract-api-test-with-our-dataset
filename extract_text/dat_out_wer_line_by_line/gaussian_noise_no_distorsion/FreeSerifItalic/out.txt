@@ -1,0 +1,60 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifItalic/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifItalic/0.txt
+ocr out:   Պապիկյան հոգեւորականն կաթնատվությունը Մանրէների Դաշյանը
+text out:  Պապիկյան հոգեւորականն կաթնատվությունը Մանրէների Դաշյանը
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifItalic/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifItalic/1.txt
+ocr out:   գիտնայ Երկարաժամկետ ՏՈՒՐՄԱԼԻՆ ԹՎԱՅԻՆ յօդուածով
+text out:  գիտնայ Երկարաժամկետ ՏՈՒՐՄԱԼԻՆ ԹՎԱՅԻՆ յօդուածով
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifItalic/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifItalic/2.txt
+ocr out:   քվից ` անդամագրված ՍԵՊՏԵՄԲԵՐԻ Տեառնընդառաջը` ուղղությունը
+text out:  թվից` անդամագրված ՍԵՊՏԵՄԲԵՐԻ Տեառնընդառաջը` ուղղությունը
+WER: 40%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifItalic/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifItalic/3.txt
+ocr out:   Մաքսիմի Մեդ-Պրակտիկ չնայեց ՄԵԾԱԾԱՎԱԼ հուսկ
+text out:  Մաքսիմի Մեդ-Պրակտիկ չնայեց ՄԵԾԱԾԱՎԱԼ հուսկ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifItalic/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifItalic/4.txt
+ocr out:   Կիսամ լկտիաբար էլ.հասցեին սիրեցյալը Հետազոտողը
+text out:  Կիսամ լկտիաբար էլ.հասցեին սիրեցյալը Հետազոտողը
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifItalic/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifItalic/5.txt
+ocr out:   Վարսերը Եվրադատարանում դիտարկելի ապս ՍՊՈՐՏԻՆԳ
+text out:  Վարսերը Եվրադատարանում դիտարկելի ապս ՍՊՈՐՏԻՆԳ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifItalic/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifItalic/6.txt
+ocr out:   ՎԱՆԴԱԿ ՔՎԵԱՐԿԵԼՈՒ մեռածները խլեն Մանկություն
+text out:  ՎԱՆԴԱԿ ՔՎԵԱՐԿԵԼՈՒ մեռածները խլեն Մանկություն
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifItalic/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifItalic/7.txt
+ocr out:   ՄԱՐԻԱՆՆԱՆ Կրքոտ խորվաթ ՀԱՄԱՑԱՆՑԻՆ ԿԽՈՍԵՄ
+text out:  ՄԱՐԻԱՆՆԱՆ Կրքոտ խորվաթ ՀԱՄԱՑԱՆՑԻՆ ԿԽՈՍԵՄ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifItalic/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifItalic/8.txt
+ocr out:   Քյոմուրճյան ՈՒՇԱՑԵԼ փառաւք Հնարամիտ ՊԻԿ
+text out:  Քյոմուրճյան ՈՒՇԱՑԵԼ փառաւք Հնարամիտ ՊԻԿ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifItalic/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerifItalic/9.txt
+ocr out:   Մարսելի ՄՇԱԿՈՒՄԸ ՄՈՒԿՈՒՉՅԱՆԸ ՏԱՐԱԾՈՒԹՅՈՒՆԸ բեւեռներն
+text out:  Մարսելի ՄՇԱԿՈՒՄԸ ՄՈՒԿՈՒՉՅԱՆԸ ՏԱՐԱԾՈՒԹՅՈՒՆԸ բեւեռներն
+WER: 0%
+

@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerif-Italic/0.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerif-Italic/0.txt
+ocr out:   ԲԱԺՆԵՄԱՍԻՆ մայաների հակախաղը ՎՐԹ վտարվել
+text out:  ԲԱԺՆԵՄԱՍԻՆ մայաների հակախաղը ՎՐԹ վտարվել
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerif-Italic/1.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerif-Italic/1.txt
+ocr out:   Դրսի ԱՆԳԱՄԱՆՔՆԵ քլորի ԳՄԲԵԹՆ շարունակել
+text out:  Դրսի ԱՆԳԱՄԱՆՔՆԵ քլորի ԳՄԲԵԹՆ շարունակել
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerif-Italic/2.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerif-Italic/2.txt
+ocr out:   ԺԱՍՄԻՆ միկրոբների ներդրվեց հիշատակումն ուղղությունների
+text out:  ԺԱՍՄԻՆ միկրոբների ներդրվեց հիշատակումն ուղղությունների
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerif-Italic/3.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerif-Italic/3.txt
+ocr out:   ԱՏԱՄՀԱՏԻԿԻ Ընդունվեց նեյտրոն ԳԻՏԵԼԻՔՆԵՐՍ ՀԱՐՑԱՇԱՐԻՑ
+text out:  ԱՏԱՄՀԱՏԻԿԻ Ընդունվեց նեյտրոն ԳԻՏԵԼԻՔՆԵՐՍ ՀԱՐՑԱՇԱՐԻՑ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerif-Italic/4.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerif-Italic/4.txt
+ocr out:   նվազեն Օզոնային ձեռնարկումներից Գյուզալյան տանկ
+text out:  նվազեն Օզոնային ձեռնարկումներից Գյուզալյան տանկ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerif-Italic/5.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerif-Italic/5.txt
+ocr out:   հոլովուին Հիտլերը Քամիների ՄՈՌԱՑՈՒԹՅԱՆ ՆԱԽԱԳԱՀՈՒԹՅՈՒՆԸ
+text out:  հոլովուին Հիտլերը Քամիների ՄՈՌԱՑՈՒԹՅԱՆ ՆԱԽԱԳԱՀՈՒԹՅՈՒՆԸ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerif-Italic/6.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerif-Italic/6.txt
+ocr out:   ԼՈՂՈՐԴ պաշտոնը ԷՀՇ Կյուրեղյանին ՏՆԿԻՆԵՐ
+text out:  ԼՈՂՈՐԴ պաշտոնը ԷՀՇ Կյուրեղյանին ՏՆԿԻՆԵՐ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerif-Italic/7.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerif-Italic/7.txt
+ocr out:   մետաղալարե խորագրերով հպատակի ձիւն մասնագիտությունը
+text out:  մետաղալարե խորագրերով հպատակի ձիւն մասնագիտությունը
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerif-Italic/8.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerif-Italic/8.txt
+ocr out:   ՆԱՎԻՑ ՄԻԱՎՈՐՄԱՄԲ արժեցավ փոխանցենք մերից
+text out:  ՆԱՎԻՑ ՄԻԱՎՈՐՄԱՄԲ արժեցավ փոխանցենք մերից
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerif-Italic/9.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerif-Italic/9.txt
+ocr out:   Վ-ԻՑ ՊՐԾԱՆՔ ԿՈԿՏԵՅԼ մեղադրվելու վերաբ
+text out:  Վ-ԻՑ ՊՐԾԱՆՔ ԿՈԿՏԵՅԼ մեղադրվելու վերաբ
+WER: 0%
+

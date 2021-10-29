@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed/0.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed/0.txt
+ocr out:   ՏՈՂԵՐԻ խորհրդանշող Բառացանկ ՍԻՄՖՈՆԻԱՅԻ ձնահոսքի
+text out:  ՏՈՂԵՐԻ խորհրդանշող Բառացանկ ՍԻՄՖՈՆԻԱՅԻ ձնահոսքի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed/1.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed/1.txt
+ocr out:   ցավոր ԱրթուրիՄուրադյան ՖԵԴԵՐԱՑԻԱ ՈւԳՐ մլնը
+text out:  ցավոր ԱրթուրիՄուրադյան ՖԵԴԵՐԱՑԻԱ ՈւԳԸ մլն-ը
+WER: 40%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed/2.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed/2.txt
+ocr out:   Փոստարկղեր չբավարարող ԼՍԵՑԵՔ Մուսուլման ԱՌԱՋԱՆԱՆ
+text out:  Փոստարկղեր չբավարարող ԼՍԵՑԵՔ Մուսուլման ԱՌԱՋԱՆԱՆ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed/3.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed/3.txt
+ocr out:   ՌԱՋԱ իմաստասիրաց ՏՆԿԵՔ Վիետնամը ՏԱԿԱՆՔԸ
+text out:  ՌԱՋԱ իմաստասիրաց ՏՆԿԵՔ Վիետնամը ՏԱԿԱՆՔԸ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed/4.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed/4.txt
+ocr out:   ՏԱՐԵԴԱՐՁՍ կտորեղենի ԳՈՒՄԱՐԵԼՈՎ Նրա` ԱՐԲԱՆՅԱԿԱՅԻՆ
+text out:  ՏԱՐԵԴԱՐՁՍ կտորեղենի ԳՈՒՄԱՐԵԼՈՎ Նրա` ԱՐԲԱՆՅԱԿԱՅԻՆ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed/5.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed/5.txt
+ocr out:   գերմանացիներից գրտնակել ՎՏԱՐԱՆԴԻ ԴՐՈՇՄԱՎՈՐՎԱԾ աղբակույտ
+text out:  գերմանացիներից գրտնակել ՎՏԱՐԱՆԴԻ ԴՐՈՇՄԱՎՈՐՎԱԾ աղբակույտ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed/6.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed/6.txt
+ocr out:   եկեղեցականի սառնասրտություն հանելուկ ԱՐՏԱԲՋՋԱՅԻՆ ՈՍԱ
+text out:  եկեղեցականի սառնասրտություն հանելուկ ԱՐՏԱԲՋՋԱՅԻՆ ՈՍԱ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed/7.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed/7.txt
+ocr out:   բուրմունք ՄԵԼԻՔԳՅՈՒՂ Հիշեցի Գ.Վ.Խաչիկյան մաղանման
+text out:  բուրմունք ՄԵԼԻՔԳՅՈՒՂ Հիշեցի Գ.Վ.Խաչիկյան մաղանման
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed/8.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed/8.txt
+ocr out:   խմբերի ՄԱՆԻԿՅՈՒՐԻ բալան Փ-Վ շնորհավորանքն
+text out:  խմբերի ՄԱՆԻԿՅՈՒՐԻ բալան Փ-Վ շնորհավորանքն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed/9.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed/9.txt
+ocr out:   ՇԻՆՈՒԹՅՈՒՆՆԵՐ եվրոյի կուրսանտների պահանջկոտությանս Սոքա
+text out:  ՇԻՆՈՒԹՅՈՒՆՆԵՐ եվրոյի կուրսանտների պահանջկոտությանս Սոքա
+WER: 0%
+

@@ -1,0 +1,60 @@
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/0.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/0.txt
+ocr out:   կնկատեք վաչպետաց շնորհ միլիարդատիրոջ ուստի`
+text out:  կնկատեք վաչպետաց շնորհ միլիարդատիրոջ ուստի`
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/1.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/1.txt
+ocr out:   կամս վեկտորին ՑԻՏՐԻՆ Սանալ ԲՆԱՇԽԱՐՀԻ:
+text out:  կամս վեկտորին ՑԻՏՐԻՆ Սանալ ԲՆԱՇԽԱՐՀԻ
+WER: 20%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/2.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/2.txt
+ocr out:   հարազատն ԱՏԵՆՈԿԱՐԴԻԱ ԲԵԼԼԱՆ Ձայ Որոնվող
+text out:  հարազատն ՍՏԵՆՈԿԱՐԴԻԱ ԲԵԼԼԱՆ Ձայ Որոնվող
+WER: 20%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/3.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/3.txt
+ocr out:   Սթրե՛ս Աֆիֆիի հե՞տ ՀՌՈՎՄ էրիվ
+text out:  Սթրե՛ս Աֆիֆիի հե՞տ ՀՌՈՎՄ Լրիվ
+WER: 20%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/4.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/4.txt
+ocr out:   ՀաջԱե՛ը ռործությենքչինթներ ՏԱՆՏԻԿԻՆԲ Շեռնպիրյան։
+text out:  Հաշվե՛ք գործոյ թրենքչոնթներ ՏԱՆՏԻԿԻՆԸ Շեքսպիրյան
+WER: 100%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/5.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/5.txt
+ocr out:   ժառւթհեմփթոե»-ի ԿՈՂՔԻ դատապարտվելու ագռավները Դիզայներներն
+text out:  Սաութհեմփթոն»-ի ԿՈՂՔԻ` դատապարտվելու ագռավները Դիզայներներն
+WER: 40%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/6.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/6.txt
+ocr out:   հոդվածներն տրուի մարզպետարանին չպատասխանեցի ԳԱԶԱՅԻ
+text out:  հոդվածներն տրուի մարզպետարանին չպատասխանեցի ԳԱԶԱՅԻ
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/7.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/7.txt
+ocr out:   ՈՒՂՂՈՐԴՈՂ հայտարարեք ԱՎԱՆԴՈՒՅԹԻՆ խմբովի մայրիկիդ
+text out:  ՈՒՂՂՈՐԴՈՂ հայտարարեք ԱՎԱՆԴՈՒՅԹԻՆ խմբովի մայրիկիդ
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/8.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/8.txt
+ocr out:   ԱԻՆ-նքնո սովին ԱՉՔԵՐԻՍ հաճարենու
+text out:  ԱԻՆ նքնո սովին ԱՉՔԵՐԻՍ հաճարենու
+WER: 40%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/9.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSans-ExtraLight/9.txt
+ocr out:   ԾՐԱԳԻՐԻ տոմոգրաթիսն ԿԱՐԳԱԽՈՍԻ սերմնահեղուկը մաքսատուն
+text out:  ԾՐԱԳԻՐԻ տոմոգրաֆիան ԿԱՐԳԱԽՈՍԻ սերմնահեղուկի մաքսատուն
+WER: 40%
+

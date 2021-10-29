@@ -1,0 +1,12 @@
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifItalic/0.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifItalic/0.txt
+ocr out:   ՏԱՏԻ վարպե Եռամյա օգտագործմանը ԱՎԱՆՆԵՐ
+text out:  ՏԱՏԻ վարպե Եռամյա օգտագործմանը ԱՎԱՆՆԵՐ
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifItalic/1.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifItalic/1.txt
+ocr out:   եզիահատ Հարցզողների ջերմասօիճան ՓՈՐՁԱՆՔ գերածախս
+text out:  եզրահատ Հարցվողների ջերմասռիճան ՓՈՐՁԱՆՔ գերածախս
+WER: 60%
+

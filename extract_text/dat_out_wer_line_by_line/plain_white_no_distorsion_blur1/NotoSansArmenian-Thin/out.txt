@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Thin/0.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Thin/0.txt
+ocr out:   ճրեշտակձերձ խմիչքից ՊԱՇԱՆՋՎԵԼ ԻՍԿԱՊԵՍ ՎԱՐԿԵՐՈՎ
+text out:  հրեշտակներն խմիչքից ՊԱՀԱՆՋՎԵԼ ԻՍԿԱՊԵՍ ՎԱՐԿԵՐՈՎ
+WER: 40%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Thin/1.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Thin/1.txt
+ocr out:   գրերով ՇԱՅՏՆԱԲ ԴԵՐՎԻՇԻ շուտվանից քթակաթիլներ
+text out:  գրերով ՀԱՅՏՆԱԲ ԴԵՐՎԻՇԻ շուտվանից քթակաթիլներ
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Thin/2.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Thin/2.txt
+ocr out:   ճպատակեցնելու կոմեդիան ճավաձելով ԻՆՍՏԻՏՈՒՏՈՒՄ թափաճարեց
+text out:  հպատակեցնելու կոմեդիան հավանելով ԻՆՍՏԻՏՈՒՏՈՒՄ թափահարեց
+WER: 60%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Thin/3.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Thin/3.txt
+ocr out:   խոձարճաբար ՈՐՈՇՎՈՒՄ թեաձը ՄԱՍՈՎԸ կըսե
+text out:  խոնարհաբար ՈՐՈՇՎՈՒՄ թեանը ՄԱՍՈՎ` կըսե
+WER: 60%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Thin/4.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Thin/4.txt
+ocr out:   ազատազրկվածները ապտակը Խչելան ճեռուստաէկրաձից ԸԿԱԲնԿ
+text out:  ազատազրկվածները ապտակը Խչեյան հեռուստաէկրանից ՀԿ(Բ)Կ
+WER: 60%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Thin/5.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Thin/5.txt
+ocr out:   շորեր ըսկուն ինքնաբերական ոմ մեզն
+text out:  շորեր ըսկուն ինքնաբերական հմ մեզ`
+WER: 40%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Thin/6.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Thin/6.txt
+ocr out:   ճետօսկարյան ճոշարճանագետ Քաղաքական ձիկոտիձի Խորապես
+text out:  հետօսկարյան հուշարձանագետ Քաղաքական նիկոտինի Խորապես
+WER: 60%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Thin/7.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Thin/7.txt
+ocr out:   Մողձու բարձրձ պէտք Ապրելակերպ սպերման
+text out:  Մողնու բարձրն պէտք Ապրելակերպ սպերման
+WER: 40%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Thin/8.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Thin/8.txt
+ocr out:   պատվիրակման ճիմնադրող բխեցնում ճորմոձալ ՇՈՐԱՆՋՈՒՄ
+text out:  պատվիրակման հիմնադրող բխեցնում հորմոնալ ՀՈՐԱՆՋՈՒՄ
+WER: 60%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Thin/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Thin/9.txt
+ocr out:   նեղություն նվաստացնող ԸՈՒՆԱՍՏԱՆ րղ Ինստագրամ
+text out:  նեղություն նվաստացնող ՀՈՒՆԱՍՏԱՆ րղ Ինստագրամ
+WER: 20%
+

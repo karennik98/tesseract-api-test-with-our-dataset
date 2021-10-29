@@ -1,0 +1,60 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-Oblique/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-Oblique/0.txt
+ocr out:   Հսկա սկաուտների նյութեղեն աշխարհները ՀԱԶ.ԼԻՏՐ
+text out:  Հսկա սկաուտների նյութեղեն աշխարհները ՀԱԶ.ԼԻՏՐ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-Oblique/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-Oblique/1.txt
+ocr out:   լցնեմ Դիմել ՆԱԻՐԻՏ»-Ի ԱՍԷԴԼ Մակիչյան
+text out:  լցնեմ Դիմել ՆԱԻՐԻՏ»-Ի ԱՍԷԴԼ Մակիչյան
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-Oblique/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-Oblique/2.txt
+ocr out:   ՉՕԳՏԱԳՈՐԾՎԱԾ ԸՆԴՀԱՆՈՒՐԻՆ ԿԱՆԱՑՎԱԾ Պաշտպանին վռնդեցին
+text out:  ՉՕԳՏԱԳՈՐԾՎԱԾ ԸՆԴՀԱՆՈՒՐԻՆ ԿԱՆԱՑՎԱԾ Պաշտպանին վռնդեցին
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-Oblique/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-Oblique/3.txt
+ocr out:   կմ` աւրհնեաց Սգավոր նոստրատիկ Հեռախոսով
+text out:  կմ` աւրհնեաց Սգավոր նոստրատիկ Հեռախոսով
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-Oblique/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-Oblique/4.txt
+ocr out:   Համապատասխան Մարատ ավազուտներ ԵՐՐՈՐԴՈՒԹՅՈՒՆԸ հետեւեք
+text out:  Համապատասխան Մարատ ավազուտներ ԵՐՐՈՐԴՈՒԹՅՈՒՆԸ հետեւեք
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-Oblique/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-Oblique/5.txt
+ocr out:   Դասավանդողի ՈՒՂԱՐԿՈՒՄ կիրառությունը ՃԻՉՆ ԳԵՂԱՐԴԱՎԱՆՔԻ
+text out:  Դասավանդողի ՈՒՂԱՐԿՈՒՄ կիրառությունը ՃԻՉՆ ԳԵՂԱՐԴԱՎԱՆՔԻ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-Oblique/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-Oblique/6.txt
+ocr out:   Քեզի ՓԱԽՍՏԱԿԱՆՆԵՐԻ անվախ ԱՆՎԱՆԵՑԻՆ Բայադյան
+text out:  Քեզի ՓԱԽՍՏԱԿԱՆՆԵՐԻ անվախ ԱՆՎԱՆԵՑԻՆ Բայադյան
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-Oblique/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-Oblique/7.txt
+ocr out:   Լամպ յաւուրն ՀԱՄԱՐՒՈՒՄ Հեթանոսների Մոլոդոյը
+text out:  Լամպ յաւուրն ՀԱՄԱՐՒՈՒՄ Հեթանոսների Մոլոդոյը
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-Oblique/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-Oblique/8.txt
+ocr out:   ԿԾՆՎԻ եղեռնից ԿԱՌԱՋԱՆԱ Միլդրեդի քայլեր
+text out:  ԿԾՆՎԻ եղեռնից ԿԱՌԱՋԱՆԱ Միլդրեդի քայլեր
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-Oblique/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSansCondensed-Oblique/9.txt
+ocr out:   ԱՎԵՐՄԱՆ ԿԱԼԻՖՈՐՆԻԱՅՈՒՄ դրությունը` ԳՈՄԵՇ Սպառնալիքի
+text out:  ԱՎԵՐՄԱՆ ԿԱԼԻՖՈՐՆԻԱՅՈՒՄ դրությունը` ԳՈՄԵՇ Սպառնալիքի
+WER: 0%
+

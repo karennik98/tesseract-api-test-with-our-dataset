@@ -1,0 +1,60 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/ArialUnicodeMS/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/ArialUnicodeMS/0.txt
+ocr out:   Հաստատություններ ՄՏԱԴՐՈՒԹՅԱՆ ականանետներից նմուշի պրոռեկտորին
+text out:  Հաստատություններ ՄՏԱԴՐՈՒԹՅԱՆ ականանետներից նմուշի պրոռեկտորին
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/ArialUnicodeMS/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/ArialUnicodeMS/1.txt
+ocr out:   Տանտիկինը ԹՎԱՔԱՆԱԿԻ ԳԼՈԲԱԼԻԶԱՑԻԱՅԻ ակոսում Կմախքը
+text out:  Տանտիկինը ԹՎԱՔԱՆԱԿԻ ԳԼՈԲԱԼԻԶԱՑԻԱՅԻ ակոսում Կմախքը
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/ArialUnicodeMS/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/ArialUnicodeMS/2.txt
+ocr out:   ՀԱՄԵՐԳԸ ՀԱՅԵՑՈՂՈՒԹՅԱՄԲ Մարտիտորսյան ՀԱՐԱԶԱՏ ռուսահպատակ
+text out:  ՀԱՄԵՐԳԸ ՀԱՅԵՑՈՂՈՒԹՅԱՄԲ Մարտիտորսյան ՀԱՐԱԶԱՏ ռուսահպատակ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/ArialUnicodeMS/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/ArialUnicodeMS/3.txt
+ocr out:   Վասակն սրկ ՀՈՐԱՔՐՈՋԸ երանգներով տանջվելով
+text out:  Վասակն սրկ ՀՈՐԱՔՐՈՋԸ երանգներով տանջվելով
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/ArialUnicodeMS/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/ArialUnicodeMS/4.txt
+ocr out:   խազ հանգուցեալ մտաւորականներ դիմահարդարվել Երանելին
+text out:  խազ հանգուցեալ մտաւորականներ դիմահարդարվել Երանելին
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/ArialUnicodeMS/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/ArialUnicodeMS/5.txt
+ocr out:   խառնելու ՂՈՆԴԻՆ տանեն Դուդուկի ԵՐԹԵՒԵԿՈՒԹՅՈՒՆԸ
+text out:  խառնելու ՂՈՆԴԻՆ տանեն Դուդուկի ԵՐԹԵՒԵԿՈՒԹՅՈՒՆԸ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/ArialUnicodeMS/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/ArialUnicodeMS/6.txt
+ocr out:   կապույտով ընտրողին ԲԱՐԲԱՌՆԵՐԻ նկուղներ ծափերով
+text out:  կապույտով ընտրողին ԲԱՐԲԱՌՆԵՐԻ նկուղներ ծափերով
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/ArialUnicodeMS/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/ArialUnicodeMS/7.txt
+ocr out:   ձեռնարկատերեր լեռնազագաքը գենետիկայի ԱՄԲՈՂՋԱԿԱՆՈՐԵՆ պատվիրակների
+text out:  ձեռնարկատերեր լեռնագագաթը գենետիկայի ԱՄԲՈՂՋԱԿԱՆՈՐԵՆ պատվիրակների
+WER: 20%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/ArialUnicodeMS/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/ArialUnicodeMS/8.txt
+ocr out:   բովով Ռալֆը մարին քննություն աստինան՝
+text out:  բովով Ռալֆը մարին քննություն աստիճան`
+WER: 20%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/ArialUnicodeMS/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/ArialUnicodeMS/9.txt
+ocr out:   ՄԱՐԶՈՒՄՆԵՐԻ ՆԱՍԱ-Ն օպերայի խորանանք բշտիկների
+text out:  ՄԱՐԶՈՒՄՆԵՐԻ ՆԱՍԱ-Ն օպերայի խորանանք բշտիկների
+WER: 0%
+

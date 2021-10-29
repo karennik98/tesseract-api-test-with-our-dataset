@@ -1,0 +1,79 @@
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/0.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/0.txt
+ocr out:   զենքը` ավետարանականները ձորում ձգձգումների բազմիցս
+text out:  զենքը` ավետարանականները ձորում ձգձգումների բազմիցս
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/1.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/1.txt
+ocr out:   հինգշաբթի` ՍՈՐԱ Հաճընի հիշելը ԱՍԱԾՍ
+text out:  հինգշաբթի` ՍՈՐԱ Հաճընի հիշելը ԱՍԱԾՍ
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/2.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/2.txt
+ocr out:   կի
+ատի
+նգապ
+սնհի
+
+Ն տա
+
+մ ԿԲԱԽՎԵ
+
+ենա
+
+ւզ
+
+ենեռ
+
+ներ
+
+ը
+
+սցենա
+text out:  սցենարներ ենե ուզենամ ԿԲԱԽՎԵՆ տասնհինգապատիկի
+WER: 100%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/3.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/3.txt
+ocr out:   ԺԱՄԱՆԱԿԱՀԱՏՎԱԾՆ արսենալը ԿԱՊԱՐԻ Ընտրիր Վարդանովը
+text out:  ԺԱՄԱՆԱԿԱՀԱՏՎԱԾՆ արսենալը ԿԱՊԱՐԻ Ընտրիր Վարդանովը
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/4.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/4.txt
+ocr out:   տիկնիկի ջերմամեկուսացման ՄԱՄԵԴՈՎԸ մեկը ՊԱՐԶԻՐ
+text out:  տիկնիկի ջերմամեկուսացման ՄԱՄԵԴՈՎԸ մեկը ՊԱՐԶԻՐ
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/5.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/5.txt
+ocr out:   Փնտրելով գրատան ՍԱՀՐԱԴՅԱՆ հողն Կալիֆոռնիան
+text out:  Փնտրելով գրատան ՍԱՀՐԱԴՅԱՆ հոդն Կալիֆոռնիան
+WER: 20%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/6.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/6.txt
+ocr out:   Մոտիվացիայի չհանեց ՄԵԳԱԼԻԹՅԱՆ տոնային դատի
+text out:  Մոտիվացիայի չհանեց ՄԵԳԱԼԻԹՅԱՆ տոնային դատի
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/7.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/7.txt
+ocr out:   Հիմնվել Ամեակի Թեմա` Ձյունիկ երկրեն
+text out:  Հիմնվել Ամեակի Թեմա` Ձյունիկ երկրեն
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/8.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/8.txt
+ocr out:   ԱՆՊԱՐՏԵԼԻ լճային ՀԱՄԱԴՐԵԼԻ Իջեւանը ցանել
+text out:  ԱՆՊԱՐՏԵԼԻ լճային ՀԱՄԱԴՐԵԼԻ Իջեւանը ցանել
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/9.jpg
+text file: ../data/quasicrystal_no_distorsion/DejaVuSerif-BoldItalic/9.txt
+ocr out:   Սինուչ Խար ԱՊԱԳԱՅԻ օրինականացված զորամասերին
+text out:  Սինոպ Խար ԱՊԱԳԱՅԻ օրինականացված զորամասերին
+WER: 20%
+

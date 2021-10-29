@@ -1,0 +1,60 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerif-Italic/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerif-Italic/0.txt
+ocr out:   Կգամ կձեռնարկենք Փիղը ԶԲԱՂՄՈՒՆՔԻ Հետխորհրդային
+text out:  Կգամ կձեռնարկենք Փիղը ԶԲԱՂՄՈՒՆՔԻ Հետխորհրդային
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerif-Italic/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerif-Italic/1.txt
+ocr out:   անհոսք ՄԹՐԵՍՆԵՐ քարայրն պահողները ՀՈՒԹՅԱՆ
+text out:  անհոսք ՍԹՐԵՍՆԵՐ քարայրն պահողները ՀՈՒԹՅԱՆ
+WER: 20%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerif-Italic/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerif-Italic/2.txt
+ocr out:   ստեղծի կինոօպերատոր լեյկոցիտների Ճանճ ՁԱՅՆԻ
+text out:  ստեղծի կինոօպերատոր լեյկոցիտների Ճանճ ՁԱՅՆԻ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerif-Italic/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerif-Italic/3.txt
+ocr out:   ԾԱՂՐԱՆԿԱՐՆԵՐ Տարեցներ հ-ի ԵՐԵՔԻՑ կործանիչներն
+text out:  ԾԱՂՐԱՆԿԱՐՆԵՐ Տարեցներ հ-ի ԵՐԵՔԻՑ կործանիչներն
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerif-Italic/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerif-Italic/4.txt
+ocr out:   ԿՂԶԻՆԵՐԸ ԱՆՀԵՏԱՑՈՒՄԸ Մելիքյանի Սրբոց զգացված
+text out:  ԿՂԶԻՆԵՐԸ ԱՆՀԵՏԱՑՈՒՄԸ Մելիքյանի Սրբոց զգացված
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerif-Italic/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerif-Italic/5.txt
+ocr out:   ԹԵՒԱՏՐՈՍՅԱՆ ԲԱՅՈՎ ՀԱՅՏԱՐԱՐԵԼ` ՎԱՐԱԿՎԵԼՈՒՑ դեֆեկտների
+text out:  ԹԵՒԱՏՐՈՍՅԱՆ ԲԱՅՈՎ ՀԱՅՏԱՐԱՐԵԼ` ՎԱՐԱԿՎԵԼՈՒՑ դեֆեկտների
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerif-Italic/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerif-Italic/6.txt
+ocr out:   զոր Գոգը ԱՆՈՆՑ Պուլովերներ պտուղների
+text out:  զոր Գոգը ԱՆՈՆՑ Պուլովերներ պտուղների
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerif-Italic/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerif-Italic/7.txt
+ocr out:   հիվանդացության շնչով արեւելահայերենի հարցատոմսը Ուշացումով
+text out:  հիվանդացության շնչով արեւելահայերենի հարցատոմսը Ուշացումով
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerif-Italic/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerif-Italic/8.txt
+ocr out:   Մարզման Խոր Անընդունելի հաշվապահական թադրում
+text out:  Մարզման Խոր Անընդունելի հաշվապահական թադրում
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerif-Italic/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/DejaVuSerif-Italic/9.txt
+ocr out:   Կովկասը Գեվո երշիկովա գավորին տպելու
+text out:  Կովկասը Գեվո երշիկովա գավորին տպելու
+WER: 0%
+

@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif/0.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif/0.txt
+ocr out:   բաժանական իրադար ռազմիկներից համազարկ ՆԵՐԴՐՄԱՆ
+text out:  բաժանական իրադար ռազմիկներից համազարկ ՆԵՐԴՐՄԱՆ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif/1.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif/1.txt
+ocr out:   դպրոցներուն ԿՌԱՀԻ չդարձնելով Շնորհալուց ԾԱԾԿԱՄԻՏ
+text out:  դպրոցներուն ԿՌԱՀԻ չդարձնելով Շնորհալուց ԾԱԾԿԱՄԻՏ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif/2.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif/2.txt
+ocr out:   Վերոնշված հեղինակային Դիլանը զինվորականն քերեն
+text out:  Վերոնշված հեղինակային Դիլանը զինվորականն քերեն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif/3.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif/3.txt
+ocr out:   Ազրպէյճանի վերածնունդ»-ի Գիլգամեշի ԱՍՈՒԼԻՍՈՎ Զրուցեց
+text out:  Ազրպէյճանի վերածնունդ»-ի Գիլգամեշի ԱՍՈՒԼԻՍՈՎ Զրուցեց
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif/4.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif/4.txt
+ocr out:   մատնադրոշմային կակ վերագտավ ճնշել ՄՆԱԼՈՒ
+text out:  մատնադրոշմային կակ վերագտավ ճնշել ՄՆԱԼՈՒ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif/5.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif/5.txt
+ocr out:   ԱՋԱՓՆՅԱԿՈՒՄ կհուղարկավորեն Յոն Բրոուդի սրբարար
+text out:  ԱՋԱՓՆՅԱԿՈՒՄ կհուղարկավորեն Յոն Բրոուդի սրբարար
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif/6.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif/6.txt
+ocr out:   հզորներին ՌՈՒՍԻԱ ունայնությունը Երեւանցիներ կակառ
+text out:  հզորներին ՌՈՒՍԻԱ ունայնությունը Երեւանցիներ կակաո
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif/7.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif/7.txt
+ocr out:   ծառայությունում` ԱՊԱՐՆԵՐՈՎ էքստենսիվ Թթուների հարատեւությունը
+text out:  ծառայությունում` ԱՊԱՐՆԵՐՈՎ էքստենսիվ Թթուների հարատեւությունը
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif/8.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif/8.txt
+ocr out:   վկայա ԱՄԷՆԸ Եվրատեսիլի իշխած ԿԱՅԱՆՆԵՐԸ
+text out:  վկայա ԱՄԷՆԸ Եվրատեսիլի իշխած ԿԱՅԱՆՆԵՐԸ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif/9.txt
+ocr out:   վերստուգման Ծերանում խսիրներ ՌԱՄԱԶՅԱՆԸ Գյուրջինյանը
+text out:  վերստուգման Ծերանում խսիրներ ՌԱՄԱԶՅԱՆԸ Գյուրջինյանը
+WER: 0%
+

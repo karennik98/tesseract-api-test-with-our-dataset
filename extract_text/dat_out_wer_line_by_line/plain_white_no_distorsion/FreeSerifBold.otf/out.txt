@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifBold.otf/0.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifBold.otf/0.txt
+ocr out:   Կարմիրաղբյուրի ԽՄԲԵՐԸ՝ ԸՆԴԱՐՁԱԿՎՈՒՄ սիլիցիում ձե
+text out:  Կարմիրաղբյուրի ԽՄԲԵՐԸ` ԸՆԴԱՐՁԱԿՎՈՒՄ սիլիցիում ձե
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifBold.otf/1.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifBold.otf/1.txt
+ocr out:   ո՞ր ԻՆԺԵՆԵՐ ՀԵԾԵԼԱԶՈՐԻ պարարտ կապվել
+text out:  ո՞ր ԻՆԺԵՆԵՐ ՀԵԾԵԼԱԶՈՐԻ պարարտ կապվել
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifBold.otf/2.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifBold.otf/2.txt
+ocr out:   ԵԼՆԻ ԱՐՏԱՆԵՏՈՒՄՆԵՐԸ Դատախաղ բուդդիստ գործընկերներին
+text out:  ԵԼՆԻ ԱՐՏԱՆԵՏՈՒՄՆԵՐԸ Դատախաղ բուդդիստ գործընկերներին
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifBold.otf/3.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifBold.otf/3.txt
+ocr out:   կարապետ Թ.` հարաբերակցութ կենտրոնացրել Անդամակցության
+text out:  կարապետ Թ.` հարաբերակցութ կենտրոնացրել Անդամակցության
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifBold.otf/4.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifBold.otf/4.txt
+ocr out:   ԿՈՄՊԱՆԻԱ երանելի ՀԵՐՈՍՈՒՀՈՒ ԳԱՎ ՓԱՌԱՏՈՆՈՒՄ
+text out:  ԿՈՄՊԱՆԻԱ երանելի ՀԵՐՈՍՈՒՀՈՒ ԳԱՎ ՓԱՌԱՏՈՆՈՒՄ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifBold.otf/5.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifBold.otf/5.txt
+ocr out:   բնատնտեսական Առաւօտեան ՀԱՆԴԻ Ստալինգրադի կարմիրը
+text out:  բնատնտեսական Առաւօտեան ՀԱՆԴԻ Ստալինգրադի կարմիրը
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifBold.otf/6.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifBold.otf/6.txt
+ocr out:   եղբարք Սոսյուրի դիրքավորվում խոսեն ինսթագրամներում
+text out:  եղբարք Սոսյուրի դիրքավորվում խոսեն ինսթագրամներում
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifBold.otf/7.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifBold.otf/7.txt
+ocr out:   Գիտեին ՅԵՐԻՆ օտարվում ԶԻՋԵԼ անասնաբու
+text out:  Գիտեին ՅԵՐԻՆ օտարվում ԶԻՋԵԼ անասնաբու
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifBold.otf/8.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifBold.otf/8.txt
+ocr out:   մահմեդականը շեշտում ՀԵՌԱՑՆՈՒՄ ԻՍԿԱՊԷՍ ՄՅՈՒՍՆԵՐԻՆ
+text out:  մահմեդականը շեշտում ՀԵՌԱՑՆՈՒՄ ԻՍԿԱՊԷՍ ՄՅՈՒՍՆԵՐԻՆ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSerifBold.otf/9.jpg
+text file: ../data/plain_white_no_distorsion/FreeSerifBold.otf/9.txt
+ocr out:   գաղտնիքներն ՍՈՂՈՒՆՆԵՐ ՏՂԱՅՈՑ բարեկարգման եկածները
+text out:  գաղտնիքներն ՍՈՂՈՒՆՆԵՐ ՏՂԱՅՈՑ բարեկարգման եկածները
+WER: 0%
+

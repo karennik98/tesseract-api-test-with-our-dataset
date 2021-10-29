@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBold.otf/0.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBold.otf/0.txt
+ocr out:   ՎՆԱՍԱԶԵՐԾՄԱՆ Ս.Վրացյան ՊԱՏՄԻՉՆ Ասել ներքինու
+text out:  ՎՆԱՍԱԶԵՐԾՄԱՆ Ս.Վրացյան ՊԱՏՄԻՉՆ Ասել ներքինու
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBold.otf/1.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBold.otf/1.txt
+ocr out:   միջնադարում` հրաւէր պահանջներով` ԿԱՐԾԵԼՈՒ Կորոնար
+text out:  միջնադարում` հրաւէր պահանջներով` ԿԱՐԾԵԼՈՒ Կորոնար
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBold.otf/2.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBold.otf/2.txt
+ocr out:   ՄԱՐԼԵՆ ուռած Բազմիմաստության Պրահայում ՄՈՐՄՈՔԸ
+text out:  ՄԱՐԼԵՆ ուռած Բազմիմաստության Պրահայում ՄՈՐՄՈՔԸ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBold.otf/3.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBold.otf/3.txt
+ocr out:   Ինֆո».Հյուրն Կոմպլեքս ՇԻՉ ԴԵՄԻՐՃՅԱՆԸ ՀԱՏՎԵԼԸ
+text out:  Ինֆո».Հյուրն Կոմպլեքս ՇԻՉ ԴԵՄԻՐՃՅԱՆԸ ՀԱՏՎԵԼԸ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBold.otf/4.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBold.otf/4.txt
+ocr out:   հանքանյութերի Առնում ՃՇՏԵԼՈՒ կծում տապես
+text out:  հանքանյութերի Առնում ՃՇՏԵԼՈՒ կծում տապես
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBold.otf/5.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBold.otf/5.txt
+ocr out:   հանդիսականի զանգվա ատաղձը ԲՆԱԳԱՎԱՌՆԵՐԸ ԳՈՐԾԱ
+text out:  հանդիսականի զանգվա ատաղձը ԲՆԱԳԱՎԱՌՆԵՐԸ ԳՈՐԾԱ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBold.otf/6.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBold.otf/6.txt
+ocr out:   Չմոռանաս Գրունտների ԹԶԹ Մալյանի տեսակային
+text out:  Չմոռանաս Գրունտների ԹԶԹ Մալյանի տեսակային
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBold.otf/7.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBold.otf/7.txt
+ocr out:   կառավարության՝ Կոլյայի ծփացող Շունչ չդիմելու
+text out:  կառավարության` Կոլյայի ծփացող Շունչ չդիմելու
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBold.otf/8.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBold.otf/8.txt
+ocr out:   ԿՈՐԵԼՈՒ գիւղերի գլիկոզիդներ հավելավճար` պարբերացում
+text out:  ԿՈՐԵԼՈՒ գիւղերի գլիկոզիդներ հավելավճար` պարբերացում
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeSansBold.otf/9.jpg
+text file: ../data/plain_white_no_distorsion/FreeSansBold.otf/9.txt
+ocr out:   Հայտեր Յես ՄՄԱՊԳՀԿ աշխատավորական ԸՆԹԵՑՈՒՄՆԵՐ
+text out:  Հայտեր Յես ՄՄԱՊԳՀԿ աշխատավորական ԸՆԹԵՑՈՒՄՆԵՐ
+WER: 0%
+

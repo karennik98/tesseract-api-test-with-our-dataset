@@ -1,0 +1,60 @@
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBold.otf/0.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBold.otf/0.txt
+ocr out:   չանեի Անճելոս Բալասանյան ՉՄՈՌՆԱԼՈՎ ԵՐԵՄԻԱՅԻ
+text out:  չանեի Անճելոս Բալասանյան ՉՄՈՌՆԱԼՈՎ ԵՐԵՄԻԱՅԻ
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBold.otf/1.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBold.otf/1.txt
+ocr out:   մեղմացնում Բագրատունիներ ԳԵՐԵՎԱՐՄԱՆ Սընթ Ծնունդից:
+text out:  մեղմացնում Բագրատունիներ ԳԵՐԵՎԱՐՄԱՆ Սընթ Ծնունդից
+WER: 20%
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBold.otf/2.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBold.otf/2.txt
+ocr out:   բազմանալու ԻՇԽԱՆՅԱՆԻ լվալուՉե՛ս Սահմանադիր
+text out:  բազմանալու ԻՇԽԱՆՅԱՆԻ լվալու Չե՛ս Սահմանադիր
+WER: 40%
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBold.otf/3.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBold.otf/3.txt
+ocr out:   ԲԱԳԱԼՅԱՆԻՆ ՇԱՌԱՎԻՂՈՎ Օրինականություն վատահորդի ըմբշամարտիկներին
+text out:  ԲԱԴԱԼՅԱՆԻՆ ՇԱՌԱՎԻՂՈՎ Օրինականություն վստահորդի ըմբշամարտիկներին
+WER: 40%
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBold.otf/4.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBold.otf/4.txt
+ocr out:   ԱՐԱԲԱԿԱՆ Որդեա՛կ Աշխատավայրի ՔՐՈՆԻԿՈՆ լրջությունը
+text out:  ԱՐԱԲԱԿԱՆ Որդեա՛կ Աշխատավայրի ՔՐՈՆԻԿՈՆ լրջությունը
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBold.otf/5.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBold.otf/5.txt
+ocr out:   հեռացվել Պատրաստուկը տաղանդից ծրար Խառնեք
+text out:  հեռացվել Պատրաստուկը տաղանդից ծրար Խառնեք
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBold.otf/6.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBold.otf/6.txt
+ocr out:   համախմբմանն համախմբում գիպսաստվարաթղթե ՁԿՆԱԿԵՐՊ մանրէն
+text out:  համախմբմանն համախմբում գիպսաստվարաթղթե ՁԿՆԱԿԵՐՊ մանրէն
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBold.otf/7.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBold.otf/7.txt
+ocr out:   Մուսուլմանները ԹՐԻ ԿՀԱՍՑՆԵՍ ալկիդային ՋԵՐՄԱՏՆԵՐ
+text out:  Մուսուլմանները ԹՐԻ ԿՀԱՍՑՆԵՄ ալկիդային ՋԵՐՄԱՏՆԵՐ
+WER: 20%
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBold.otf/8.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBold.otf/8.txt
+ocr out:   ՍԱԱՄԵՐԵՆ եկամուտից Կանիֆոլներ Լինքոլնի ԱՊՊԱ-Ն
+text out:  ՍԱԱՄԵՐԵՆ եկամուտից Կանիֆոլներ Լինքոլնի ԱՊՊԱ-Ն
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBold.otf/9.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBold.otf/9.txt
+ocr out:   Կիսվե՛ք Լյով դիսլեքսիա գրատների ֆլեշ
+text out:  Կիսվե՛ք Լյով դիսլեքսիա գրատների ֆլեշ
+WER: 0%
+

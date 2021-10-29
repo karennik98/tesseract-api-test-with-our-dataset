@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Italic/0.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Italic/0.txt
+ocr out:   անցեալ Իվանկովի հայորդի օրգանների գթանք
+text out:  անցեալ Իվանկովի հայորդի օրգանների գթանք
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Italic/1.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Italic/1.txt
+ocr out:   նոյն հավեսս ասեն թոշակներ սքեմ
+text out:  նոյն հավեսս ասեն թոշակներ սքեմ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Italic/2.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Italic/2.txt
+ocr out:   ԱՌՈՒՅԳ Ընհանուր Բեքինսեյլը պլոմբանյութեր դնող
+text out:  ԱՌՈՒՅԳ Ընհանուր Բեքինսեյլը պլոմբանյութեր դնող
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Italic/3.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Italic/3.txt
+ocr out:   ՈՐԴԵԳՐՈՂՆԵՐԸ ԼՈՒՍԱԿՆ պաստառ ԵՎՐՈՊԱՆ Լոտո
+text out:  ՈՐԴԵԳՐՈՂՆԵՐԸ ԼՈՒՍԱԿՆ պաստառ ԵՎՐՈՊԱՆ Լոտո
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Italic/4.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Italic/4.txt
+ocr out:   նկարահանի ԵՆԻԳՈՄՇՅԱՆԻ մետաղին արեւելագիտական առաքինությամբ
+text out:  նկարահանի ԵՆԻԳՈՄՇՅԱՆԻ մետաղին արեւելագիտական առաքինությամբ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Italic/5.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Italic/5.txt
+ocr out:   երկիւղիւ բացմանն օդանավակայանում ճեղքած փոխարկումն
+text out:  երկիւղիւ բացմանն օդանավակայանում ճեղքած փոխարկումն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Italic/6.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Italic/6.txt
+ocr out:   ԱԷԿ-ները Պարկինգ-կոնտրոլ տեղեկացվել նորմատիվների ԴԱՐԱՇՐՋԱՆՈՒՄ
+text out:  ԱԷԿ-ները Պարկինգ-կոնտրոլ տեղեկացվել նորմատիվների ԴԱՐԱՇՐՋԱՆՈՒՄ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Italic/7.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Italic/7.txt
+ocr out:   ԿԴԱՐՁՆԵՆՔ ՌԱՖԱՅԵԼԸ սպեկտրով խնձորաթթու ԽՈՍՔԻՑ
+text out:  ԿԴԱՐՁՆԵՆՔ ՌԱՖԱՅԵԼԸ սպեկտրով խնձորաթթու ԽՈՍՔԻՑ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Italic/8.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Italic/8.txt
+ocr out:   օրինականությունն Երեւան-Փարիզ հայությունն ԳՎԱՐԴԻԱՅԻՆ ԵՐԿԱՏՎԱԾ
+text out:  օրինականությունն Երեւան-Փարիզ հայությունն ԳՎԱՐԴԻԱՅԻՆ ԵՐԿԱՏՎԱԾ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Italic/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-Italic/9.txt
+ocr out:   ԼՃՈՒՄ ԲԱՎԱՐԱՐՄԱՆՆ Հատակագծեր ՌԱՇԻԴ ՀԱՄԱԿԱՐԳԵՐԻՑ
+text out:  ԼՃՈՒՄ ԲԱՎԱՐԱՐՄԱՆՆ Հատակագծեր ՌԱՇԻԴ ՀԱՄԱԿԱՐԳԵՐԻՑ
+WER: 0%
+

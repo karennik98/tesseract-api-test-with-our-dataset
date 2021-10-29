@@ -1,0 +1,60 @@
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/0.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/0.txt
+ocr out:   ՆԵՐՍԻՍՅԱՆԻՆ Քամալյանի մեծապետական ջարդերուն Սցենարի
+text out:  ՆԵՐՍԻՍՅԱՆԻՆ Քամալյանի մեծապետական ջարդերուն Սցենարի
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/1.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/1.txt
+ocr out:   տեսականիների օրինաչափորեն ալոպլաստիկա կողմնորոշվելը Յովհաննէսը
+text out:  տեսականիների օրինաչափորեն ալոպլաստիկա կողմնորոշվելը Յովհաննէսը
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/2.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/2.txt
+ocr out:   կոչող Բռնկման ՕՇԱԿԱՆԸ ՀՐԱՊԱՐԱԿՎԻ պոլիպեպտիդ
+text out:  կոչող Բռնկման ՕՇԱԿԱՆԸ ՀՐԱՊԱՐԱԿՎԻ պոլիպեպտիդ
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/3.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/3.txt
+ocr out:   ՌԻՆԴ մատենագիտություն ծովեր նռնակ Համարանիշերի
+text out:  ՌԻՆԴ մատենագիտություն ծովեր նռնակ Համարանիշերի
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/4.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/4.txt
+ocr out:   ԱՄԵՐԻԿԱԲՆԱԿ Ցուցիչը Օրապահք արագագործ Շրջագայություն
+text out:  ԱՄԵՐԻԿԱԲՆԱԿ Ցուցիչը Օրապահք արագագործ Շրջագայություն
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/5.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/5.txt
+ocr out:   հաշվարկ` աքսորված մեմա ԱԳՐԵՍՈՐԻ ժանիքներ
+text out:  հաշվարկ` աքսորված մեմա ԱԳՐԵՍՈՐԻ ժանիքներ
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/6.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/6.txt
+ocr out:   ՄԱՍՏԱԿԸ անընդմեջ Հայաստա՞նը Նյուսացին ՄԳ/Լ-ԻՑ
+text out:  ՄԱՍՏԱԿԸ անընդմեջ Հայաստա՞նը Նյուսացին ՄԳ/Լ-ԻՑ
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/7.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/7.txt
+ocr out:   ՀԶՈՐԱՑՈՒՄԸ Տրանսցենդենտալ Տեր-Վարդանյանը Համակարգով ՓՈՔԸՆ
+text out:  ՀԶՈՐԱՑՈՒՄԸ Տրանսցենդենտալ Տեր-Վարդանյանը Համակարգով ՓՈՔՐՆ
+WER: 20%
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/8.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/8.txt
+ocr out:   գյուղացիներին ՔԱՑՈՎ Տրանսգազ Էնքան շրջաննե
+text out:  գյուղացիներին ՔԱՑՈՎ Տրանսգազ Էնքան շրջաննե
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/9.jpg
+text file: ../data/quasicrystal_no_distorsion/FreeSerifBoldItalic/9.txt
+ocr out:   ՓՈԽԱՐԺԵՔՆԵՐԻ թեթեւացվածսստանում պաստվելրուպատումներ
+text out:  ՓՈԽԱՐԺԵՔՆԵՐԻ թեթեւացված ոստանում պատռվելու պատումներ
+WER: 80%
+

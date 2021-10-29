@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-SemiBold/0.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-SemiBold/0.txt
+ocr out:   էղեր Ծածկագիրն ԲԱՑԹՈՂՈՒՄՆԵՐԻ ԱՐՋՆԻԻ ԸԱՆԴԵՍՆԵՐԸ
+text out:  էղեր Ծածկագիրն ԲԱՑԹՈՂՈՒՄՆԵՐԻ ԱՐԶՆԻԻ ՀԱՆԴԵՍՆԵՐԸ
+WER: 40%
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-SemiBold/1.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-SemiBold/1.txt
+ocr out:   տաղաչափությունը ԱՆԱՎԱՐՏ նկարագրով Նառճանգներ անճետեւողական
+text out:  տաղաչափությունը ԱՆԱՎԱՐՏ նկարագրով Նահանգներ անհետեւողական
+WER: 40%
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-SemiBold/2.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-SemiBold/2.txt
+ocr out:   ՊՈՂՈՍՑԱՆ բուխ արարողակարգ Մենսոն քվինտիլի
+text out:  ՊՈՂՈՍՑԱՆ բուխ արարողակարգ Մենսոն քվինտիլի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-SemiBold/3.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-SemiBold/3.txt
+ocr out:   աղերսները աճյունները լոգարանի Յանուկովիչը կապեն
+text out:  աղերսները աճյունները լոգարանի Յանուկովիչը կապեն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-SemiBold/4.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-SemiBold/4.txt
+ocr out:   Կադրերի բնափայտ ներողամտորեն Ջուլիետ ԴԱՌՆ
+text out:  Կադրերի բնափայտ ներողամտորեն Ջուլիետ ԴԱՌՆ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-SemiBold/5.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-SemiBold/5.txt
+ocr out:   չուզեր ընդգրկումների ԸՇՈՍՔ Մեծագործի սխեմայի
+text out:  չուզեր ընդգրկումների ՀՈՍՔ Մեծագործի սխեմայի
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-SemiBold/6.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-SemiBold/6.txt
+ocr out:   Սաշիկի սերմնաժայթքում ԶԱՅՐԱՑԱԾ ԸՇԱՆԴԵՍՆԵՐԸ Բացատրությունը
+text out:  Սաշիկի սերմնաժայթքում ԶԱՅՐԱՑԱԾ ՀԱՆԴԵՍՆԵՐԸ Բացատրությունը
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-SemiBold/7.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-SemiBold/7.txt
+ocr out:   ֆանկոլլ դուբլվեց արտագաղթին գործադրվեց ԱՆՑԿԱՑՆԵԼՆ
+text out:  ֆանկոյլ դուբլվեց արտագաղթին գործադրվեց ԱՆՑԿԱՑՆԵԼՆ
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-SemiBold/8.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-SemiBold/8.txt
+ocr out:   Էկզեմա ՄԻՋԻՆՆ զճոգի ՇԱՏԻՆ ՎԵՐԱԿԱՑՈՒՆ
+text out:  Էկզեմա ՄԻՋԻՆՆ զհոգի ՇԱՏԻՆ ՎԵՐԱԿԱՑՈՒՆ
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion/NotoSansArmenian-SemiBold/9.jpg
+text file: ../data/plain_white_no_distorsion/NotoSansArmenian-SemiBold/9.txt
+ocr out:   օրճնեց ծուղակները ԳՍՖ արգելքներին Կառավարությանը
+text out:  օրհնեց ծուղակները Գ/Ֆ արգելքներին Կառավարությանը
+WER: 40%
+

@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-BoldItalic/0.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-BoldItalic/0.txt
+ocr out:   կություններից թշնամիների բարգավաճող նվազա փղոսկրե
+text out:  կություններից թշնամիների բարգավաճող նվազա փղոսկրե
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-BoldItalic/1.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-BoldItalic/1.txt
+ocr out:   պարգեւելով ՀԻՄՆԱԿԱՆՆԵՐՆ պաշտպաններին գիտնականներին ՈՏՆԵՐԻ
+text out:  պարգեւելով ՀԻՄՆԱԿԱՆՆԵՐՆ պաշտպաններին գիտնականներին ՈՏՆԵՐԻ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-BoldItalic/2.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-BoldItalic/2.txt
+ocr out:   ԼՈՎ` Ժառանգություն կոչումներին բռնակների Եվրոֆուտբոլ
+text out:  ԼՈՎ` Ժառանգություն կոչումներին բռնակների Եվրոֆուտբոլ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-BoldItalic/3.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-BoldItalic/3.txt
+ocr out:   Ստանձնելով ՉԺԱՆԳՈՏՎՈՂ հարթակներ բաշյան ՄԿԱՆԻ
+text out:  Ստանձնելով ՉԺԱՆԳՈՏՎՈՂ հարթակներ բաշյան ՄԿԱՆԻ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-BoldItalic/4.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-BoldItalic/4.txt
+ocr out:   ՇԵՄՔԻՆ սենյոր Օսկար հաստացրել ԵԿԱՄՏԱՀԱՐԿԻ
+text out:  ՇԵՄՔԻՆ սենյոր Օսկար հաստացրել ԵԿԱՄՏԱՀԱՐԿԻ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-BoldItalic/5.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-BoldItalic/5.txt
+ocr out:   ՊԱՏՄՎԱԾՔԻՑ Նասյոնալ ԿՐՊԱԿՆԵՐՈՒՄ ՉԱՄՉՅԱՆ էշին
+text out:  ՊԱՏՄՎԱԾՔԻՑ Նասյոնալ ԿՐՊԱԿՆԵՐՈՒՄ ՉԱՄՉՅԱՆ էշին
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-BoldItalic/6.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-BoldItalic/6.txt
+ocr out:   Բոնդարչուկը ակնաբույժ Իսրայելի ՍԱՍՈՒՆՑԻ ԽԱՉԱՏՐՅԱՆԸ`
+text out:  Բոնդարչուկը ակնաբույժ Իսրայելի ՍԱՍՈՒՆՑԻ ԽԱՉԱՏՐՅԱՆԸ`
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-BoldItalic/7.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-BoldItalic/7.txt
+ocr out:   ՆՈՈՒԹԲՈՒՔ ՀԱՐՈՒԹՅՈՒՆՅԱՆԻ ԱՐՑԱԽ` Քառասնօրյա ՆԱԽԱԴԻՊԼՈՄԱՅԻՆ
+text out:  ՆՈՈՒԹԲՈՒՔ ՀԱՐՈՒԹՅՈՒՆՅԱՆԻ ԱՐՑԱԽ` Քառասնօրյա ՆԱԽԱԴԻՊԼՈՄԱՅԻՆ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-BoldItalic/8.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-BoldItalic/8.txt
+ocr out:   Տեսագրություն Շահապիվանի ԹԻԹԵՌՆԻԿԻ Հոլիդեյ վարակել
+text out:  Տեսագրություն Շահապիվանի ԹԻԹԵՌՆԻԿԻ Հոլիդեյ վարակել
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerif-BoldItalic/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerif-BoldItalic/9.txt
+ocr out:   փռելու ՓՈԽԱՏՈՒ ԱՂՔԱՏՆԵՐԻՆ քառատողում ՊԱՍԿԵՒԻՉԻ
+text out:  փռելու ՓՈԽԱՏՈՒ ԱՂՔԱՏՆԵՐԻՆ քառատողում ՊԱՍԿԵՒԻՉԻ
+WER: 0%
+

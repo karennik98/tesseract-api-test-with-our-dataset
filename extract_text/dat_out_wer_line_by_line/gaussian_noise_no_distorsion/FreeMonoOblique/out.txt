@@ -1,0 +1,60 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeMonoOblique/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeMonoOblique/0.txt
+ocr out:   վերարժեւորման մգ` ՓԱՅԼԵԼՈՒ ԷԿՈՆՈՄԻԿԱ ծածկվեց
+text out:  վերարժեւորման մգ` ՓԱՅԼԵԼՈՒ ԷԿՈՆՈՄԻԿԱ ծածկվեց
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeMonoOblique/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeMonoOblique/1.txt
+ocr out:   ինքաբացարկ Պարգեւեք գործուղման ԿԱՏԱՐՎԵԼՈՒ Ամոթ
+text out:  ինքաբացարկ Պարգեւեք գործուղման ԿԱՏԱՐՎԵԼՈՒ Ամոթ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeMonoOblique/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeMonoOblique/2.txt
+ocr out:   Վարդաքարի ՌԻՀԱՆՆԱՆ ԽՈԵԱՐԱՐԱԿԱՆ Հարթենյան ԱՐՔԱՅԱԿԱՆ
+text out:  Վարդաքարի ՌԻՀԱՆՆԱՆ ԽՈԵԱՐԱՐԱԿԱՆ Հարթենյան ԱՐՔԱՅԱԿԱՆ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeMonoOblique/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeMonoOblique/3.txt
+ocr out:   Կահիրե ստեղծումը Մարիոն ՊԱՏՄԱԳԻՐԸ Զեղչերթեժ
+text out:  Կահիրե ստեղծումը Մարիոն ՊԱՏՄԱԳԻՐԸ Զեղչերթեժ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeMonoOblique/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeMonoOblique/4.txt
+ocr out:   մերսելով պորտֆելում փակուած ՑԵԼՈՎ մարկերային
+text out:  մերսելով պորտֆելում փակուած ՑԵԼՈՎ մարկերային
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeMonoOblique/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeMonoOblique/5.txt
+ocr out:   իրագործումն ԿՏԱԿԱԾ կրծքավանդակին ունենա ստրկացման
+text out:  իրագործումն ԿՏԱԿԱԾ կրծքավանդակին ունենա ստրկացման
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeMonoOblique/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeMonoOblique/6.txt
+ocr out:   ԱՐԽԻՎԱՅԻՆ ԵՂԻԱԶԱՐՅԱՆԻ ռեկորդները ՍԱՔԱՆՅ Բարեկամավանի
+text out:  ԱՐԽԻՎԱՅԻՆ ԵՂԻԱԶԱՐՅԱՆԻ ռեկորդները ՍԱՔԱՆՅ Բարեկամավանի
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeMonoOblique/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeMonoOblique/7.txt
+ocr out:   Հարիսա Այրիվանեցու կախող Բախշյանը ԶԼՄ-ներն
+text out:  Հարիսա Այրիվանեցու կախող Բախշյանը ԶԼՄ-ներն
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeMonoOblique/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeMonoOblique/8.txt
+ocr out:   ՀԱՄԱԺՈՂՈՎՈՒՄ ՉԱՊԱՀՈՎԵԼՈՒ ԱԼԻՍԸ հրէական բարյավ
+text out:  ՀԱՄԱԺՈՂՈՎՈՒՄ ՉԱՊԱՀՈՎԵԼՈՒ ԱԼԻՍԸ հրէական բարյավ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeMonoOblique/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeMonoOblique/9.txt
+ocr out:   Մոթելներ ԱՇՈՑՔՈՒՄ կկրթենց օսկարակիր ՊԱՏՐԱՍՏՈՒԹՅՈՒՆ
+text out:  Մոթելներ ԱՇՈՑՔՈՒՄ կկրթենց օսկարակիր ՊԱՏՐԱՍՏՈՒԹՅՈՒՆ
+WER: 0%
+

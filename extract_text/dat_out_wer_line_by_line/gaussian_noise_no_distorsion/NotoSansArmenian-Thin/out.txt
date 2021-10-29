@@ -1,0 +1,60 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Thin/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Thin/0.txt
+ocr out:   ներդնեն ԻՐԱՆՆԵՐ ՍԿԱԿՈՎԸ ԲԼԵՅՔ Ջալլադը
+text out:  ներդնեն ԻՐԱՆՆԵՐ ՍԿԱԿՈՎԸ ԲԼԵՅՔ Ջալլադը
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Thin/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Thin/1.txt
+ocr out:   ճետեւաձքնձերից ՊԱՏՅԱՆԸ ՄԻՐՋԱԽԱՆՅԱՆԸ Լերան ճետաքրքրվելով
+text out:  հետեւանքներից ՊԱՏՅԱՆԸ ՄԻՐԶԱԽԱՆՅԱՆԸ Հերան հետաքրքրվելով
+WER: 80%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Thin/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Thin/2.txt
+ocr out:   ճայրս թեքությունը կնապրի պատկերվում ձպատակձերով
+text out:  հայրս թեքությունը կ'ապրի պատկերվում նպատակներով
+WER: 60%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Thin/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Thin/3.txt
+ocr out:   քայտնաբերվածն ԼԵՈՆԱՐԴՈ անձին ԱԼՊԵՐԻ ԿԵՐՊՈՒԹՅՈՒՆ
+text out:  Հայտնաբերվածն ԼԵՈՆԱՐԴՈ անի` ԱԼՊԵՐԻ ԿԵՐՊՈՒԹՅՈՒՆ
+WER: 40%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Thin/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Thin/4.txt
+ocr out:   քաղաքներու գոձադոտրոպինի ԸԾ-ՎԱՃԱՌԱՏԵՂ դոլլարի վաձաբար
+text out:  քաղաքներու գոնադոտրոպինի ՀԾ-ՎԱՃԱՌԱՏԵՂ դոլլարի վանաբար
+WER: 60%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Thin/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Thin/5.txt
+ocr out:   դրուքաչափից աձոձարիձությամբ ԱՅՆՈՒՇԵՏԵՒԱ Նպաստառու պառ
+text out:  դրույքաչափից անհնարինությամբ ԱՅՆՈՒՀԵՏԵՒ` Նպաստառու պառ
+WER: 60%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Thin/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Thin/6.txt
+ocr out:   Թատերախաղ խալիֆայությաձ Նվագարկիչձեր քրդամետ առածի
+text out:  Թատերախաղ խալիֆայության Նվագարկիչներ քրդամետ առածի
+WER: 40%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Thin/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Thin/7.txt
+ocr out:   երգվող ամոձիակային մրսելու Պրոլետար ԶԻՆԱԿՈՉԻԿՆԵՐԻ
+text out:  երգվող ամոնիակային մրսելու Պրոլետար ԶԻՆԱԿՈՉԻԿՆԵՐԻ
+WER: 20%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Thin/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Thin/8.txt
+ocr out:   քաձդակագործն ՇԱՍԿԱՆԱԼՈՎ տրեխձերը պետպատվեր ՕԳՏԱԳՈՐԾՈՂ
+text out:  քանդակագործն ՀԱՍԿԱՆԱԼՈՎ տրեխները պետպատվեր ՕԳՏԱԳՈՐԾՈՂ
+WER: 60%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Thin/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/NotoSansArmenian-Thin/9.txt
+ocr out:   ճձարք կերակրատեսակի Պաձդուխտն ձեղսրտում ԹՈՒՄ
+text out:  հնարք կերակրատեսակի Պանդուխտն նեղսրտում ԹՈՒՄ
+WER: 60%
+

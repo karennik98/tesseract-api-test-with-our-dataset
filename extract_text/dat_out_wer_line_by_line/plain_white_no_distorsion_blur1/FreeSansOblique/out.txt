@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansOblique/0.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansOblique/0.txt
+ocr out:   դժվարացնել Այբուբենը ՇՆՉԵԼՈՒ շաղկապենու արժանաւոր
+text out:  դժվարացնել Այբուբենը ՇՆՉԵԼՈՒ շաղկապենու արժանաւոր
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansOblique/1.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansOblique/1.txt
+ocr out:   Զինյալները սրբու կբավարարի կապիկներ ՇԱՐԺԱՌԻԹՆԵՐԸ
+text out:  Զինյալները սրբու կբավարարի կապիկներ ՇԱՐԺԱՌԻԹՆԵՐԸ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansOblique/2.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansOblique/2.txt
+ocr out:   կրեցին վերաքննությունը Համաճարակային Շրջաններում ծռեց
+text out:  կրեցին վերաքննությունը Համաճարակային Շրջաններում ծռեց
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansOblique/3.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansOblique/3.txt
+ocr out:   ԳԱՋ սահմանադրություն Էքսկուրսիաների ԱԴԱՆԱՅՈՒՄ նիվելիրային
+text out:  ԳԱՋ սահմանադրություն Էքսկուրսիաների ԱԴԱՆԱՅՈՒՄ նիվելիրային
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansOblique/4.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansOblique/4.txt
+ocr out:   խումբերը հոռետես ՕԳ-ՊԱՅՄԱՆՆԵՐ Ծնվածների Անվանակարգեր
+text out:  խումբերը հոռետես ՕԳ-ՊԱՅՄԱՆՆԵՐ Ծնվածների Անվանակարգեր
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansOblique/5.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansOblique/5.txt
+ocr out:   ԹԵՍՏԵՐՈՎ ՄՈՒՏՔԱԲԱՌ չմեկնարկած ազատագրուած Ստուգարքին
+text out:  ԹԵՍՏԵՐՈՎ ՄՈՒՏՔԱԲԱՌ չմեկնարկած ազատագրուած Ստուգարքին
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansOblique/6.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansOblique/6.txt
+ocr out:   հերթի Հայտի ՆՈՐԱՐԱՐՈՒԹՅՈՒՆԸ Միրզոեւի կք
+text out:  հերթի Հայտի ՆՈՐԱՐԱՐՈՒԹՅՈՒՆԸ Միրզոեւի կք
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansOblique/7.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansOblique/7.txt
+ocr out:   ԱՄՌԱՆՆ հրամայականից շարադրեց հրամցնում Նիրոն
+text out:  ԱՄՌԱՆՆ հրամայականից շարադրեց հրամցնում Նիրոն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansOblique/8.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansOblique/8.txt
+ocr out:   ՏԻՐԱՊԵՏՈՒԹՅՈՒՆՆ Հնչյունային Կաուչուկ ՏՎՈՂՆԵՐԸ թանն
+text out:  ՏԻՐԱՊԵՏՈՒԹՅՈՒՆՆ Հնչյունային Կաուչուկ ՏՎՈՂՆԵՐԸ թանն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansOblique/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansOblique/9.txt
+ocr out:   Բուզանդը ԼՎԱՆԱԼ ԻՐԱՎԱԲԱՆՆԵՐԻՆ բաժանիր Մասաչուսեթսում
+text out:  Բուզանդը ԼՎԱՆԱԼ ԻՐԱՎԱԲԱՆՆԵՐԻՆ բաժանիր Մասաչուսեթսում
+WER: 0%
+

@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed-BoldOblique/0.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed-BoldOblique/0.txt
+ocr out:   Ազարյանը Կրասնոսելսկի անասնապահական նորավեպ ԿՎԵՐԱԴԱՐՁՆԵՆ
+text out:  Ազարյանը Կրասնոսելսկի անասնապահական նորավեպ ԿՎԵՐԱԴԱՐՁՆԵՆ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed-BoldOblique/1.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed-BoldOblique/1.txt
+ocr out:   ԱՍՏՂԵՐԸ ՊԱՏԱՌ-ՊԱՏԱՌ ԵՐԵՒԱՆԸ` բարելավմանն բնօրինակը
+text out:  ԱՍՏՂԵՐԸ ՊԱՏԱՌ-ՊԱՏԱՌ ԵՐԵՒԱՆԸ` բարելավմանն բնօրինակը
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed-BoldOblique/2.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed-BoldOblique/2.txt
+ocr out:   ԱՌԱԿՆ Դեռահասների ՕՐՀՆՈՒԹՅՈՒՆՆԵՐ վերջացնելու ցանկացողներն
+text out:  ԱՌԱԿՆ Դեռահասների ՕՐՀՆՈՒԹՅՈՒՆՆԵՐ վերջացնելու ցանկացողներն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed-BoldOblique/3.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed-BoldOblique/3.txt
+ocr out:   Բոնապարտը հլու ԸՆԷ վարիչների կիմ
+text out:  Բոնապարտը հլու ԸՆԷ վարիչների կիմ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed-BoldOblique/4.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed-BoldOblique/4.txt
+ocr out:   Նիկոլայը ԱՄԱՍ ԿԳՏՆԵՆՔ կացություններ նախաքննությամբ
+text out:  Նիկոլայը ԱՄԱՍ ԿԳՏՆԵՆՔ կացություններ նախաքննությամբ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed-BoldOblique/5.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed-BoldOblique/5.txt
+ocr out:   Ջիվանուն Գերչակի Ափի ԱՄՈՒՍՆՈՒՍ համենայնդեպս
+text out:  Ջիվանուն Գերչակի Ափի ԱՄՈՒՍՆՈՒՍ համենայնդեպս
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed-BoldOblique/6.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed-BoldOblique/6.txt
+ocr out:   էնչ ձեռքն ԳԵՐԱԿՇՌՈՒՄ ՄՈՒԼԱՆԻ գեղեցկի
+text out:  էնչ ձեռքն ԳԵՐԱԿՇՌՈՒՄ ՄՈՒԼԱՆԻ գեղեցկի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed-BoldOblique/7.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed-BoldOblique/7.txt
+ocr out:   խեռ ոքր բերողի տետրակը Կոալիցիան
+text out:  խեռ ոքր բերողի տետրակը Կոալիցիան
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed-BoldOblique/8.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed-BoldOblique/8.txt
+ocr out:   ծրագրերում` ՏԵՂԵԿԱՑՆԵԼ ռոք իրացրած ԸՄԲՌՆՄԱՄԲ
+text out:  ծրագրերում` ՏԵՂԵԿԱՑՆԵԼ ռոք իրացրած ԸՄԲՌՆՄԱՄԲ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSansCondensed-BoldOblique/9.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSansCondensed-BoldOblique/9.txt
+ocr out:   ՀՐԱԺԱՐՎԵԼՈՒՆ Զեբր Ժանի ՎԵՐՋՈՒՅԹԸ Չաման
+text out:  ՀՐԱԺԱՐՎԵԼՈՒՆ Զեբր Ժանի ՎԵՐՋՈՒՅԹԸ Չաման
+WER: 0%
+

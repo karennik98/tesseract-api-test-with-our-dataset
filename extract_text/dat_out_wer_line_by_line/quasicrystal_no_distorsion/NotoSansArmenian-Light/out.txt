@@ -1,0 +1,42 @@
+jpg file:  ../data/quasicrystal_no_distorsion/NotoSansArmenian-Light/0.jpg
+text file: ../data/quasicrystal_no_distorsion/NotoSansArmenian-Light/0.txt
+ocr out:   կապիտալըն Կայանատեղի արագամաշ տեսախաղերի ճաշվետու
+text out:  կապիտալը` Կայանատեղի արագամաշ տեսախաղերի հաշվետու
+WER: 40%
+
+jpg file:  ../data/quasicrystal_no_distorsion/NotoSansArmenian-Light/1.jpg
+text file: ../data/quasicrystal_no_distorsion/NotoSansArmenian-Light/1.txt
+ocr out:   ջերմաստիճա Վանգենճայմը դիսանում ջոցներից Մասնակցին
+text out:  ջերմաստիճա Վանգենհայմը դիսանում ջոցներից Մասնակցի`
+WER: 40%
+
+jpg file:  ../data/quasicrystal_no_distorsion/NotoSansArmenian-Light/2.jpg
+text file: ../data/quasicrystal_no_distorsion/NotoSansArmenian-Light/2.txt
+ocr out:   վերագործարկելու բունտ պրոբիոտիկ ԱԱԳ-ի կտրական
+text out:  վերագործարկելու բունտ պրոբիոտիկ ԱԱԳ-ի կտրական
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/NotoSansArmenian-Light/3.jpg
+text file: ../data/quasicrystal_no_distorsion/NotoSansArmenian-Light/3.txt
+ocr out:   ԱՐԴԱՐԱԴԱՏՈՒԹՅՈՒՆ Դանիէլեան բարեփոխումներն Էյեշտելեն ծաղկին
+text out:  ԱՐԴԱՐԱԴԱՏՈՒԹՅՈՒՆ Դանիէլեան բարեփոխումներ` Էյնշտեյնն ծաղկին
+WER: 40%
+
+jpg file:  ../data/quasicrystal_no_distorsion/NotoSansArmenian-Light/4.jpg
+text file: ../data/quasicrystal_no_distorsion/NotoSansArmenian-Light/4.txt
+ocr out:   տագործման Արմաշի աձարեւ ԿՅՈՒՐԵՂՅԱՆ նարդոսի
+text out:  տագործման Արմաշի անարեւ ԿՅՈՒՐԵՂՅԱՆ նարդոսի
+WER: 20%
+
+jpg file:  ../data/quasicrystal_no_distorsion/NotoSansArmenian-Light/5.jpg
+text file: ../data/quasicrystal_no_distorsion/NotoSansArmenian-Light/5.txt
+ocr out:   դերակատա օպերատորներից ՏՈՒԺՈՂՆԵՐԻ օբյեկտիվության բնակարանին
+text out:  դերակատա օպերատորներից ՏՈՒԺՈՂՆԵՐԻ օբյեկտիվության բնակարանին
+WER: 0%
+
+jpg file:  ../data/quasicrystal_no_distorsion/NotoSansArmenian-Light/6.jpg
+text file: ../data/quasicrystal_no_distorsion/NotoSansArmenian-Light/6.txt
+ocr out:   նախարության ռեպոյի Ֆուսակոն գծի Բանկերին
+text out:  նախարության ռեպոյի Ֆուսակոն գծի Բանկերին
+WER: 0%
+

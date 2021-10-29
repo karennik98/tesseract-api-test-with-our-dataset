@@ -1,0 +1,60 @@
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerif.otf/0.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerif.otf/0.txt
+ocr out:   ԵՐԿԽՈՍՈՒԹՅՈՒՆՆԵՐ ՎԵՐԱՔՆՆԻՉ գաղափարներ նորվեգացի պարագլուխների
+text out:  ԵՐԿԽՈՍՈՒԹՅՈՒՆՆԵՐ ՎԵՐԱՔՆՆԻՉ գաղափարներ նորվեգացի պարագլուխների
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerif.otf/1.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerif.otf/1.txt
+ocr out:   թռչնաբուծական ամենաանսպասելի վերաձեւակերպված համալսարանը Դեւեր
+text out:  թռչնաբուծական ամենաանսպասելի վերաձեւակերպված համալսարանը Դեւեր
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerif.otf/2.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerif.otf/2.txt
+ocr out:   ԱՅՍՕՐԻՆԱԿ ՏԱՊ ԲԵՄԻ բուժմանը Հայրենասիրական
+text out:  ԱՅՍՕՐԻՆԱԿ ՏԱՊ ԲԵՄԻ բուժմանը Հայրենասիրական
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerif.otf/3.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerif.otf/3.txt
+ocr out:   ԿԱՊԱԼԱՌՈՒԻ Կորդվաց վեհաժողովը ազատական աւարտին
+text out:  ԿԱՊԱԼԱՌՈՒԻ Կորդվաց վեհաժողովը ազատական աւարտին
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerif.otf/4.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerif.otf/4.txt
+ocr out:   Լավալի Բեյը Ռիչի փայատերերի ՇՈՏԼԱՆԴԻԱՆ
+text out:  Լավալի Բեյը Ռիչի փայատերերի ՇՈՏԼԱՆԴԻԱՆ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerif.otf/5.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerif.otf/5.txt
+ocr out:   համերաշխության մեղուն ԳՑԵՆ փայտից ՃԱՆԱՊԱՐՀԻՆ
+text out:  համերաշխության մեղուն ԳՑԵՆ փայտից ՃԱՆԱՊԱՐՀԻՆ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerif.otf/6.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerif.otf/6.txt
+ocr out:   շնաձկները պոլսահայեր ՄԱՄԱԼԱՁԵՆ ԴՐԱՄՆԵՐՈՎ երկայնքին
+text out:  շնաձկները պոլսահայեր ՄԱՄԱԼԱՁԵՆ ԴՐԱՄՆԵՐՈՎ երկայնքին
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerif.otf/7.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerif.otf/7.txt
+ocr out:   թաթին բալանսի երգերին ԽՈՍՔՈՒՄ ՁԵՒԻ
+text out:  թաթին բալանսի երգերին ԽՈՍՔՈՒՄ ՁԵՒԻ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerif.otf/8.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerif.otf/8.txt
+ocr out:   ԼԱՎՐՈՎԻ Ներմուծեք ՍԱՐՍԱՓ դպրոց-ստուդիան ԿԻԳԱ
+text out:  ԼԱՎՐՈՎԻ Ներմուծեք ՍԱՐՍԱՓ դպրոց-ստուդիան ԿԻԳԱ
+WER: 0%
+
+jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerif.otf/9.jpg
+text file: ../data/gaussian_noise_no_distorsion/FreeSerif.otf/9.txt
+ocr out:   ազդանշանը ռազմիկը Պաշտպանիչ Անանյանը անցկացնելուն
+text out:  ազդանշանը ռազմիկը Պաշտպանիչ Անանյանը անցկացնելուն
+WER: 0%
+

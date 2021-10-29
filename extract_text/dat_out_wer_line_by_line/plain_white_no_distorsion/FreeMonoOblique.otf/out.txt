@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion/FreeMonoOblique.otf/0.jpg
+text file: ../data/plain_white_no_distorsion/FreeMonoOblique.otf/0.txt
+ocr out:   Համալբաշյան Պորտու ԴիջիԹեք Թողել միջնադարում`
+text out:  Համալբաշյան Պորտու ԴիջիԹեք Թողել միջնադարում`
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeMonoOblique.otf/1.jpg
+text file: ../data/plain_white_no_distorsion/FreeMonoOblique.otf/1.txt
+ocr out:   պետունյա շինելի Գալանտերյանի ՀՆԱՐՈՒՄ հավատարմագրա
+text out:  պետունյա շինելի Գալանտերյանի ՀՆԱՐՈՒՄ հավատարմագրա
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeMonoOblique.otf/2.jpg
+text file: ../data/plain_white_no_distorsion/FreeMonoOblique.otf/2.txt
+ocr out:   ԼԵՀԱՍՏԱՆՆ բայցեւ ծավալվի ԴԱՍԱԿԱՐԳԻՉՆԵՐԻ ԱՄԱՇ
+text out:  ԼԵՀԱՍՏԱՆՆ բայցեւ ծավալվի ԴԱՍԱԿԱՐԳԻՉՆԵՐԻ ԱՄԱՇ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeMonoOblique.otf/3.jpg
+text file: ../data/plain_white_no_distorsion/FreeMonoOblique.otf/3.txt
+ocr out:   գմբե փ.գ.դ նախապատրաստման ԱՐԱՏՏԱՅԻ յոդ
+text out:  գմբե փ.գ.դ նախապատրաստման ԱՐԱՏՏԱՅԻ յոդ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeMonoOblique.otf/4.jpg
+text file: ../data/plain_white_no_distorsion/FreeMonoOblique.otf/4.txt
+ocr out:   բանականութ ՄԻՈՋԷ Բեկյան պետություններում ՀՀԿ-ԱԿԱՆՆԵՐՆ
+text out:  բանականութ ՄԻՈՋԷ Բեկյան պետություններում ՀՀԿ-ԱԿԱՆՆԵՐՆ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeMonoOblique.otf/5.jpg
+text file: ../data/plain_white_no_distorsion/FreeMonoOblique.otf/5.txt
+ocr out:   ԼԱՏ ամենաառաջատար ՀՈՂԱՇԻՆԱՐԱՐԱԿԱՆ ՉՇԵՂՎԵՆ առանցքակալի
+text out:  ԼԱՏ ամենաառաջատար ՀՈՂԱՇԻՆԱՐԱՐԱԿԱՆ ՉՇԵՂՎԵՆ առանցքակալի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeMonoOblique.otf/6.jpg
+text file: ../data/plain_white_no_distorsion/FreeMonoOblique.otf/6.txt
+ocr out:   ճանաչելը Բերգման ներկայացրի կարծրացած ԹԱՆԳԱՐԱՆԸ
+text out:  ճանաչելը Բերգման ներկայացրի կարծրացած ԹԱՆԳԱՐԱՆԸ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeMonoOblique.otf/7.jpg
+text file: ../data/plain_white_no_distorsion/FreeMonoOblique.otf/7.txt
+ocr out:   ՔՆԱՊԱՐԿ ՕԴԱՆԱՎԱԿԱՅԱՆԸ ՀԲՐՄ-էն ԿՍՊ-ի գերիշխանությանը
+text out:  ՔՆԱՊԱՐԿ ՕԴԱՆԱՎԱԿԱՅԱՆԸ ՀԲԸՄ-էն ԿՍՊ-ի գերիշխանությանը
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeMonoOblique.otf/8.jpg
+text file: ../data/plain_white_no_distorsion/FreeMonoOblique.otf/8.txt
+ocr out:   կզանի դրաժե գոյությունը Ոչնչացված ԱՐՑԱԽՊՐԵՍ
+text out:  կզանի դրաժե գոյությունը Ոչնչացված ԱՐՑԱԽՊՐԵՍ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/FreeMonoOblique.otf/9.jpg
+text file: ../data/plain_white_no_distorsion/FreeMonoOblique.otf/9.txt
+ocr out:   շրջակայքով ՎԱՎԵՐԱՑՎԵԼ Միխայլովը ՍԱՐՔԵՄ հորդորներին
+text out:  շրջակայքով ՎԱՎԵՐԱՑՎԵԼ Միխայլովը ՍԱՐՔԵՄ հորդորներին
+WER: 0%
+

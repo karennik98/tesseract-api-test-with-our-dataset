@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed/0.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed/0.txt
+ocr out:   կրկնությունների ցանկացողների Նախագծում ԱԼԿՈ»-Ի անհատապես
+text out:  կրկնությունների ցանկացողների Նախագծում ԱԼԿՈ»-Ի անհատապես
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed/1.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed/1.txt
+ocr out:   Բնափայտի ԶԳԱՑՈՒՄՆԵՐՆ պահանջմունքներից ԼԱՆԴ ձկնաբուծության
+text out:  Բնափայտի ԶԳԱՑՈՒՄՆԵՐՆ պահանջմունքներից ԼԱՆԴ ձկնաբուծության
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed/2.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed/2.txt
+ocr out:   Սամվելն վերնազգեստ աղատ Պլանկի պարագծի
+text out:  Սամվելն վերնազգեստ աղատ Պլանկի պարագծի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed/3.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed/3.txt
+ocr out:   նվիրատուներ ԱՅԳԵՍՏԱՆԻ ԴԻՐՔԵՐԻՑ մոտոցիկլետով Բրոնզի
+text out:  նվիրատուներ ԱՅԳԵՍՏԱՆԻ ԴԻՐՔԵՐԻՑ մոտոցիկլետով Բրոնզի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed/4.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed/4.txt
+ocr out:   օրնակ թեթեւությունը ԲՌՆԵՑ Կեղեւը ԽԱՌՆՈՒՄ
+text out:  օրնակ թեթեւությունը ԲՌՆԵՑ Կեղեւը ԽԱՌՆՈՒՄ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed/5.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed/5.txt
+ocr out:   ԳՐՈՂՆԵՐԻՆ ԿԳՈՒՇԱԿԵՄ Ծծող ընկնելիս Օդամուղ
+text out:  ԳՐՈՂՆԵՐԻՆ ԿԳՈՒՇԱԿԵՄ Ծծող ընկնելիս Օդամուղ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed/6.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed/6.txt
+ocr out:   տեղեկաց ՊԱՇԱՐՆԵՐ ԱՆՑԵԱԼԻՆ Ծածուկ Սախարով
+text out:  տեղեկաց ՊԱՇԱՐՆԵՐ ԱՆՑԵԱԼԻՆ Ծածուկ Սախարով
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed/7.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed/7.txt
+ocr out:   տարրից մութը ՏՈԿՈՍ իւ Վարձել
+text out:  տարրից մութը ՏՈԿՈՍ իւ Վարձել
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed/8.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed/8.txt
+ocr out:   Համապատասխանում ԱՐՇԱԿՈՒՆՅԱՑ ֆոսֆատ մէջքը ՎՃԱՐՈՂ
+text out:  Համապատասխանում ԱՐՇԱԿՈՒՆՅԱՑ ֆոսֆատ մէջքը ՎՃԱՐՈՂ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed/9.txt
+ocr out:   ժողովոլրդների ԲԱՐԵՊԱՇՏԱԿԱՆ ապրանքս ԿՅԱՆՔՈՒՄԴ քաղցկեղով
+text out:  ժողովոլրդների ԲԱՐԵՊԱՇՏԱԿԱՆ ապրանքս ԿՅԱՆՔՈՒՄԴ քաղցկեղով
+WER: 0%
+

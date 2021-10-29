@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed-BoldItalic/0.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed-BoldItalic/0.txt
+ocr out:   Վասպուրականում ՃԵԿ ՎԵՐԱԾՎԵԼ ՍՏԵՊԼԵՌԻ Ունինք
+text out:  Վասպուրականում ՃԵԿ ՎԵՐԱԾՎԵԼ ՍՏԵՊԼԵՌԻ Ունինք
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed-BoldItalic/1.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed-BoldItalic/1.txt
+ocr out:   մեղքերից ՄՈՒՏՔ| ՏՆՏԵՍՈՒԹՅՈՒՆԸ աղետյալ նշագրման
+text out:  մեղքերից ՄՈՒՏՔ| ՏՆՏԵՍՈՒԹՅՈՒՆԸ աղետյալ նշագրման
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed-BoldItalic/2.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed-BoldItalic/2.txt
+ocr out:   ԿԼՈՐ-ՍԵՂԱՆ լիքների ութաձեւ Խոակին նիտրիտների
+text out:  ԿԼՈՐ-ՍԵՂԱՆ լիքների ութաձեւ Խոակին նիտրիտների
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed-BoldItalic/3.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed-BoldItalic/3.txt
+ocr out:   հրավիրվում ԳՈՐԾԱՏՈՒ Դոմինիկա Կազմակերպիչ անբացատրելի
+text out:  հրավիրվում ԳՈՐԾԱՏՈՒ Դոմինիկա Կազմակերպիչ անբացատրելի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed-BoldItalic/4.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed-BoldItalic/4.txt
+ocr out:   որոշակի` Ինտերնետի ՍՊԱՌԵԼՈՒՑ գործակալին Արտաշիրի
+text out:  որոշակի` Ինտերնետի ՍՊԱՌԵԼՈՒՑ գործակալին Արտաշիրի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed-BoldItalic/5.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed-BoldItalic/5.txt
+ocr out:   գործառնությունը տիրակալի ՈՂՋՈՒՆԵՑ ավետարանը իրավունքից`
+text out:  գործառնությունը տիրակալի ՈՂՋՈՒՆԵՑ ավետարանը իրավունքից`
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed-BoldItalic/6.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed-BoldItalic/6.txt
+ocr out:   դահլիճով տարբերությունն ԼՈՐՁԱԹԱՂԱՆԹԸ Պետրոգրադում ՄԱՐՄԻ
+text out:  դահլիճով տարբերությունն ԼՈՐՁԱԹԱՂԱՆԹԸ Պետրոգրադում ՄԱՐՄԻ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed-BoldItalic/7.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed-BoldItalic/7.txt
+ocr out:   ժողովներն Բուռն իրադարձությամբ Արժեկտրոնների Պրոմոկտրոն
+text out:  ժողովներն Բուռն իրադարձությամբ Արժեկտրոնների Պրոմոկտրոն
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed-BoldItalic/8.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed-BoldItalic/8.txt
+ocr out:   սրունք ժառանգներից ԳԻՇԵՐԱԶԳԵՍՏ Նալբանդեանի Փորձարարական
+text out:  սրունք ժառանգներից ԳԻՇԵՐԱԶԳԵՍՏ Նալբանդեանի Փորձարարական
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion/DejaVuSerifCondensed-BoldItalic/9.jpg
+text file: ../data/plain_white_no_distorsion/DejaVuSerifCondensed-BoldItalic/9.txt
+ocr out:   Թաղանթի ՑՈՒՔ կազմավորելով աշխարհն ԿԱԹՆԱԽԱՌՆՈՒՐԴՆԵՐ
+text out:  Թաղանթի ՑՈՒՔ կազմավորելով աշխարհն ԿԱԹՆԱԽԱՌՆՈՒՐԴՆԵՐ
+WER: 0%
+

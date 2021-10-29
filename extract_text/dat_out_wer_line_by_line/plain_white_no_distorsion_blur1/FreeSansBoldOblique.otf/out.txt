@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansBoldOblique.otf/0.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansBoldOblique.otf/0.txt
+ocr out:   Փորձերի հազ.դր Վաշինգթոնի Քաղաքաց ԿՊԱՏԿԵՐՎԵՆ
+text out:  Փորձերի հազ.դր Վաշինգթոնի Քաղաքաց ԿՊԱՏԿԵՐՎԵՆ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansBoldOblique.otf/1.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansBoldOblique.otf/1.txt
+ocr out:   ելավ Ամազարյան Արյունով ներուժից Ամրագրել
+text out:  ելավ Ամազարյան Արյունով ներուժից Ամրագրել
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansBoldOblique.otf/2.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansBoldOblique.otf/2.txt
+ocr out:   հաճույքներին Քյուրտյանի ՀԵՏՀԱՅ ԷՋԱՆՇՈՒՄ Սկզբնաղբյուր
+text out:  հաճույքներին Քյուրտյանի ՀԵՏՀԱՅ ԷՋԱՆՇՈՒՄ Սկզբնաղբյուր
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansBoldOblique.otf/3.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansBoldOblique.otf/3.txt
+ocr out:   Վերադարձող հղված Հենակետ Տրայանոսը Աբրոյան
+text out:  Վերադարձող հղված Հենակետ Տրայանոսը Աբրոյան
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansBoldOblique.otf/4.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansBoldOblique.otf/4.txt
+ocr out:   ակնկալիք ԽՈՐՇԵՐԻ դասաժամերից ԹԱՓՈՆՆԵՐԸ ես
+text out:  ակնկալիք ԽՈՐՇԵՐԻ դասաժամերից ԹԱՓՈՆՆԵՐԸ ես
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansBoldOblique.otf/5.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansBoldOblique.otf/5.txt
+ocr out:   ձեւակազմական ՍԱՌՆԱՇԱՔԱՐ ԹՈՂՈՒՆԱԿՈՒԹՅՈՒՆԸ ԱԳՐՈ Համլետին
+text out:  ձեւակազմական ՍԱՌՆԱՇԱՔԱՐ ԹՈՂՈՒՆԱԿՈՒԹՅՈՒՆԸ ԱԳՐՈ Համլետին
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansBoldOblique.otf/6.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansBoldOblique.otf/6.txt
+ocr out:   թռչկոտել կմ/վ ԱՇԽԱՏԵԼ ԾՈՒԹՅՈՒՆԻՑ անձե
+text out:  թռչկոտել կմ/վ ԱՇԽԱՏԵԼ ԾՈՒԹՅՈՒՆԻՑ անձե
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansBoldOblique.otf/7.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansBoldOblique.otf/7.txt
+ocr out:   ՏՈՒԺԱԾՆԵՐ ՎԱՌԵԼԱՆՅՈՒԹ յաղթանակը Հարավային ՇԱՐԱԴՐԵԼՈՎ
+text out:  ՏՈՒԺԱԾՆԵՐ ՎԱՌԵԼԱՆՅՈՒԹ յաղթանակը Հարավային ՇԱՐԱԴՐԵԼՈՎ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansBoldOblique.otf/8.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansBoldOblique.otf/8.txt
+ocr out:   ԲԱԶՄԱՉԱՐՉԱՐ ԵԶՐԱԳԻԾԸ ՉԽՈՍԵՑ Քաջերի փաբ
+text out:  ԲԱԶՄԱՉԱՐՉԱՐ ԵԶՐԱԳԻԾԸ ՉԽՈՍԵՑ Քաջերի փաբ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/FreeSansBoldOblique.otf/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/FreeSansBoldOblique.otf/9.txt
+ocr out:   թռչնային Հնդիկ սերտացումը շողը րաստվում
+text out:  թռչնային Հնդիկ սերտացումը շողը րաստվում
+WER: 0%
+

@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Regular/0.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Regular/0.txt
+ocr out:   թիրախի գողացողները ճրաժարի տեղեկութիւնը ՌԱԶՄԱՎԱՐՈՒԹՅԱՆԸ
+text out:  թիրախի գողացողները հրաժարի տեղեկութիւնը ՌԱԶՄԱՎԱՐՈՒԹՅԱՆԸ
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Regular/1.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Regular/1.txt
+ocr out:   ճարազատներս Ժամանումներ կոչեցին փոխանցումներին գմբեթի
+text out:  հարազատներս Ժամանումներ կոչեցին փոխանցումներին գմբեթի
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Regular/2.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Regular/2.txt
+ocr out:   Շաճինյանի ԿԽՆԴՐԵՆ շաքարավազի ըսենք Գնաճատվել
+text out:  Շահինյանի ԿԽՆԴՐԵՆ շաքարավազի ըսենք Գնահատվել
+WER: 40%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Regular/3.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Regular/3.txt
+ocr out:   ԸԱՅՔԻ Գրքին ՇԱՐՑԻՑ ԿՈՒՍԱԿՑՈՒԹՅՈՒ ԸԱՆԴԻՍՈՒԹՅԱՆԸ
+text out:  ՀԱՅՔԻ Գրքին ՀԱՐՑԻՑ ԿՈՒՍԱԿՑՈՒԹՅՈՒ ՀԱՆԴԻՍՈՒԹՅԱՆԸ
+WER: 60%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Regular/4.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Regular/4.txt
+ocr out:   կոշիկները արգելի Ծորակներ նյարդով ճաջորդելով
+text out:  կոշիկները արգելի Ծորակներ նյարդով հաջորդելով
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Regular/5.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Regular/5.txt
+ocr out:   Ներշնչման ցից ՔԱՂԱՔԱՊԵՏԵՐԸ ՆՅՈՒԹԸ ՆԸԲ
+text out:  Ներշնչման ցից ՔԱՂԱՔԱՊԵՏԵՐԸ ՆՅՈՒԹԸ ՆՀԲ
+WER: 20%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Regular/6.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Regular/6.txt
+ocr out:   ՕԹԵԼԼՈՆ սադրիչների ԽԱՉՔԱՐԻ ԿԻՊՐՈՍԻ ԳՐԿԱ
+text out:  ՕԹԵԼԼՈՆ սադրիչների ԽԱՉՔԱՐԻ ԿԻՊՐՈՍԻ ԳՐԿԱ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Regular/7.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Regular/7.txt
+ocr out:   Ըամաձայնեք ՔԱՇԱՆԱՆԵՐԻ ԱՌԱՋԱԴԻՄՈՒԹՅՈՒՆԸ տնօրինողի բառերր
+text out:  Համաձայնեք ՔԱՀԱՆԱՆԵՐԻ ԱՌԱՋԱԴԻՄՈՒԹՅՈՒՆԸ տնօրինողի բառերր
+WER: 40%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Regular/8.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Regular/8.txt
+ocr out:   ակնե եղբարս կարալ ատնե ՍՆԻԿԵՐՍ
+text out:  ակնե եղբարս կարալ ատնե ՍՆԻԿԵՐՍ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Regular/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/NotoSansArmenian-Regular/9.txt
+ocr out:   ԱԽՏԱՆԻՇՆԵՐԸ ԴԱնօր կներկայացվեն ՓԻՆՔ սեղմիչով
+text out:  ԱԽՏԱՆԻՇՆԵՐԸ Դ/օր կներկայացվեն ՓԻՆՔ սեղմիչով
+WER: 20%
+

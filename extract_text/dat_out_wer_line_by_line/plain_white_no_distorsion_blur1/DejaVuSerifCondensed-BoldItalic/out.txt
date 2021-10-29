@@ -1,0 +1,60 @@
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-BoldItalic/0.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-BoldItalic/0.txt
+ocr out:   ՍԴՀԿ-Ն Ծառմորուսը Նախագծին Աննկարագրելի խցկեց
+text out:  ՍԴՀԿ-Ն Ծառմորուսը Նախագծին Աննկարագրելի խցկեց
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-BoldItalic/1.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-BoldItalic/1.txt
+ocr out:   աշխատասենյակից անտառին ԿԱՅԱՑՆԵՆ Ուտագավա կձգձգվի
+text out:  աշխատասենյակից անտառին ԿԱՅԱՑՆԵՆ Ուտագավա կձգձգվի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-BoldItalic/2.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-BoldItalic/2.txt
+ocr out:   նշվածների ԹԱՂԱՆԹԱՊԱՏՈՒՄ պատուին մոգերի անգութ
+text out:  նշվածների ԹԱՂԱՆԹԱՊԱՏՈՒՄ պատուին մոգերի անգութ
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-BoldItalic/3.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-BoldItalic/3.txt
+ocr out:   ՍՆԵՊ Ջանքեր ԱԳՐԵԳԱՏՆԵՐԻ Ոռոգում Վառված
+text out:  ՍՆԵՊ Ջանքեր ԱԳՐԵԳԱՏՆԵՐԻ Ոռոգում Վառված
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-BoldItalic/4.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-BoldItalic/4.txt
+ocr out:   ԼՈՒՍԱՄՈՒՏԻ Բազի Գործակալ Սեմը Գործիք
+text out:  ԼՈՒՍԱՄՈՒՏԻ Բազի Գործակալ Սեմը Գործիք
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-BoldItalic/5.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-BoldItalic/5.txt
+ocr out:   տվյալն ԿՐՈՆԱՓՈԽ լիազորվածմ հասկանալի առեւտրականի
+text out:  տվյալն ԿՐՈՆԱՓՈԽ լիազորվածմ հասկանալի առեւտրականի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-BoldItalic/6.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-BoldItalic/6.txt
+ocr out:   կապակցումը Նիկոլաեւիչ Լիզպոն ԿՈՒՐՍԵՑԻՆԵՐԻ Լճակի
+text out:  կապակցումը Նիկոլաեւիչ Լիզպոն ԿՈՒՐՍԵՑԻՆԵՐԻ Լճակի
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-BoldItalic/7.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-BoldItalic/7.txt
+ocr out:   ԳՐՈԳԱՆԸ իջման Գրինի Ասպետ Դոմենային
+text out:  ԳՐՈԳԱՆԸ իջման Գրինի Ասպետ Դոմենային
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-BoldItalic/8.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-BoldItalic/8.txt
+ocr out:   Ատամնավոր Բայրոն ՎԻԳԵՆ գումարտակին Էքսկուրսիա
+text out:  Ատամնավոր Բայրոն ՎԻԳԵՆ գումարտակին Էքսկուրսիա
+WER: 0%
+
+jpg file:  ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-BoldItalic/9.jpg
+text file: ../data/plain_white_no_distorsion_blur1/DejaVuSerifCondensed-BoldItalic/9.txt
+ocr out:   հայտնողն էտյուդներ տարվա` ԿԱՏԱՂՈՒԹՅՈՒՆԸ ԿԱՏԱՐԵԼՈՒԹՅՈՒՆԸ
+text out:  հայտնողն էտյուդներ տարվա` ԿԱՏԱՂՈՒԹՅՈՒՆԸ ԿԱՏԱՐԵԼՈՒԹՅՈՒՆԸ
+WER: 0%
+
