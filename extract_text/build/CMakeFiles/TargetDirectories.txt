@@ -1,3 +1,0 @@
-/home/karen/master/tess_c++_api_examples/extract_text/build/CMakeFiles/rebuild_cache.dir
-/home/karen/master/tess_c++_api_examples/extract_text/build/CMakeFiles/edit_cache.dir
-/home/karen/master/tess_c++_api_examples/extract_text/build/CMakeFiles/extract_text.dir
