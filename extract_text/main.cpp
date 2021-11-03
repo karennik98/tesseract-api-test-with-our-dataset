@@ -154,8 +154,12 @@ int main(int argc, char *argv[]) {
             size_t all_files_count = el_i.second.second.size();
             size_t fail_count = 0;
             for (const auto&[jpg, txt]: el_i.second.second) {
+                std::cout<<"jpg: "<<jpg<<std::endl;
+                std::cout<<"txt: "<<txt<<std::endl;
                 std::string ocr_out = get_ocr_out(jpg);
                 std::string orig_out = get_file_out(txt);
+                std::cout<<"ocr_out: "<<ocr_out<<std::endl;
+                std::cout<<"orig_out: "<<ocr_out<<std::endl;
                 ocr_out.pop_back();
                 file_ocr << ocr_out << std::endl;
                 file_orig << orig_out << std::endl;
@@ -169,7 +173,7 @@ int main(int argc, char *argv[]) {
 
             for(int i = 0; i < sheet_out.size(); ++i) {
                 if(el_i.first.substr(el_i.first.find_last_of('/')+1) == sheet_out[i].first) {
-                    std::cout<<el_i.second.first.substr(el_i.second.first.find_last_of('/') + 1)<<" : "<<int(wer_val*100)<<std::endl;
+//                    std::cout<<el_i.second.first.substr(el_i.second.first.find_last_of('/') + 1)<<" : "<<int(wer_val*100)<<std::endl;
                     sheet_out[i].second.push_back(std::make_pair(el_i.second.first.substr(el_i.second.first.find_last_of('/') + 1),
                                                                  int(wer_val*100)));
                 }
@@ -179,15 +183,19 @@ int main(int argc, char *argv[]) {
         } catch (std::exception& ex) {
             std::cout<<"msg: "<<ex.what()<<std::endl;
 //            exit(-1);
+        } catch(...) {
+            std::cout<<"msg: general exception from folder: "<<el_i.first<<std::endl;
+            std::cout<<"msg: general exception from subfolder: "<<el_i.second.first<<std::endl;
+            exit(-1);
         }
     }
-    for(const auto& el_i : sheet_out) {
-        std::cout<<el_i.first<<std::endl;
-        for(const auto& el_j : el_i.second) {
-            std::cout<<el_j.first<<" : "<<el_j.second<<std::endl;
-        }
-        std::cout<<std::endl;
-    }
+//    for(const auto& el_i : sheet_out) {
+//        std::cout<<el_i.first<<std::endl;
+//        for(const auto& el_j : el_i.second) {
+//            std::cout<<el_j.first<<" : "<<el_j.second<<std::endl;
+//        }
+//        std::cout<<std::endl;
+//    }
 
     write_xlsx(base_out_dir+ "wer.xlsx", sheet_out);
     return 0;
