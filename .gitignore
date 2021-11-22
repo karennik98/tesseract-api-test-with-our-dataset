@@ -1,4 +1,6 @@
 extract_text/.idea
 extract_text/build
 extract_text/cmake-build-debug
+data_normalization/build/
+data_normalization/.vscode/
 
