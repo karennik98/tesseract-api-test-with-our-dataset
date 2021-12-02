@@ -54,7 +54,7 @@ std::string get_ocr_out(const std::string& image_path ) {
     tesseract::TessBaseAPI *api = new tesseract::TessBaseAPI();
 
     // Initialize tesseract-ocr with English, without specifying tessdata path
-    if (api->Init("", "hye")) {
+    if (api->Init("", "arm")) {
         fprintf(stderr, "Could not initialize tesseract.\n");
         exit(1);
     }

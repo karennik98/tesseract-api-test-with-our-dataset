@@ -1,4 +1,3 @@
-cmake_minimum_required(VERSION 3.17)
 project(extract_text)
 
 set(CMAKE_CXX_STANDARD 17)
@@ -24,7 +23,7 @@ target_link_libraries(${PROJECT_NAME} stdc++fs)
 target_link_libraries(${PROJECT_NAME} pthread curl)
 target_link_libraries(${PROJECT_NAME} tesseract pthread curl)
 target_link_libraries(${PROJECT_NAME} ${LEPTONICA_LIBRARIES})
-target_link_libraries(${PROJECT_NAME} /usr/local/lib/liblept.so.5)
+target_link_libraries(${PROJECT_NAME} /usr/local/lib/libleptonica.so)
 target_link_libraries(${PROJECT_NAME} ${TESSERACT_LIBRARIES})
 #target_link_libraries(${PROJECT_NAME} ${CMAKE_CURRENT_SOURCE_DIR}/exel_lib/OpenXLSX/build/output/libOpenXLSX.a)
 target_link_libraries(${PROJECT_NAME} OpenXLSX::OpenXLSX)

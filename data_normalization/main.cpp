@@ -10,8 +10,8 @@
 namespace fs = std::experimental::filesystem;
 
 
-static const std::string img_ext = ".jpg";
-static const std::string file_ext = ".txt";
+static const std::string img_ext = ".tif";
+static const std::string file_ext = ".gt.txt";
 
 using data_t = std::vector<std::pair<std::string, std::pair<std::string, std::map<std::string, std::string>>>>;
 
@@ -72,8 +72,8 @@ void rename_and_copy(data_t data, const std::string& destination) {
             std::string key_extention = key.substr(key.find_last_of("."));
             std::string value_extention = value.substr(value.find_last_of("."));
 
-            std::string new_key = destination + step_str + key_extention;
-            std::string new_value = destination + step_str + value_extention;
+            std::string new_key = destination + step_str + img_ext;
+            std::string new_value = destination + step_str + file_ext;
 
             rename(key.c_str(), new_key.c_str());
             rename(value.c_str(), new_value.c_str());
