@@ -11,8 +11,8 @@
 
 namespace fs = std::experimental::filesystem;
 
-static const std::string img_ext = ".jpg";
-static const std::string file_ext = ".txt";
+static const std::string img_ext = ".tif";
+static const std::string file_ext = ".gt.txt";
 
 std::vector<std::string> get_subdisr(const std::string &dir) {
     std::vector<std::string> r;
@@ -30,7 +30,8 @@ std::map<std::string, std::string> get_folder_data(std::string dir) {
         all_files.emplace_back(entry.path());
     }
 
-    for(auto el = all_files.begin(); el != all_files.end(); el ++) {
+    while(!all_files.empty()) {
+        auto el  = all_files.begin();
         std::string image, file;
         auto slash_pos = el->find_last_of('/');
         auto file_full_name = el->substr(slash_pos + 1, el->size());
@@ -89,21 +90,27 @@ std::string get_ocr_out(const std::string& image_path ) {
     tesseract::TessBaseAPI *api = new tesseract::TessBaseAPI();
 
     // Initialize tesseract-ocr with English, without specifying tessdata path
-    if (api->Init("", "arm")) {
+    if (api->Init("", "hye")) {
         fprintf(stderr, "Could not initialize tesseract.\n");
         exit(1);
     }
     // Open input image with leptonica library
     Pix *image = pixRead(image_path.c_str());
+    if(image->w <=0 || image->h <= 0 ) {
+        exit(0);
+
+    }
     api->SetImage(image);
 
     // Get OCR result
     outText = api->GetUTF8Text();
+
     pixDestroy(&image);
 
 
     // Destroy used object and release memory
     std::string out = {outText};
+
     api->End();
     delete api;
     delete[] outText;
@@ -157,6 +164,14 @@ int main(int argc, char *argv[]) {
     base_out_dir.append("_out/");
     fs::create_directory(base_out_dir);
 
+
+    std::string ocr_error_file = base_out_dir;
+    ocr_error_file.append("ocr_error.txt");
+    std::ofstream ocr_error(ocr_error_file);
+    if(!ocr_error.is_open()) {
+        throw std::runtime_error("Cant open file");
+    }
+
     std::vector<std::pair<std::string, float>> sheet_i;
     for(const auto& el_i: data) {
         std::string out_filder = el_i.first;
@@ -186,16 +201,27 @@ int main(int argc, char *argv[]) {
             if(!file_orig.is_open()) {
                 throw std::runtime_error("Cant open file");
             }
+
             size_t all_files_count = el_i.second.second.size();
             size_t fail_count = 0;
             for (const auto&[jpg, txt]: el_i.second.second) {
-                std::cout<<"jpg: "<<jpg<<std::endl;
-                std::cout<<"txt: "<<txt<<std::endl;
+//                std::cout<<"jpg: "<<jpg<<std::endl;
+//                std::cout<<"txt: "<<txt<<std::endl;
                 std::string ocr_out = get_ocr_out(jpg);
                 std::string orig_out = get_file_out(txt);
+
+
+                if(ocr_out.empty()) {
+                    std::cout<<"[Warning]: Tesseract cant do OCR\n";
+                    ocr_error<<jpg<<std::endl;
+                    continue;
+                }
+
                 std::cout<<"ocr_out: "<<ocr_out<<std::endl;
                 std::cout<<"orig_out: "<<ocr_out<<std::endl;
+
                 ocr_out.pop_back();
+
                 file_ocr << ocr_out << std::endl;
                 file_orig << orig_out << std::endl;
             }
