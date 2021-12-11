@@ -1,8 +1,0 @@
-jpg file:  ../data/gaussian_noise_no_distorsion/FreeSerifItalic.otf/9.jpg
-text file: ../data/gaussian_noise_no_distorsion/FreeSerifItalic.otf/9.txt
-ocr out:   շարունակվ Ավետիս Հավաստագրի ԺԲ տարածելն
-text out:  շարունակվ Ավետիս Հավաստագրի ժԲ տարածելն
-
-number of all files: 10
-number of fails:     1
-fails percent:       10%

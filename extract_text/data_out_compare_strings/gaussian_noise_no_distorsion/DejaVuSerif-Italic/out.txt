@@ -1,8 +1,0 @@
-jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSerif-Italic/1.jpg
-text file: ../data/gaussian_noise_no_distorsion/DejaVuSerif-Italic/1.txt
-ocr out:   անհոսք ՄԹՐԵՍՆԵՐ քարայրն պահողները ՀՈՒԹՅԱՆ
-text out:  անհոսք ՍԹՐԵՍՆԵՐ քարայրն պահողները ՀՈՒԹՅԱՆ
-
-number of all files: 10
-number of fails:     1
-fails percent:       10%

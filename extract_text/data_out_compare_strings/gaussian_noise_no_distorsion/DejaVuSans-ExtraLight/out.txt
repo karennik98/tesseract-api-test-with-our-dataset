@@ -1,8 +1,0 @@
-jpg file:  ../data/gaussian_noise_no_distorsion/DejaVuSans-ExtraLight/2.jpg
-text file: ../data/gaussian_noise_no_distorsion/DejaVuSans-ExtraLight/2.txt
-ocr out:   կոտրվում ուղեգրեր Ձյունիկը ՆՐԱՆԻՑ՝ ԹԵՐԱԿՂԶԻ
-text out:  կոտրվում ուղեգրեր Ձյունիկը ՆՐԱՆԻՑ` ԹԵՐԱԿՂԶԻ
-
-number of all files: 10
-number of fails:     1
-fails percent:       10%

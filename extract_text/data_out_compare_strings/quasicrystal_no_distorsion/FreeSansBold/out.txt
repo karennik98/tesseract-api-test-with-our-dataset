@@ -1,8 +1,0 @@
-jpg file:  ../data/quasicrystal_no_distorsion/FreeSansBold/3.jpg
-text file: ../data/quasicrystal_no_distorsion/FreeSansBold/3.txt
-ocr out:   Բենին բացթողումները գիտաշխատող տանելի էեցնելով
-text out:  Բենին բացթողումները գիտաշխատող տանելի լեցնելով
-
-number of all files: 10
-number of fails:     1
-fails percent:       10%

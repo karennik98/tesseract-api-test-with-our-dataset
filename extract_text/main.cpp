@@ -24,24 +24,59 @@ std::vector<std::string> get_subdisr(const std::string &dir) {
 }
 
 std::map<std::string, std::string> get_folder_data(std::string dir) {
-    std::vector<std::string> temp_data;
+    std::vector<std::string> all_files;
+    std::map<std::string, std::string> data;
     for (const auto &entry: fs::directory_iterator(dir)) {
-        temp_data.emplace_back(entry.path());
+        all_files.emplace_back(entry.path());
     }
 
-    std::map<std::string, std::string> data;
-    for(auto& el : temp_data) {
-        if( size_t dot_pos = el.find(img_ext); dot_pos != std::string::npos) {
-            if(data.find(el) == data.end()) {
-                size_t slash_pos = el.find_last_of("/");
-                size_t end_pos = dot_pos - slash_pos - 1;
-                std::string name = el.substr(++slash_pos, end_pos);
-                for(auto& el_j : temp_data) {
-                    if(el_j.find(name + file_ext) != std::string::npos) {
-                        data[el] = el_j;
+    for(auto el = all_files.begin(); el != all_files.end(); el ++) {
+        std::string image, file;
+        auto slash_pos = el->find_last_of('/');
+        auto file_full_name = el->substr(slash_pos + 1, el->size());
+
+        if(file_full_name.find(img_ext) != std::string::npos) {
+            image = *el;
+            all_files.erase(el);
+        } else if(file_full_name.find(file_ext) != std::string::npos) {
+            file = *el;
+            all_files.erase(el);
+        } else {
+            std::cout<<"[DEBUG]: INVALID FILE\n";
+        }
+
+        auto name = file_full_name.substr(0, file_full_name.find_first_of('.'));
+
+        for( auto el_j = all_files.begin(); el_j != all_files.end(); ++el_j) {
+            auto slash_pos_j = el_j->find_last_of('/');
+            auto file_full_name_j = el_j->substr(slash_pos_j + 1, el_j->size());
+            auto name_j = file_full_name_j.substr(0, file_full_name_j.find_first_of('.'));
+            if(name == name_j) {
+                if (image.empty()) {
+                    std::string full = name + img_ext;
+                    if (el_j->find(full) != std::string::npos) {
+                        image = *el_j;
+                        all_files.erase(el_j);
                     }
+                } else if (file.empty()) {
+                    std::string full = name + file_ext;
+                    if (el_j->find(full) != std::string::npos) {
+                        file = *el_j;
+                        all_files.erase(el_j);
+                    }
+                } else {
+                    std::cout << "[ERROR]: INVALID FILE\n";
+                }
+                if (!image.empty() && !file.empty()) {
+                    break;
                 }
             }
+        }
+
+        if(!image.empty() && !file.empty()) {
+            data.insert({image, file});
+        } else {
+            std::cout<<"[ERROR]: INVALID FILES\n";
         }
     }
 

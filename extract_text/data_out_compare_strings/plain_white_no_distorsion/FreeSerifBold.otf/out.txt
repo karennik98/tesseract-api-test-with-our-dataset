@@ -1,8 +1,0 @@
-jpg file:  ../data/plain_white_no_distorsion/FreeSerifBold.otf/0.jpg
-text file: ../data/plain_white_no_distorsion/FreeSerifBold.otf/0.txt
-ocr out:   Կարմիրաղբյուրի ԽՄԲԵՐԸ՝ ԸՆԴԱՐՁԱԿՎՈՒՄ սիլիցիում ձե
-text out:  Կարմիրաղբյուրի ԽՄԲԵՐԸ` ԸՆԴԱՐՁԱԿՎՈՒՄ սիլիցիում ձե
-
-number of all files: 10
-number of fails:     1
-fails percent:       10%

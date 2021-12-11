@@ -1,5 +1,0 @@
-jpg file:  ../data/quasicrystal_no_distorsion/NotoSansArmenian-Medium/0.jpg
-text file: ../data/quasicrystal_no_distorsion/NotoSansArmenian-Medium/0.txt
-ocr out:   ԸԱՎԱՍՏԱԳՐԻ ՖԱՅՏՈՆ շքանշանը ջոկատայինները պարէնտերալ
-text out:  ՀԱՎԱՍՏԱԳՐԻ ՖԱՅՏՈՆ շքանշանը ջոկատայինները պարէնտերալ
-
