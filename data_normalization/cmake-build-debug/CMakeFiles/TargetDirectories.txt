@@ -1,0 +1,3 @@
+/home/karen/master-ocr/tesseract-api-test-with-our-dataset/data_normalization/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/karen/master-ocr/tesseract-api-test-with-our-dataset/data_normalization/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/karen/master-ocr/tesseract-api-test-with-our-dataset/data_normalization/cmake-build-debug/CMakeFiles/data_normalization.dir
