@@ -10,7 +10,7 @@
 namespace fs = std::experimental::filesystem;
 
 
-static const std::string img_ext = ".tif";
+static const std::string img_ext = ".jpg";
 static const std::string file_ext = ".gt.txt";
 
 using data_t = std::vector<std::pair<std::string, std::pair<std::string, std::map<std::string, std::string>>>>;
@@ -40,9 +40,14 @@ std::map<std::string, std::string> get_folder_data(const std::string& dir) {
                 size_t end_pos = dot_pos - slash_pos - 1;
                 std::string name = el.substr(++slash_pos, end_pos);
                 for(auto& el_j : temp_data) {
-                    if(el_j.find(name + file_ext) != std::string::npos) {
+                    if(fs::path(el_j).filename() == name + file_ext) {
                         data[el] = el_j;
+                        break;
                     }
+//                    if(el_j.find("/" + name + file_ext) != std::string::npos) {
+//                        data[el] = el_j;
+//                        break;
+//                    }
                 }
             }
         }
@@ -99,7 +104,7 @@ int main(int argc, char** argv) {
         }
     }
 
-    // print_data(data);
+     print_data(data);
 
     rename_and_copy(data, argv[2]);
     return 0;
