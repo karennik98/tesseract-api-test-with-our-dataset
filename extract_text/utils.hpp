@@ -3,13 +3,13 @@
 
 using namespace OpenXLSX;
 
-inline void write_xlsx(const std::string& file_name, const std::vector<std::pair<std::string, std::vector<std::pair<std::string, float>>>> data) {
+inline void write_xlsx(const std::string& file_name, const std::vector<std::pair<std::string, std::vector<std::pair<std::string, std::pair<float, float>>>>> data) {
     XLDocument doc;
     doc.create(file_name);
     auto wks = doc.workbook().worksheet("Sheet1");
     std::vector<std::string> data_types;
     std::vector<std::string> fonts;
-    std::vector<std::vector<float>> wers;
+    std::vector<std::vector<std::pair<float,float>>> wers;
 
     for(const auto& el_i : data) {
         data_types.push_back(el_i.first);
@@ -21,9 +21,9 @@ inline void write_xlsx(const std::string& file_name, const std::vector<std::pair
         break;
     }
     for(const auto& el_i : data) {
-        std::vector<float> tmp;
+        std::vector<std::pair<float, float>> tmp;
         for(const auto & el_j : el_i.second) {
-            tmp.push_back(el_j.second);
+            tmp.push_back(std::make_pair(el_j.second.first, el_j.second.second));
         }
         wers.push_back(tmp);
     }
@@ -42,7 +42,9 @@ inline void write_xlsx(const std::string& file_name, const std::vector<std::pair
     int c = 2;
     for(int i = 0; i < wers.size(); ++i) {
         for(int j = 0; j < wers[i].size(); ++j) {
-            wks.cell(k, c+j).value() = wers[i][j];
+            auto wer_str = std::to_string(wers[i][j].first);
+            auto cer_str = std::to_string(wers[i][j].second);
+            wks.cell(k, c+j).value() = wer_str + ", " + cer_str;
         }
         k++;
     }
