@@ -17,7 +17,7 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/output)
 
 add_subdirectory(OpenXLSX)
 
-add_executable(${PROJECT_NAME} main.cpp wer.hpp utils.hpp)
+add_executable(${PROJECT_NAME} main.cpp wer.hpp utils.hpp cer.hpp levenshtein.cpp)
 
 target_link_libraries(${PROJECT_NAME} stdc++fs)
 target_link_libraries(${PROJECT_NAME} pthread curl)

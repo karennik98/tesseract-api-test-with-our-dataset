@@ -11,8 +11,8 @@
 
 namespace fs = std::experimental::filesystem;
 
-static const std::string img_ext = ".jpg";
-static const std::string file_ext = ".txt";
+static const std::string img_ext = ".tif";
+static const std::string file_ext = ".gt.txt";
 
 std::vector<std::string> get_subdisr(const std::string &dir) {
     std::vector<std::string> r;
@@ -54,7 +54,7 @@ std::string get_ocr_out(const std::string& image_path ) {
     tesseract::TessBaseAPI *api = new tesseract::TessBaseAPI();
 
     // Initialize tesseract-ocr with English, without specifying tessdata path
-    if (api->Init("", "arm")) {
+    if (api->Init("", "hye")) {
         fprintf(stderr, "Could not initialize tesseract.\n");
         exit(1);
     }
@@ -95,16 +95,17 @@ bool check(std::string str1, std::string str2) {
     std::cout<<std::endl;
     return str1 == str2;
 }
+#include "cer.hpp"
 
 int main(int argc, char *argv[]) {
     setenv("TESSDATA_PREFIX","../../",1);
     std::vector<std::pair<std::string, std::vector<std::string>>> all_dirs;
-    std::vector<std::pair<std::string, std::vector<std::pair<std::string, float>>>> sheet_out;
+    std::vector<std::pair<std::string, std::vector<std::pair<std::string, std::pair<float, float>>>>> sheet_out;
 
     auto dirs = get_subdisr(argv[1]);
     for (const auto &dir_i: dirs) {
         auto dirs_j = get_subdisr(dir_i);
-        std::vector<std::pair<std::string, float>> sheet_it;
+        std::vector<std::pair<std::string, std::pair<float, float>>> sheet_it;
         sheet_out.push_back(std::make_pair(dir_i.substr(dir_i.find_last_of('/')+1), sheet_it));
         all_dirs.push_back(std::make_pair(dir_i, dirs_j));
     }
@@ -168,6 +169,7 @@ int main(int argc, char *argv[]) {
             file_orig.close();
 
             float wer_val = wer_on_text(orig_file, ocr_file);
+            float cer_val = cer_on_text(orig_file, ocr_file);
             file_out << "WER: "<<wer_val<<std::endl<<std::endl;
             file_out << "WER: "<<wer_val * 100 <<"%"<<std::endl;
 
@@ -175,7 +177,7 @@ int main(int argc, char *argv[]) {
                 if(el_i.first.substr(el_i.first.find_last_of('/')+1) == sheet_out[i].first) {
 //                    std::cout<<el_i.second.first.substr(el_i.second.first.find_last_of('/') + 1)<<" : "<<int(wer_val*100)<<std::endl;
                     sheet_out[i].second.push_back(std::make_pair(el_i.second.first.substr(el_i.second.first.find_last_of('/') + 1),
-                                                                 int(wer_val*100)));
+                                                                 std::make_pair(int(wer_val*100), cer_val)));
                 }
             }
 
